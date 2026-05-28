@@ -26,6 +26,15 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - <a href="https://www.ncbi.nlm.nih.gov/books/NBK566046/">WHO 2020</a> - Physical Activity Guidelines: internationale Basisempfehlungen für Ausdauer, Kraft und Sitzen.
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9289978/">Paluch et al. 2022</a> - tägliche Schritte und Gesamtsterblichkeit: Meta-Analyse aus 15 internationalen Kohorten.
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8365695/">Beaulieu et al. 2021</a> - Exercise Training, Energieaufnahme und Appetitkontrolle bei Erwachsenen mit Übergewicht oder Adipositas.
+- <a href="https://jamanetwork.com/journals/jama/fullarticle/1108396">Kodama et al. 2009</a> - kardiorespiratorische Fitness als quantitativer Prädiktor für Gesamtsterblichkeit und kardiovaskuläre Ereignisse.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/27881567/">Ross et al. 2016</a> - AHA Scientific Statement: kardiorespiratorische Fitness als klinisch wichtiger Gesundheitsmarker.
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8493117/">MacIntosh et al. 2021</a> - Einordnung moderater und intensiver Belastung über Laktat- und Ventilationsschwellen.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/40560504/">Storoschuk et al. 2025</a> - narrative Review zur Evidenz und Begrenzung von Zone-2-Training.
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11787188/">Mølmen et al. 2025</a> - systematische Review und Meta-Regression zu Mitochondrien, Kapillarisierung und VO2max durch Ausdauer-, HIIT- und Sprintintervalle.
+- <a href="https://www.sciencedirect.com/science/article/abs/pii/S1440244018309198">Wen et al. 2019</a> - Meta-Analyse zu HIIT-Protokollen und VO2max-Verbesserungen.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/17414804/">Helgerud et al. 2007</a> - 4x4-Intervalle und andere Ausdauerintensitäten im Vergleich für VO2max.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/20100740/">Little et al. 2010</a> - praktikables Low-Volume-HIIT mit 60-Sekunden-Intervallen und mitochondrialen Anpassungen.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/8897392/">Tabata et al. 1996</a> - klassisches 20/10-Intervallprotokoll und Effekte auf anaerobe Kapazität und VO2max.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/19204579/">ACSM 2009</a> - Progression Models in Resistance Training: Grundlagen zur Progression im Krafttraining.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/21694556/">Garber et al. 2011</a> - ACSM-Position-Stand zu Ausdauer, Kraft, Flexibilität und neuromotorischem Training.
 - <a href="https://www.nsca.com/about-us/position-statements/">NSCA Position Statements</a> - Positionspapiere zu Strength &amp; Conditioning, unter anderem Gewichtheben und explosive Leistungsentwicklung.

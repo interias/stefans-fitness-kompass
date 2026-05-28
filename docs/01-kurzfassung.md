@@ -20,7 +20,7 @@ Dieser Kompass ist kein Plan für perfekte Wochen, sondern ein Entscheidungsrahm
 
 6. **Training muss hart genug, aber steuerbar sein.** Progression, saubere Technik, Reps in Reserve, sinnvolle Satzpausen und ein Trainingslog sind wichtiger als jedes Mal maximale Erschöpfung. Drop-Sätze, EMOMs und Supersätze können funktionieren, sind aber Werkzeuge und kein Pflichtprogramm.
 
-7. **Gesundheit und Regeneration sind Teil des Plans.** Schlaf, Ausdauer, Alltagsbewegung, Stressmanagement, Schmerzsignale und medizinische Basischecks sind keine Nebenthemen. Sie bestimmen, wie gut Ernährung und Training langfristig umsetzbar bleiben (<a href="https://www.ncbi.nlm.nih.gov/books/NBK566046/">WHO 2020</a>; <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4434546/">AASM/SRS 2015</a>).
+7. **Gesundheit und Regeneration sind Teil des Plans.** Schlaf, Ausdauer, Alltagsbewegung, Stressmanagement, Schmerzsignale und medizinische Basischecks sind keine Nebenthemen. Gezieltes Cardio verbessert kardiorespiratorische Fitness; VO2max ist dabei ein nützlicher, aber nicht allein entscheidender Marker (<a href="https://www.ncbi.nlm.nih.gov/books/NBK566046/">WHO 2020</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/27881567/">Ross et al. 2016</a>; <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4434546/">AASM/SRS 2015</a>).
 
 8. **Langlebigkeit ist die Summe großer vermeidbarer Risiken.** Rauchen, hoher Blutdruck, viszerales Fett, Alkohol, Bewegungsmangel, schlechter Schlaf und verpasste Vorsorge sind größere Hebel als die meisten kleinen Optimierungen. Kohorten und offizielle Gesundheitsquellen zeigen: mehrere gute Lebensstilfaktoren zusammen sind mit deutlich mehr Lebenszeit und gesunder Lebenszeit verbunden (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6207481/">Li et al. 2018</a>; <a href="https://www.bmj.com/content/368/bmj.l6669">Li et al. 2020</a>).
 
@@ -36,7 +36,7 @@ Dieser Kompass ist kein Plan für perfekte Wochen, sondern ein Entscheidungsrahm
 - Pro Hauptmahlzeit eine klare Proteinquelle einbauen.
 - Obst, Gemüse, Vollkorn, Hülsenfrüchte oder Kartoffeln täglich zur Basis machen.
 - Den 7-Tage-Gewichtstrend statt einzelne Wiegetage bewerten.
-- Ausdauer und Alltagsbewegung regelmäßig einbauen, ohne jede Einheit maximal hart zu machen.
+- Ausdauer und Alltagsbewegung regelmäßig einbauen: meist locker, bei stabiler Basis optional gezielte Intervalle.
 - Schlaf und Stress wie echte Trainingsfaktoren behandeln.
 - Blutdruck, Taillenumfang, Vorsorge und Impfstatus nicht dauerhaft aufschieben.
 - Bei Diät oder Aufbau wenige Kennzahlen tracken, bis die Richtung klar ist.
