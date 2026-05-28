@@ -1,7 +1,7 @@
 # fitness-kompass-gewohnheiten-systeme.png
 
 Target path: `assets/visuals/fitness-kompass-gewohnheiten-systeme.png`  
-Markdown file: `docs/07-gewohnheiten-alltag.md`  
+Markdown file: `docs/08-gewohnheiten-alltag.md`
 Recommended size: 2400x600 px, aspect ratio 4:1
 
 ## Prompt

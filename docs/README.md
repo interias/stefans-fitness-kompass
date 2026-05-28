@@ -11,20 +11,21 @@ Diese README dient als Einstieg in die Kapitel des Fitness-Kompasses. Sie ersetz
 | [01 Kurzfassung](01-kurzfassung.md) | wichtigste Grundsätze und minimaler Startpunkt | schneller Überblick, wenn nur die robusten Hebel zählen |
 | [02 Quellenbewertung](02-quellenbewertung.md) | Hierarchie von Quellen, Prüffragen und Formulierungsregeln | Aussagen einordnen und fragwürdige Empfehlungen prüfen |
 | [03 Ernährung](03-ernaehrung.md) | Kalorienbilanz, Protein, Pflanzen, Getränke, Tracking und Supplements | alltagstaugliche Ernährung strukturieren |
-| [04 Training](04-training.md) | Krafttraining, Progression, Technik, Cardio, Regeneration und Wochenstruktur | Training planen und steuerbar halten |
-| [05 Gesundheit und Schlaf](05-gesundheit-schlaf.md) | Schlaf, Alltagsbewegung, Stress und medizinische Basis | Gesundheitshebel priorisieren, bevor Details optimiert werden |
-| [06 Langlebigkeit und Risikofaktoren](06-langlebigkeit-risiken.md) | beeinflussbare Risiken, Taille, Körpergewicht und Krebsrisiken | langfristige Prioritäten nüchtern einordnen |
-| [07 Gewohnheiten, Alltag und Wochencheck](07-gewohnheiten-alltag.md) | Systeme, Mindestversionen und Wochen-Checkliste | Umsetzung wiederholbar machen |
-| [08 YouTube- und Coachquellen](08-youtube-coachquellen.md) | praxisnahe Kanäle mit Grenzen der Einordnung | Coach-Inhalte als Praxisquelle nutzen, nicht als Primärbeleg |
-| [09 Fazit](09-fazit.md) | verdichtete Schlussfolgerung | den roten Faden erneut prüfen |
-| [10 Quellen](10-quellen.md) | zentrale Belege und thematische Quellenordnung | Aussagen nachlesen und Evidenzbasis prüfen |
-| [11 Über dieses Dokument](11-ueber-dieses-dokument.md) | Ziel, Grenzen und Pflege des Kompasses | Geltungsbereich und Anspruch verstehen |
+| [04 Krafttraining](04-krafttraining.md) | Progression, Technik, Hypertrophie, Split-Programme und Wochenstruktur | Krafttraining planen und steuerbar halten |
+| [05 Ausdauertraining](05-ausdauertraining.md) | Cardio, Mitochondrien, VO2max, Zone 2 und HIIT | Ausdauer gezielt und dosiert ergänzen |
+| [06 Gesundheit und Schlaf](06-gesundheit-schlaf.md) | Schlaf, Alltagsbewegung, Stress und medizinische Basis | Gesundheitshebel priorisieren, bevor Details optimiert werden |
+| [07 Langlebigkeit und Risikofaktoren](07-langlebigkeit-risiken.md) | beeinflussbare Risiken, Taille, Körpergewicht und Krebsrisiken | langfristige Prioritäten nüchtern einordnen |
+| [08 Gewohnheiten, Alltag und Wochencheck](08-gewohnheiten-alltag.md) | Systeme, Mindestversionen und Wochen-Checkliste | Umsetzung wiederholbar machen |
+| [09 YouTube- und Coachquellen](09-youtube-coachquellen.md) | praxisnahe Kanäle mit Grenzen der Einordnung | Coach-Inhalte als Praxisquelle nutzen, nicht als Primärbeleg |
+| [10 Fazit](10-fazit.md) | verdichtete Schlussfolgerung | den roten Faden erneut prüfen |
+| [11 Quellen](11-quellen.md) | zentrale Belege und thematische Quellenordnung | Aussagen nachlesen und Evidenzbasis prüfen |
+| [12 Über dieses Dokument](12-ueber-dieses-dokument.md) | Ziel, Grenzen und Pflege des Kompasses | Geltungsbereich und Anspruch verstehen |
 
 ## Nutzung
 
-- Für einen schnellen Einstieg: [01 Kurzfassung](01-kurzfassung.md), dann [09 Fazit](09-fazit.md).
-- Für konkrete Umsetzung: [03 Ernährung](03-ernaehrung.md), [04 Training](04-training.md), [05 Gesundheit und Schlaf](05-gesundheit-schlaf.md), [07 Gewohnheiten, Alltag und Wochencheck](07-gewohnheiten-alltag.md).
-- Für Einordnung und Belege: [02 Quellenbewertung](02-quellenbewertung.md), [08 YouTube- und Coachquellen](08-youtube-coachquellen.md), [10 Quellen](10-quellen.md), [11 Über dieses Dokument](11-ueber-dieses-dokument.md).
+- Für einen schnellen Einstieg: [01 Kurzfassung](01-kurzfassung.md), dann [10 Fazit](10-fazit.md).
+- Für konkrete Umsetzung: [03 Ernährung](03-ernaehrung.md), [04 Krafttraining](04-krafttraining.md), [05 Ausdauertraining](05-ausdauertraining.md), [06 Gesundheit und Schlaf](06-gesundheit-schlaf.md), [08 Gewohnheiten, Alltag und Wochencheck](08-gewohnheiten-alltag.md).
+- Für Einordnung und Belege: [02 Quellenbewertung](02-quellenbewertung.md), [09 YouTube- und Coachquellen](09-youtube-coachquellen.md), [11 Quellen](11-quellen.md), [12 Über dieses Dokument](12-ueber-dieses-dokument.md).
 
 ## Geltungsbereich
 

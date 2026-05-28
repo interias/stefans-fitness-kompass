@@ -1,7 +1,7 @@
 # fitness-kompass-coachquellen-einordnung.png
 
 Target path: `assets/visuals/fitness-kompass-coachquellen-einordnung.png`  
-Markdown file: `docs/08-youtube-coachquellen.md`  
+Markdown file: `docs/09-youtube-coachquellen.md`
 Recommended size: 2400x600 px, aspect ratio 4:1
 
 ## Prompt

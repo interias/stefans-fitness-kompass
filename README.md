@@ -49,14 +49,15 @@ Wenn du nur eine Seite lesen willst, starte mit der [Kurzfassung](docs/01-kurzfa
 | [01 Kurzfassung](docs/01-kurzfassung.md) | Kernideen, Minimalstart und wichtigste Botschaften. |
 | [02 Quellenbewertung](docs/02-quellenbewertung.md) | Regeln zur Bewertung von Leitlinien, Reviews, Coaches und Influencer-Content. |
 | [03 Ernährung](docs/03-ernaehrung.md) | Kalorienbilanz, Protein, Lebensmittelauswahl, Tracking, Diät, Aufbau und Supplements. |
-| [04 Training](docs/04-training.md) | Progression, mTORC1/Hypertrophie, Kraft, Explosivität, Mobilität, Split-Programme und Wochenstruktur. |
-| [05 Gesundheit und Schlaf](docs/05-gesundheit-schlaf.md) | Schlaf, Alltagsbewegung, Stress, Schmerzsignale und medizinische Basis. |
-| [06 Langlebigkeit und Risikofaktoren](docs/06-langlebigkeit-risiken.md) | Große Gesundheitshebel, Risikostatistiken, Krebsrisiken und Prävention. |
-| [07 Gewohnheiten und Alltag](docs/07-gewohnheiten-alltag.md) | 1%-Methode, Systeme, Entscheidungsregeln und Wochen-Checkliste. |
-| [08 YouTube- und Coachquellen](docs/08-youtube-coachquellen.md) | Praktische Einordnung von Kanälen und Coaches. |
-| [09 Fazit](docs/09-fazit.md) | Kompakte Zusammenfassung der robusten Strategie. |
-| [10 Quellen](docs/10-quellen.md) | Thematisch sortierte Quellenliste. |
-| [11 Über dieses Dokument](docs/11-ueber-dieses-dokument.md) | Stand, Autor, Geltungsbereich, Hinweis und Lizenzdetails. |
+| [04 Krafttraining](docs/04-krafttraining.md) | Progression, mTORC1/Hypertrophie, Technik, RIR, Split-Programme und Wochenstruktur. |
+| [05 Ausdauertraining](docs/05-ausdauertraining.md) | Cardio, Mitochondrien, VO2max, Zone 2, HIIT und Intensitätsmix. |
+| [06 Gesundheit und Schlaf](docs/06-gesundheit-schlaf.md) | Schlaf, Alltagsbewegung, Stress, Schmerzsignale und medizinische Basis. |
+| [07 Langlebigkeit und Risikofaktoren](docs/07-langlebigkeit-risiken.md) | Große Gesundheitshebel, Risikostatistiken, Krebsrisiken und Prävention. |
+| [08 Gewohnheiten und Alltag](docs/08-gewohnheiten-alltag.md) | 1%-Methode, Systeme, Entscheidungsregeln und Wochen-Checkliste. |
+| [09 YouTube- und Coachquellen](docs/09-youtube-coachquellen.md) | Praktische Einordnung von Kanälen und Coaches. |
+| [10 Fazit](docs/10-fazit.md) | Kompakte Zusammenfassung der robusten Strategie. |
+| [11 Quellen](docs/11-quellen.md) | Thematisch sortierte Quellenliste. |
+| [12 Über dieses Dokument](docs/12-ueber-dieses-dokument.md) | Stand, Autor, Geltungsbereich, Hinweis und Lizenzdetails. |
 
 ## Lizenz
 

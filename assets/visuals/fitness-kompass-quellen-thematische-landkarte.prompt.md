@@ -1,7 +1,7 @@
 # fitness-kompass-quellen-thematische-landkarte.png
 
 Target path: `assets/visuals/fitness-kompass-quellen-thematische-landkarte.png`
-Markdown file: `docs/10-quellen.md`
+Markdown file: `docs/11-quellen.md`
 Recommended size: 1600x900 px, aspect ratio 16:9
 
 ## Prompt

@@ -1,4 +1,4 @@
-# 08 YouTube- und Coachquellen
+# 09 YouTube- und Coachquellen
 
 <p align="center">
   <img src="../assets/visuals/fitness-kompass-coachquellen-einordnung.png" alt="Fitness-Kompass Coachquellen Einordnung" width="100%">
@@ -12,7 +12,7 @@ YouTube ist hier als Praxis- und Einordnungsquelle gedacht, nicht als Primärque
 
 *Abbildung: Coach-Content ist am stärksten, wenn praktische Hinweise durch Grundlagen, Quellenqualität und eigene Übertragbarkeit gefiltert werden.*
 
-## 8.1 Evidenznah und trainingsstark
+## 9.1 Evidenznah und trainingsstark
 
 **Renaissance Periodization / Dr. Mike Israetel:** stark für Hypertrophie, Trainingsvolumen, Periodisierung sowie Diät- und Muskelaufbau-Logik. Besonders nützlich für Trainingsmodelle; Ton und Detailtiefe situationsabhängig einordnen.
 
@@ -22,7 +22,7 @@ YouTube ist hier als Praxis- und Einordnungsquelle gedacht, nicht als Primärque
 
 **Sean Nalewanyj:** praxisnah für Muskelaufbau, Ernährung, Supplements und Social-Media-Mythen. Hilfreich als Gegengewicht zu Fitness-Hype.
 
-## 8.2 Deutschsprachig und praxisnah
+## 9.2 Deutschsprachig und praxisnah
 
 **Dr. Golo Röhrken | Health & Performance:** Gesundheit, Performance, Ausdauer, Übertraining und nachhaltige Leistungsfähigkeit. Gute Ergänzung zu bodybuilding-lastigen Kanälen.
 
@@ -36,7 +36,7 @@ YouTube ist hier als Praxis- und Einordnungsquelle gedacht, nicht als Primärque
 
 **Mario Müller Fitness / Coach Andy:** deutschsprachige Fitness- und Movement-Praxis. Ergänzende Praxisquellen, nicht höchste Evidenzstufe.
 
-## 8.3 Unterhaltung und Inspiration
+## 9.3 Unterhaltung und Inspiration
 
 Diese Kanäle eher für Motivation, Unterhaltung oder Ideen nutzen:
 

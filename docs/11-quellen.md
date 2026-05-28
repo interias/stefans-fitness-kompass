@@ -1,4 +1,4 @@
-# 10 Quellen
+# 11 Quellen
 
 <p align="center">
   <img src="../assets/visuals/fitness-kompass-quellenbibliothek.png" alt="Fitness-Kompass Quellenbibliothek" width="100%">
@@ -6,13 +6,9 @@
 
 Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 
-<p align="center">
-  <img src="../assets/visuals/fitness-kompass-quellen-thematische-landkarte.png" alt="Fitness-Kompass Quellen Thematische Landkarte" width="100%">
-</p>
-
 *Abbildung: Die Quellenlandschaft ist thematisch sortiert: Ernährung, Training, Gesundheit, Langlebigkeit, Gewohnheiten, Apps und Coach-Einordnung.*
 
-## 10.1 Ernährung
+## 11.1 Ernährung
 
 - <a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a> - Gut essen und trinken: zentrale Ernährungsempfehlungen für gesunde Erwachsene in Deutschland von 18 bis 65 Jahren.
 - <a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-ernaehrungskreis/">DGE 2024b</a> - Ernährungskreis: praktische Orientierung für Lebensmittelgruppen.
@@ -26,7 +22,7 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - <a href="https://www.ncbi.nlm.nih.gov/books/NBK592246/">WHO 2023</a> - Use of non-sugar sweeteners: Empfehlung und Einordnung der Evidenz.
 - <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790045">McGlynn et al. 2022</a> - Low- and no-calorie sweetened beverages als Ersatz für zuckergesüßte Getränke.
 
-## 10.2 Bewegung und Training
+## 11.2 Bewegung und Training
 
 - <a href="https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Praevention/Broschueren/Konsenspapier_Runder_Tisch.pdf">BMG o. J.</a> - Bewegungsempfehlungen: Ausdauer, Kraft und weniger Sitzen.
 - <a href="https://www.ncbi.nlm.nih.gov/books/NBK566046/">WHO 2020</a> - Physical Activity Guidelines: internationale Basisempfehlungen für Ausdauer, Kraft und Sitzen.
@@ -37,6 +33,7 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8493117/">MacIntosh et al. 2021</a> - Einordnung moderater und intensiver Belastung über Laktat- und Ventilationsschwellen.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/40560504/">Storoschuk et al. 2025</a> - narrative Review zur Evidenz und Begrenzung von Zone-2-Training.
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11787188/">Mølmen et al. 2025</a> - systematische Review und Meta-Regression zu Mitochondrien, Kapillarisierung und VO2max durch Ausdauer-, HIIT- und Sprintintervalle.
+- <a href="https://www.ncbi.nlm.nih.gov/books/NBK9896/">Cooper 2000</a> - NCBI-Bookshelf-Hintergrund zu Mitochondrien, eigener mitochondrialer DNA, Endosymbiose und Proteinimport aus dem Zellkern.
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S1440244018309198">Wen et al. 2019</a> - Meta-Analyse zu HIIT-Protokollen und VO2max-Verbesserungen.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/17414804/">Helgerud et al. 2007</a> - 4x4-Intervalle und andere Ausdauerintensitäten im Vergleich für VO2max.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/20100740/">Little et al. 2010</a> - praktikables Low-Volume-HIIT mit 60-Sekunden-Intervallen und mitochondrialen Anpassungen.
@@ -53,7 +50,7 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/37523092/">Sødal et al. 2023</a> - Drop-Sätze und Hypertrophie.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/39903375/">Zhang et al. 2025</a> - Supersätze im Vergleich zu traditionellen Sätzen.
 
-## 10.3 Langlebigkeit und Risikofaktoren
+## 11.3 Langlebigkeit und Risikofaktoren
 
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6207481/">Li et al. 2018</a> - Lifestyle-Faktoren und geschätzte Lebenserwartung in US-Kohorten.
 - <a href="https://www.bmj.com/content/368/bmj.l6669">Li et al. 2020</a> - gesunder Lebensstil und Jahre ohne Krebs, Herz-Kreislauf-Erkrankungen und Typ-2-Diabetes.
@@ -65,20 +62,20 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - <a href="https://www.cancer.gov/about-cancer/causes-prevention/risk/alcohol/alcohol-fact-sheet">NCI 2024b</a> - Alcohol and Cancer Risk Fact Sheet.
 - <a href="https://www.who.int/news/item/03-02-2026-four-in-ten-cancer-cases-could-be-prevented-globally">WHO/IARC 2026</a> - globale Schätzung vermeidbarer Krebsfälle durch modifizierbare Risikofaktoren.
 
-## 10.4 Schlaf und Gesundheit
+## 11.4 Schlaf und Gesundheit
 
 - <a href="https://gesund.bund.de/gut-schlafen">gesund.bund.de 2023</a> - Gut schlafen: verständliche Quelle zu Schlaf, Schlafbedarf und Schlafqualität.
 - <a href="https://register.awmf.org/assets/guidelines/063-003l_S3_Insomnie-bei-Erwachsenen_2025-04.pdf">AWMF/DGSM 2025</a> - S3-Leitlinie Insomnie bei Erwachsenen.
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4434546/">AASM/SRS 2015</a> - Recommended Amount of Sleep for a Healthy Adult.
 
-## 10.5 Gewohnheiten und Verhalten
+## 11.5 Gewohnheiten und Verhalten
 
 - <a href="https://www.penguin.de/buecher/james-clear-die-1-methode-minimale-veraenderung-maximale-wirkung/paperback/9783442178582">Clear dt.</a> - Die 1%-Methode: deutsche Ausgabe von *Atomic Habits*.
 - <a href="https://www.penguinrandomhouse.com/books/543993/atomic-habits-by-james-clear/9780735211292/">Clear 2018</a> - Atomic Habits: Originalausgabe.
 - <a href="https://doi.org/10.1002/ejsp.674">Lally et al. 2010</a> - How are habits formed: Studie zur Gewohnheitsbildung im Alltag.
 - <a href="https://doi.org/10.1016/S0065-2601(06)38002-1">Gollwitzer &amp; Sheeran 2006</a> - Implementation Intentions and Goal Achievement: Meta-Analyse zu Wenn-dann-Plänen.
 
-## 10.6 Sporternährung und Supplements
+## 11.6 Sporternährung und Supplements
 
 - <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a> - Protein and Exercise: Positionspapier zu Protein für trainierende Personen.
 - <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4">ISSN 2017b</a> - Nutrient Timing: Positionspapier zu Timing von Protein, Kohlenhydraten und Energiezufuhr.
@@ -86,13 +83,13 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/24864135/">Helms et al. 2014</a> - Evidence-based recommendations for natural bodybuilding contest preparation.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/17277604/">ACSM 2007</a> - Exercise and Fluid Replacement: Flüssigkeit, Elektrolyte und Kohlenhydrate während Belastung.
 
-## 10.7 Apps und Tracking-Tools
+## 11.7 Apps und Tracking-Tools
 
 - Gewichtstrend: <a href="https://play.google.com/store/apps/details?id=net.cachapa.libra">Libra</a>, <a href="https://happyscale.com/">Happy Scale</a>, <a href="https://github.com/oliexdev/openScale">openScale</a>.
 - Ernährung: <a href="https://fddb.info/">FDDB</a>, <a href="https://www.yazio.com/">YAZIO</a>, <a href="https://www.myfitnesspal.com/">MyFitnessPal</a>.
 - Training: <a href="https://www.hevyapp.com/">Hevy</a>, <a href="https://www.strong.app/">Strong</a>, <a href="https://www.fitnotesapp.com/">FitNotes</a>.
 
-## 10.8 Coach- und Kanalquellen
+## 11.8 Coach- und Kanalquellen
 
 - <a href="https://rpstrength.com/pages/team/michael-israetel">RP / Israetel</a>
 - <a href="https://www.youtube.com/@RenaissancePeriodization">RP YouTube</a>

@@ -1,4 +1,4 @@
-# 09 Fazit
+# 10 Fazit
 
 <p align="center">
   <img src="../assets/visuals/fitness-kompass-fazit-kompassroute.png" alt="Fitness-Kompass Fazit Kompassroute" width="100%">

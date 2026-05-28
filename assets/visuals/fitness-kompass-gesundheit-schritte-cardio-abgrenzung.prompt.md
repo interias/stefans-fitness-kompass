@@ -1,7 +1,7 @@
 # fitness-kompass-gesundheit-schritte-cardio-abgrenzung.png
 
 Target path: `assets/visuals/fitness-kompass-gesundheit-schritte-cardio-abgrenzung.png`
-Markdown file: `docs/05-gesundheit-schlaf.md`
+Markdown file: `docs/06-gesundheit-schlaf.md`
 Recommended size: 1600x900 px, aspect ratio 16:9
 
 ## Prompt

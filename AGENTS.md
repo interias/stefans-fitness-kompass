@@ -16,7 +16,7 @@ Dieses Repository ist ein deutschsprachiger, persoenlicher Fitness-Kompass. Aend
 - Abschnitte bevorzugt als klar geschriebene Absaetze formulieren: erst die zentrale Aussage, dann Kontext oder Grenze, dann die praktische Konsequenz.
 - Wiederholte Mini-Schemata wie `Nutzen/Grenze/Beispiele` oder `Kernaussage/Praxis` vermeiden; bei kurzen Abschnitten ist ein einzelner guter Absatz meist besser.
 - Tabellen, Listen und Checklisten nur nutzen, wenn sie Entscheidungen klarer machen.
-- Kurzbelege direkt im Text verlinken; zentrale Quellen zusaetzlich in `docs/10-quellen.md` einordnen.
+- Kurzbelege direkt im Text verlinken; zentrale Quellen zusaetzlich in `docs/11-quellen.md` einordnen.
 - Bildassets mit passender `.prompt.md` dokumentieren.
 
 ## Evidenz
