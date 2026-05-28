@@ -4,6 +4,8 @@
   <img src="../assets/visuals/fitness-kompass-gewohnheiten-systeme.png" alt="Fitness-Kompass Gewohnheiten Systeme" width="100%">
 </p>
 
+Die meisten Pläne scheitern nicht an fehlendem Wissen, sondern an Reibung im Alltag. Gute Absichten brauchen deshalb kleine, wiederholbare Systeme: klare Auslöser, einfache Mindestversionen, passende Umgebung und einen Wochencheck, der korrigiert statt bewertet.
+
 ## 8.1 Gewohnheiten und 1%-Methode
 
 Die 1%-Methode nach James Clear ist eine Denkregel: Kleine, wiederholte Verbesserungen wirken langfristig stärker als seltene radikale Neustarts. Sie ist keine exakte mathematische Gesundheitsformel, sondern ein praktisches Modell für Konsistenz (<a href="https://www.penguinrandomhouse.com/books/543993/atomic-habits-by-james-clear/9780735211292/">Clear 2018</a>).

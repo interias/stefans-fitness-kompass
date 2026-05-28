@@ -4,6 +4,8 @@
   <img src="../assets/visuals/fitness-kompass-training-progression.png" alt="Fitness-Kompass Training Progression" width="100%">
 </p>
 
+Krafttraining wird schnell kompliziert, wenn jeder Split, jede Methode und jede Übung gleich wichtig wirkt. Für den Alltag reicht ein klarerer Blick: Der Reiz muss hart genug, technisch sauber und über Wochen steigerbar sein, während Schlaf, Essen und Stress die Umsetzung tragen.
+
 ## 4.1 Regelmäßigkeit schlägt Perfektion
 
 Ein solider Plan, der 12 Monate läuft, ist besser als ein idealer Plan, der nach 3 Wochen endet. Deshalb braucht jede Trainingsphase ein Minimalziel, zum Beispiel 2 Krafttrainings pro Woche auch in stressigen Phasen.
@@ -95,12 +97,6 @@ Ein Split ist nur die Organisation der Trainingswoche. Er baut nicht automatisch
 **Auswahlregel:** 2 Trainingstage sprechen fast immer für Ganzkörper. 3 Trainingstage funktionieren gut mit Ganzkörper oder OK/UK/GK. 4 Trainingstage sind oft ideal für OK/UK oder Torso/Limbs. 5-6 Trainingstage können PPL oder Arnold-Split sinnvoll machen, wenn Schlaf, Essen und Alltag das Volumen wirklich tragen.
 
 Nicht den Split optimieren, bevor die Basics stehen. Ein mittelmäßiger Split mit sauberem Logbuch, Progression und konstanter Umsetzung schlägt einen komplizierten Split ohne verlässliche Durchführung.
-
-<p align="center">
-  <img src="../assets/visuals/fitness-kompass-training-split-wochenstruktur.png" alt="Fitness-Kompass Training Split Wochenstruktur" width="100%">
-</p>
-
-*Abbildung: Ein Split ist Wochenorganisation; er muss zu verfügbaren Trainingstagen, Ausdauer, Schlaf und Regeneration passen.*
 
 ---
 

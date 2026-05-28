@@ -1,5 +1,11 @@
 # 05 Ausdauertraining
 
+<p align="center">
+  <img src="../assets/visuals/fitness-kompass-ausdauertraining-sauerstoffroute.png" alt="Fitness-Kompass Ausdauertraining Sauerstoffroute" width="100%">
+</p>
+
+Ausdauertraining muss nicht nach Wettkampfplan aussehen. Schon ein ruhiger, wiederholbarer Mix aus lockerer Basisarbeit, langsam steigendem Umfang und wenigen harten Reizen kann Herz-Kreislauf-Fitness, Sauerstoffnutzung und Belastbarkeit verbessern. Schritte bleiben die Alltagsbasis; Ausdauertraining ist der geplante Reiz.
+
 ## 5.1 Ausdauer ergänzen
 
 Ausdauertraining verbessert Herz-Kreislauf-Fitness, Belastbarkeit, Erholung und Alltag. Es muss nicht jedes Mal hart sein. Für Erwachsene nennen die WHO-Leitlinien 150-300 Minuten moderate oder 75-150 Minuten intensive aerobe Aktivität pro Woche als robuste Gesundheitsbasis, zusätzlich zu Krafttraining (<a href="https://www.ncbi.nlm.nih.gov/books/NBK566046/">WHO 2020</a>).

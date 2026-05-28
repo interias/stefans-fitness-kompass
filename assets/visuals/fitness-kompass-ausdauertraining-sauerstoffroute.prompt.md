@@ -1,0 +1,9 @@
+# fitness-kompass-ausdauertraining-sauerstoffroute.png
+
+Target path: `assets/visuals/fitness-kompass-ausdauertraining-sauerstoffroute.png`  
+Markdown file: `docs/05-ausdauertraining.md`  
+Recommended size: 2400x600 px, aspect ratio 4:1
+
+## Prompt
+
+Create a premium wide banner image for an endurance training chapter in a personal open-source "Fitness Compass" project, aspect ratio 4:1, 2400x600 px. Scene: a refined cardio compass on a clean training-and-map surface, blending a compass rose with a calm running/cycling route, oxygen-flow arcs, heart-and-lung line motifs, subtle capillary/mitochondria geometry, and a controlled intensity curve. The visual should communicate aerobic base, VO2max, oxygen uptake and use, repeatable endurance training, and a measured mix of easy volume plus a few hard intervals. Style: high-end editorial illustration mixed with realistic 3D detail, sophisticated and calm, evidence-based and practical, not flashy. Clean GitHub documentation banner aesthetic. Soft natural morning light, crisp shadows, refined paper/map texture, brushed metal, matte rubber, glass, and precise linework. Composition: cardio compass slightly left of center, route and oxygen arcs moving gently toward the right with clean negative space for a chapter title overlay. Color palette: deep teal, slate, warm white, muted green, subtle oxygen blue, neutral steel, and a small red accent on the compass needle or one interval marker. Critical no-text constraint: no written words, no letters, no numbers, no labels, no pseudo-text, no logos, and no watermarks. Avoid neon colors, dark gym cliches, stock-photo runners, exaggerated muscles, supplement products, scales, before-after imagery, aggressive endurance marketing, clutter, UI elements, readable text, brand names, and people posing.

@@ -4,6 +4,8 @@
   <img src="../assets/visuals/fitness-kompass-regeneration-schlaf.png" alt="Fitness-Kompass Regeneration Schlaf" width="100%">
 </p>
 
+Gesundheit ist der Teil des Plans, der selten laut wirkt, aber fast alles mitträgt. Schlaf, Alltagsbewegung, Stress, Schmerzen und medizinische Basischecks entscheiden oft darüber, ob Training und Ernährung stabil bleiben oder immer wieder aus dem Tritt geraten.
+
 ## 6.1 Schlaf als Haupthebel behandeln
 
 Schlafmangel beeinträchtigt körperliche und geistige Leistungsfähigkeit, Psyche, Hungerregulation und Regeneration (<a href="https://gesund.bund.de/gut-schlafen">gesund.bund.de 2023</a>). Gesunde Erwachsene sollten regelmäßig 7 oder mehr Stunden schlafen (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4434546/">AASM/SRS 2015</a>); der individuelle Bedarf variiert. Entscheidend ist, ob man tagsüber erholt und leistungsfähig ist (<a href="https://gesund.bund.de/gut-schlafen">gesund.bund.de 2023</a>).

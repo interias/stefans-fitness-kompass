@@ -31,12 +31,6 @@ Influencer-Content kann Ideen, Unterhaltung und Motivation liefern. Fachliche Au
 - **Interessenkonflikte:** Gibt es Produktverkauf, Sponsoring, politische Ziele oder starke Markenbindung?
 - **Praxisübertragbarkeit:** Passt die Empfehlung zu Alltag, Trainingsstand, Ziel und Risiko?
 
-<p align="center">
-  <img src="../assets/visuals/fitness-kompass-quellen-prueffragen-matrix.png" alt="Fitness-Kompass Quellen Prueffragen Matrix" width="100%">
-</p>
-
-*Abbildung: Gute Quellenprüfung verbindet Evidenzqualität, Aktualität, Zielgruppe, Interessenkonflikte und Übertragbarkeit statt nur einen einzelnen Eindruck zu bewerten.*
-
 ## 2.6 Formulierungen
 
 - **"Empfohlen"** bedeutet: durch eine aktuelle, nachvollziehbare Quelle gestützt und mit dem groben Fachkonsens vereinbar.

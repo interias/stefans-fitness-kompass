@@ -4,17 +4,13 @@
   <img src="../assets/visuals/fitness-kompass-ernaehrung-teller-balance.png" alt="Fitness-Kompass Ernaehrung Teller Balance" width="100%">
 </p>
 
+Ernährung muss im Alltag funktionieren, nicht nur in einer App oder auf einem perfekten Wochenplan. Gute Entscheidungen werden leichter, wenn die groben Hebel klar sind: Kalorienbilanz, genug Protein, ballaststoffreiche Lebensmittel, passende Kohlenhydrate, einfache Getränkeentscheidungen und ein flexibler Umgang mit Tracking.
+
 ## 3.1 Kalorienbilanz steuert den Gewichtstrend
 
 Körpergewicht verändert sich langfristig vor allem über die Energiebilanz. Einzelne Lebensmittel sind selten das Hauptproblem; Menge, Regelmäßigkeit und Umgebung zählen stärker.
 
 Tageswerte sind dafür zu laut. Aussagekräftiger sind der 7-Tage-Gewichtstrend und die Entwicklung über 2-4 Wochen.
-
-<p align="center">
-  <img src="../assets/visuals/fitness-kompass-ernaehrung-energiebilanz-trend.png" alt="Fitness-Kompass Ernaehrung Energiebilanz Trend" width="100%">
-</p>
-
-*Abbildung: Die Energiebilanz wirkt über wiederholte Tage; der Gewichtstrend ist wichtiger als einzelne Ausschläge.*
 
 ## 3.2 Protein absichern
 
@@ -87,12 +83,6 @@ Nach dem Training reicht meist eine normale Mahlzeit aus Protein plus Kohlenhydr
 
 Ein zwingendes 30-Minuten-Fenster gibt es für normale Krafttrainingseinheiten nicht, wenn Tageskalorien und Tagesprotein passen. Je höher Trainingsvolumen, Ausdaueranteil und Einheitenfrequenz sind, desto wichtiger wird gezieltes Carb-Timing (<a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4">ISSN 2017b</a>; <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a>).
 
-<p align="center">
-  <img src="../assets/visuals/fitness-kompass-ernaehrung-carb-timing-training.png" alt="Fitness-Kompass Ernaehrung Carb Timing Training" width="100%">
-</p>
-
-*Abbildung: Kohlenhydrate werden umso wichtiger, je länger, intensiver oder häufiger trainiert wird; im normalen Krafttraining reicht oft die Tagesstruktur.*
-
 ## 3.8 Fettqualität verbessern
 
 Fette sind wichtig für Zellfunktionen, Hormonsystem und Sättigung. Entscheidend ist vor allem die Qualität und der Kontext der Ernährung. Rapsöl, Olivenöl, Nüsse, Samen, Avocado und Fisch sind gute Basisquellen; frittierte Snacks, Süßwaren und stark verarbeitete Fett-Zucker-Kombinationen sollten nicht die Basis sein.
@@ -162,12 +152,6 @@ Je schlanker, sportlicher oder leistungsorientierter jemand ist, desto konservat
 - Wenn Bauchumfang schnell steigt, aber Trainingsleistung kaum besser wird: Überschuss prüfen.
 
 Ziel ist nicht maximale Gewichtszunahme, sondern messbarer Trainingsfortschritt bei kontrollierter Körperfettzunahme.
-
-<p align="center">
-  <img src="../assets/visuals/fitness-kompass-ernaehrung-diaet-aufbau-korridor.png" alt="Fitness-Kompass Ernaehrung Diaet Aufbau Korridor" width="100%">
-</p>
-
-*Abbildung: Diät und Aufbau funktionieren besser als kontrollierte Korridore: moderates Defizit oder kleiner Überschuss, nicht extremes Pendeln.*
 
 ### 3.11.6 Supplements
 
