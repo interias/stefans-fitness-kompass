@@ -6,13 +6,19 @@
 
 ## 3.1 Kalorienbilanz steuert den Gewichtstrend
 
-**Kernaussage:** Körpergewicht verändert sich langfristig vor allem über die Energiebilanz. Einzelne Lebensmittel sind selten das Hauptproblem; Menge, Regelmäßigkeit und Umgebung zählen stärker.
+Körpergewicht verändert sich langfristig vor allem über die Energiebilanz. Einzelne Lebensmittel sind selten das Hauptproblem; Menge, Regelmäßigkeit und Umgebung zählen stärker.
 
-**Praxis:** Tageswerte nicht überbewerten. Aussagekräftiger sind 7-Tage-Gewichtstrend und Entwicklung über 2-4 Wochen.
+Tageswerte sind dafür zu laut. Aussagekräftiger sind der 7-Tage-Gewichtstrend und die Entwicklung über 2-4 Wochen.
+
+<p align="center">
+  <img src="../assets/visuals/fitness-kompass-ernaehrung-energiebilanz-trend.png" alt="Fitness-Kompass Ernaehrung Energiebilanz Trend" width="100%">
+</p>
+
+*Abbildung: Die Energiebilanz wirkt über wiederholte Tage; der Gewichtstrend ist wichtiger als einzelne Ausschläge.*
 
 ## 3.2 Protein absichern
 
-**Kernaussage:** Für gesunde Erwachsene von 19 bis unter 65 Jahren nennt die DGE 0,8 g Protein pro kg Körpergewicht und Tag als Referenzwert; für gesunde, normalgewichtige Menschen ab 65 Jahren nennt sie 1,0 g/kg/Tag als Schätzwert (<a href="https://www.dge.de/presse/meldungen/2020/positionspapier-zur-proteinzufuhr-im-sport/">DGE 2020</a>). Diese Werte sind als Basisabsicherung für die allgemeine Bevölkerung zu verstehen, nicht als optimale Zielwerte für Krafttraining, Diät, Muskelaufbau, hohe Sättigung oder bestmöglichen Muskelerhalt. Bei Sportlerinnen und Sportlern mit mehr als 5 Stunden Training pro Woche empfiehlt die DGE je nach Ziel und Trainingszustand 1,2-2,0 g/kg/Tag (<a href="https://www.dge.de/presse/meldungen/2020/positionspapier-zur-proteinzufuhr-im-sport/">DGE 2020</a>). Die ISSN nennt für die meisten trainierenden Personen 1,4-2,0 g/kg/Tag als sinnvollen Bereich (<a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a>).
+Für gesunde Erwachsene von 19 bis unter 65 Jahren nennt die DGE 0,8 g Protein pro kg Körpergewicht und Tag als Referenzwert; für gesunde, normalgewichtige Menschen ab 65 Jahren nennt sie 1,0 g/kg/Tag als Schätzwert (<a href="https://www.dge.de/presse/meldungen/2020/positionspapier-zur-proteinzufuhr-im-sport/">DGE 2020</a>). Diese Werte sichern die allgemeine Basis ab. Sie sind nicht automatisch optimale Zielwerte für Krafttraining, Diät, Muskelaufbau, hohe Sättigung oder bestmöglichen Muskelerhalt. Bei Sportlerinnen und Sportlern mit mehr als 5 Stunden Training pro Woche empfiehlt die DGE je nach Ziel und Trainingszustand 1,2-2,0 g/kg/Tag (<a href="https://www.dge.de/presse/meldungen/2020/positionspapier-zur-proteinzufuhr-im-sport/">DGE 2020</a>). Die ISSN nennt für die meisten trainierenden Personen 1,4-2,0 g/kg/Tag als sinnvollen Bereich (<a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a>).
 
 **Zielbereiche:**
 
@@ -21,33 +27,35 @@
 - **Diät/Fettverlust:** häufig 1,8-2,2 g/kg/Tag, besonders bei Krafttraining und hohem Sättigungsbedarf.
 - **Sehr hohe Werte:** nur gezielt einsetzen, wenn Ernährung, Nierenfunktion, Flüssigkeitszufuhr und Kontext passen.
 
-**Einordnung:** Wer trainiert, abnehmen will, älter ist, wenig Muskelmasse hat oder hohe Sättigung braucht, liegt oft sinnvoll über der reinen Basisabsicherung. Bei starkem Übergewicht kann eine Berechnung nach Zielgewicht oder fettfreier Masse sinnvoller sein als eine starre Rechnung mit aktuellem Körpergewicht.
+Wer trainiert, abnehmen will, älter ist, wenig Muskelmasse hat oder hohe Sättigung braucht, liegt oft sinnvoll über der reinen Basisabsicherung. Bei starkem Übergewicht kann eine Berechnung nach Zielgewicht oder fettfreier Masse sinnvoller sein als eine starre Rechnung mit aktuellem Körpergewicht.
 
-**Praxis:** Pro Hauptmahlzeit eine klare Proteinquelle einbauen: Skyr/Quark, Eier, Fisch, Fleisch, Tofu/Tempeh, Hülsenfrüchte oder Proteinpulver bei Bedarf.
+Praktisch heißt das: pro Hauptmahlzeit eine klare Proteinquelle einbauen, zum Beispiel Skyr/Quark, Eier, Fisch, Fleisch, Tofu/Tempeh, Hülsenfrüchte oder Proteinpulver bei Bedarf.
+
+<p align="center">
+  <img src="../assets/visuals/fitness-kompass-ernaehrung-protein-zielbereiche.png" alt="Fitness-Kompass Ernaehrung Protein Zielbereiche" width="100%">
+</p>
+
+*Abbildung: Proteinbereiche sind Kontextwerte: Basisversorgung, Training, Diät und höherer Sättigungsbedarf verlangen unterschiedliche Einordnung.*
 
 ## 3.3 Pflanzenbetont essen
 
-**Kernaussage:** Die DGE empfiehlt eine Ernährung, die überwiegend aus pflanzlichen Lebensmitteln besteht. Dazu gehören Obst, Gemüse, Vollkorn, Hülsenfrüchte, Nüsse, Samen und pflanzliche Öle (<a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a>; <a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-ernaehrungskreis/">DGE 2024b</a>).
+Die DGE empfiehlt eine Ernährung, die überwiegend aus pflanzlichen Lebensmitteln besteht. Dazu gehören Obst, Gemüse, Vollkorn, Hülsenfrüchte, Nüsse, Samen und pflanzliche Öle (<a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a>; <a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-ernaehrungskreis/">DGE 2024b</a>).
 
-**Praxis:** Jede Hauptmahlzeit aus vier Bausteinen bauen: Proteinquelle, Gemüse/Obst, sättigende Kohlenhydrate, sinnvolle Fettquelle.
+Für den Alltag reicht ein einfaches Raster: Jede Hauptmahlzeit besteht aus Proteinquelle, Gemüse oder Obst, sättigenden Kohlenhydraten und einer sinnvollen Fettquelle.
 
 ## 3.4 Obst und Gemüse täglich priorisieren
 
-**Kernaussage:** Mindestens 5 Portionen Obst und Gemüse pro Tag sind ein guter Marker für Mikronährstoffe, Ballaststoffe, Volumen und Sättigung (<a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a>).
-
-**Praxis:** Eine Portion Obst zum Frühstück, Gemüse oder Salat zu Mittag und Abendessen, Tiefkühlgemüse als einfache Reserve.
+Mindestens 5 Portionen Obst und Gemüse pro Tag sind ein guter Marker für Mikronährstoffe, Ballaststoffe, Volumen und Sättigung (<a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a>). Ein einfacher Start sind eine Portion Obst zum Frühstück, Gemüse oder Salat zu Mittag und Abendessen und Tiefkühlgemüse als Reserve.
 
 ## 3.5 Ballaststoffe ernst nehmen
 
-**Kernaussage:** Für Erwachsene gilt ein Richtwert von mindestens 30 g Ballaststoffen pro Tag. Ballaststoffe unterstützen Sättigung, Darmgesundheit und Stoffwechselgesundheit (<a href="https://www.dge.de/wissenschaft/faqs/ausgewaehlte-fragen-und-antworten-zu-ballaststoffen/">DGE o. J.</a>).
-
-**Praxis:** Haferflocken, Vollkornbrot, Linsen, Bohnen, Kichererbsen, Kartoffeln, Beeren, Gemüse, Nüsse und Leinsamen regelmäßig einplanen.
+Für Erwachsene gilt ein Richtwert von mindestens 30 g Ballaststoffen pro Tag. Ballaststoffe unterstützen Sättigung, Darmgesundheit und Stoffwechselgesundheit (<a href="https://www.dge.de/wissenschaft/faqs/ausgewaehlte-fragen-und-antworten-zu-ballaststoffen/">DGE o. J.</a>). Gute Alltagsquellen sind Haferflocken, Vollkornbrot, Linsen, Bohnen, Kichererbsen, Kartoffeln, Beeren, Gemüse, Nüsse und Leinsamen.
 
 ## 3.6 Getränke simpel halten
 
-**Kernaussage:** Die DGE empfiehlt rund 1,5 Liter Flüssigkeit pro Tag, am besten Wasser oder ungesüßten Tee (<a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a>). Für Sportlerinnen und Sportler kann der Bedarf durch Körpergröße, Hitze, Schweißrate und Trainingsumfang deutlich höher liegen; 3-5 Liter pro Tag können an langen Trainings- oder Hitzetagen plausibel sein (<a href="https://pubmed.ncbi.nlm.nih.gov/17277604/">ACSM 2007</a>).
+Die DGE empfiehlt rund 1,5 Liter Flüssigkeit pro Tag, am besten Wasser oder ungesüßten Tee (<a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a>). Für Sportlerinnen und Sportler kann der Bedarf durch Körpergröße, Hitze, Schweißrate und Trainingsumfang deutlich höher liegen; 3-5 Liter pro Tag können an langen Trainings- oder Hitzetagen plausibel sein (<a href="https://pubmed.ncbi.nlm.nih.gov/17277604/">ACSM 2007</a>).
 
-**Praxis:** Im Alltag gilt als einfache Regel: Getränke sind kalorienfrei. Wasser, Mineralwasser, ungesüßter Tee und schwarzer Kaffee sind die Basis; zuckerhaltige Getränke, Saft, Smoothies, Milchshakes und Alkohol sind Kalorienquellen und sollten bewusst eingeplant werden.
+Im Alltag hält die Regel "Getränke sind kalorienfrei" vieles einfach. Wasser, Mineralwasser, ungesüßter Tee und schwarzer Kaffee sind die Basis; zuckerhaltige Getränke, Saft, Smoothies, Milchshakes und Alkohol sind Kalorienquellen und sollten bewusst eingeplant werden.
 
 **Zero-Getränke:** Wenn die echte Alternative ein Zuckergetränk ist, sind Zero-Getränke für Kalorienbilanz und Diätsteuerung klar die bessere Wahl. Süßstoffe sind deutlich süßer als Zucker und werden deshalb in sehr kleinen Mengen eingesetzt; zugelassene Süßstoffe liefern keine oder kaum Energie und erhöhen im Allgemeinen den Blutzucker nicht relevant (<a href="https://www.fda.gov/food/food-additives-petitions/high-intensity-sweeteners">FDA 2017</a>). Das heißt nicht, dass Zero-Getränke "gesund machen". Sie sind ein Werkzeug, um Zucker und Flüssigkalorien zu ersetzen.
 
@@ -61,35 +69,41 @@
 
 **Warnsignal:** Nicht zwanghaft übertrinken. Bei langen Ausdauereinheiten ist zu viel Wasser ohne ausreichend Natrium problematisch, weil es das Risiko für Hyponatriämie erhöhen kann (<a href="https://pubmed.ncbi.nlm.nih.gov/17277604/">ACSM 2007</a>).
 
+<p align="center">
+  <img src="../assets/visuals/fitness-kompass-ernaehrung-getraenke-entscheidung.png" alt="Fitness-Kompass Ernaehrung Getraenke Entscheidung" width="100%">
+</p>
+
+*Abbildung: Getränke bleiben zuerst Wasser und ungesüßter Tee; Zero-Getränke, Elektrolyte und Sportdrinks sind situationsabhängige Werkzeuge.*
+
 ## 3.7 Kohlenhydrate als Trainingsenergie nutzen
 
-**Kernaussage:** Kohlenhydrate sind kein Gegenspieler von Gesundheit oder Fettverlust. Sie sind der wichtigste schnell verfügbare Trainingsbrennstoff für Krafttraining mit hohem Volumen, intensive Einheiten, Laufen und Sportarten mit wiederholten Belastungsspitzen (<a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4">ISSN 2017b</a>; <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a>).
+Kohlenhydrate sind kein Gegenspieler von Gesundheit oder Fettverlust. Sie sind der wichtigste schnell verfügbare Trainingsbrennstoff für Krafttraining mit hohem Volumen, intensive Einheiten, Laufen und Sportarten mit wiederholten Belastungsspitzen (<a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4">ISSN 2017b</a>; <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a>).
 
 **Vor dem Training:** 2-4 Stunden vor dem Training ist eine Mahlzeit aus Kohlenhydraten plus Protein sinnvoll, z. B. Reis/Kartoffeln/Hafer/Brot/Pasta plus eine Proteinquelle. Wenn die letzte Mahlzeit lange her ist, kann 30-60 Minuten vorher ein kleiner Snack helfen, z. B. Banane, Brot, Reiswaffeln oder etwas leicht Verdauliches (<a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4">ISSN 2017b</a>).
 
 **Nach dem Training:** Kohlenhydrate nach dem Training füllen Muskelglykogen wieder auf. Für Muskelaufbau ist das vor allem indirekt wichtig: Bessere Glykogenverfügbarkeit unterstützt Trainingsleistung, Trainingsvolumen, Erholung und damit den nächsten wirksamen Trainingsreiz. Der direkte Hauptreiz für Muskelproteinaufbau bleibt die Kombination aus Krafttraining und ausreichendem Protein (<a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4">ISSN 2017b</a>; <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a>).
 
-**Praxis:** Nach dem Training eine normale Mahlzeit aus Protein plus Kohlenhydraten einplanen. Besonders wichtig wird das, wenn die Einheit lang oder sehr intensiv war, wenn am selben oder nächsten Tag wieder trainiert wird oder wenn Muskelaufbau mit Kalorienüberschuss das Ziel ist.
+Nach dem Training reicht meist eine normale Mahlzeit aus Protein plus Kohlenhydraten. Wichtiger wird das, wenn die Einheit lang oder sehr intensiv war, wenn am selben oder nächsten Tag wieder trainiert wird oder wenn Muskelaufbau mit Kalorienüberschuss das Ziel ist.
 
-**Einordnung:** Es gibt kein zwingendes 30-Minuten-Fenster für normale Krafttrainingseinheiten, wenn Tageskalorien und Tagesprotein passen. Je höher Trainingsvolumen, Ausdaueranteil und Einheitenfrequenz sind, desto wichtiger wird gezieltes Carb-Timing (<a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4">ISSN 2017b</a>; <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a>).
+Ein zwingendes 30-Minuten-Fenster gibt es für normale Krafttrainingseinheiten nicht, wenn Tageskalorien und Tagesprotein passen. Je höher Trainingsvolumen, Ausdaueranteil und Einheitenfrequenz sind, desto wichtiger wird gezieltes Carb-Timing (<a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4">ISSN 2017b</a>; <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a>).
+
+<p align="center">
+  <img src="../assets/visuals/fitness-kompass-ernaehrung-carb-timing-training.png" alt="Fitness-Kompass Ernaehrung Carb Timing Training" width="100%">
+</p>
+
+*Abbildung: Kohlenhydrate werden umso wichtiger, je länger, intensiver oder häufiger trainiert wird; im normalen Krafttraining reicht oft die Tagesstruktur.*
 
 ## 3.8 Fettqualität verbessern
 
-**Kernaussage:** Fette sind wichtig für Zellfunktionen, Hormonsystem und Sättigung. Entscheidend ist vor allem die Qualität und der Kontext der Ernährung.
-
-**Praxis:** Rapsöl, Olivenöl, Nüsse, Samen, Avocado und Fisch bevorzugen. Frittierte Snacks, Süßwaren und stark verarbeitete Fett-Zucker-Kombinationen nicht zur Basis machen.
+Fette sind wichtig für Zellfunktionen, Hormonsystem und Sättigung. Entscheidend ist vor allem die Qualität und der Kontext der Ernährung. Rapsöl, Olivenöl, Nüsse, Samen, Avocado und Fisch sind gute Basisquellen; frittierte Snacks, Süßwaren und stark verarbeitete Fett-Zucker-Kombinationen sollten nicht die Basis sein.
 
 ## 3.9 Alkohol niedrig halten
 
-**Kernaussage:** Es gibt keine risikofreie Alkoholmenge. Wer nicht trinkt, sollte nicht anfangen; wer trinkt, sollte Menge und Häufigkeit niedrig halten (<a href="https://www.dge.de/gesunde-ernaehrung/faq/alkohol/">DGE 2024c</a>).
-
-**Praxis:** Alkohol nicht als Regenerationsgetränk behandeln. Besonders in Diät-, Trainings- und Schlafphasen kritisch sehen.
+Es gibt keine risikofreie Alkoholmenge. Wer nicht trinkt, sollte nicht anfangen; wer trinkt, sollte Menge und Häufigkeit niedrig halten (<a href="https://www.dge.de/gesunde-ernaehrung/faq/alkohol/">DGE 2024c</a>). Alkohol ist kein Regenerationsgetränk und verdient besonders in Diät-, Trainings- und Schlafphasen einen kritischen Blick.
 
 ## 3.10 Flexibilität einplanen
 
-**Kernaussage:** Eine Ernährung muss alltagstauglich bleiben. Ein zu perfekter Plan scheitert oft schneller als ein robuster Plan mit Spielraum.
-
-**Praxis:** Lieblingsessen einplanen, nicht als "Cheat" behandeln. Die Wochenbilanz zählt mehr als einzelne Mahlzeiten.
+Eine Ernährung muss alltagstauglich bleiben. Ein zu perfekter Plan scheitert oft schneller als ein robuster Plan mit Spielraum. Lieblingsessen sollten eingeplant und nicht als "Cheat" behandelt werden; die Wochenbilanz zählt mehr als einzelne Mahlzeiten.
 
 ---
 
@@ -122,7 +136,7 @@ Tracking ist kein Muss. Es kann aber helfen, langfristig den Überblick zu behal
 | Ernährung, Kalorien und Makros | <a href="https://fddb.info/">FDDB</a>, <a href="https://www.yazio.com/">YAZIO</a>, <a href="https://www.myfitnesspal.com/">MyFitnessPal</a> | Kalorien, Protein, Ballaststoffe, Mahlzeiten und Rezepte grob steuern |
 | Krafttraining und Logbuch | <a href="https://www.hevyapp.com/">Hevy</a>, <a href="https://www.strong.app/">Strong</a>, <a href="https://www.fitnotesapp.com/">FitNotes</a> | Übungen, Gewicht, Wiederholungen, Sätze, RIR/RPE, Pausen und Progression dokumentieren |
 
-**Praxis:** Für viele reicht eine App pro Kategorie oder sogar nur ein einfaches Notizbuch. Wichtiger als die perfekte App ist, dass die Daten regelmäßig, ehrlich und ohne Zwang erfasst werden.
+Für viele reicht eine App pro Kategorie oder sogar nur ein einfaches Notizbuch. Wichtiger als die perfekte App ist, dass die Daten regelmäßig, ehrlich und ohne Zwang erfasst werden.
 
 ### 3.11.4 Diät-Regeln
 
@@ -134,7 +148,7 @@ Tracking ist kein Muss. Es kann aber helfen, langfristig den Überblick zu behal
 - Als grobe Orientierung ist eine Gewichtsabnahme von etwa 0,5-1,0 % des Körpergewichts pro Woche für viele Diätphasen realistischer als Crash-Diäten.
 - Schlafmangel nicht mit noch mehr Koffein und noch weniger Essen kompensieren.
 
-**Einordnung:** Je schlanker, sportlicher oder leistungsorientierter jemand ist, desto konservativer sollte das Defizit geplant werden.
+Je schlanker, sportlicher oder leistungsorientierter jemand ist, desto konservativer sollte das Defizit geplant werden.
 
 **Schritte als Defizit-Werkzeug:** Wenn der Gewichtstrend stagniert, sind zusätzliche Schritte oft die erste Bewegungsschraube, bevor Kalorien stark gesenkt oder harte Cardioeinheiten ergänzt werden. Alltagsbewegung erhöht den Energieverbrauch niedrigschwellig und ist für viele leichter durchzuhalten als zusätzliche intensive Einheiten. Der Effekt ist trotzdem endlich: Schritte helfen beim Defizit, ersetzen aber keine Kontrolle von Kalorien, Protein, Schlaf und Wochenbilanz.
 
@@ -147,11 +161,17 @@ Tracking ist kein Muss. Es kann aber helfen, langfristig den Überblick zu behal
 - Progressives Krafttraining ist Pflicht.
 - Wenn Bauchumfang schnell steigt, aber Trainingsleistung kaum besser wird: Überschuss prüfen.
 
-**Einordnung:** Ziel ist nicht maximale Gewichtszunahme, sondern messbarer Trainingsfortschritt bei kontrollierter Körperfettzunahme.
+Ziel ist nicht maximale Gewichtszunahme, sondern messbarer Trainingsfortschritt bei kontrollierter Körperfettzunahme.
+
+<p align="center">
+  <img src="../assets/visuals/fitness-kompass-ernaehrung-diaet-aufbau-korridor.png" alt="Fitness-Kompass Ernaehrung Diaet Aufbau Korridor" width="100%">
+</p>
+
+*Abbildung: Diät und Aufbau funktionieren besser als kontrollierte Korridore: moderates Defizit oder kleiner Überschuss, nicht extremes Pendeln.*
 
 ### 3.11.6 Supplements
 
-**Grundsatz:** Supplements ergänzen, ersetzen aber nicht Ernährung, Training, Schlaf und Konsistenz.
+Supplements ergänzen, ersetzen aber nicht Ernährung, Training, Schlaf und Konsistenz.
 
 **Sinnvolle Kandidaten:**
 
@@ -166,5 +186,11 @@ Tracking ist kein Muss. Es kann aber helfen, langfristig den Überblick zu behal
 - Fatburner.
 - Testosteron-Booster ohne medizinischen Befund.
 - teure Spezialprodukte ohne klaren Nutzen.
+
+<p align="center">
+  <img src="../assets/visuals/fitness-kompass-ernaehrung-supplemente-prioritaeten.png" alt="Fitness-Kompass Ernaehrung Supplemente Prioritaeten" width="100%">
+</p>
+
+*Abbildung: Supplements stehen oben auf der Prioritätenleiter; sie ergänzen Basics, ersetzen sie aber nicht.*
 
 ---

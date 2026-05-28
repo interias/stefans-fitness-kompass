@@ -1,0 +1,9 @@
+# fitness-kompass-ernaehrung-supplemente-prioritaeten.png
+
+Target path: `assets/visuals/fitness-kompass-ernaehrung-supplemente-prioritaeten.png`
+Markdown file: `docs/03-ernaehrung.md`
+Recommended size: 1600x900 px, aspect ratio 16:9
+
+## Prompt
+
+Create a premium inline analytical visual for a supplements section in a personal open-source "Fitness Compass" project, aspect ratio 16:9, 1600x900 px. Scene: a quiet priority pyramid or layered staircase where the wide foundation is made of real-food meal shapes, training logbook, sleep marker, hydration glass, and movement route; above it are a few small neutral supplement forms such as an unbranded scoop, creatine-like jar with no label, capsules, and a lab-value card with no readable text. The foundation must visually dominate; supplements should look secondary and conditional. Style: high-end editorial illustration mixed with realistic 3D detail, sophisticated and calm, evidence-based, not product advertising. Soft natural morning light, crisp shadows, refined ceramic, glass, paper, matte metal, and natural textures. Composition: broad base across lower half, small supplement tier at top, compass marker tying layers together. Color palette: deep teal, slate, warm white, muted green, natural food colors, and a small red accent on the compass needle. Critical no-text constraint: the final image must contain zero written words, letterforms, numbers, labels, captions, pseudo-text, or readable marks; use simple icons, blank cards, blank grids, unlabeled shapes, and clean geometry only. Avoid neon colors, dark gym cliches, brand labels, supplement marketing look, exaggerated muscles, scales, before-after imagery, aggressive bodybuilding aesthetics, clutter, UI elements, readable text, letters, numbers, logos, brand names, watermarks, and people posing.

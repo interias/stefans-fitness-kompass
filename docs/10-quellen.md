@@ -6,6 +6,12 @@
 
 Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 
+<p align="center">
+  <img src="../assets/visuals/fitness-kompass-quellen-thematische-landkarte.png" alt="Fitness-Kompass Quellen Thematische Landkarte" width="100%">
+</p>
+
+*Abbildung: Die Quellenlandschaft ist thematisch sortiert: Ernährung, Training, Gesundheit, Langlebigkeit, Gewohnheiten, Apps und Coach-Einordnung.*
+
 ## 10.1 Ernährung
 
 - <a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a> - Gut essen und trinken: zentrale Ernährungsempfehlungen für gesunde Erwachsene in Deutschland von 18 bis 65 Jahren.

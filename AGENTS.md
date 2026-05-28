@@ -7,12 +7,14 @@ Dieses Repository ist ein deutschsprachiger, persoenlicher Fitness-Kompass. Aend
 - Nuechtern, pragmatisch, alltagstauglich; keine Hype-Sprache, keine Absolutismen, keine moralische Ernaehrungssprache.
 - Grundlagen vor Optimierung: robuste Hebel zuerst, Details danach.
 - Trends, Kontext und Wiederholbarkeit betonen statt einzelne Tageswerte.
-- Bevorzugte Strukturbegriffe: `Kernaussage`, `Einordnung`, `Praxis`, `Grundsatz`, `Grenze`, `Warnsignal`, `haeufig sinnvoll`, `pruefen`.
+- Bevorzugte Begriffe: `Grundsatz`, `Grenze`, `Warnsignal`, `haeufig sinnvoll`, `pruefen`, `Trend`, `Kontext`, `Wiederholbarkeit`.
+- Begriffe wie `Kernaussage`, `Einordnung`, `Praxis`, `Nutzen`, `Grenze` und `Beispiele` nur gezielt einsetzen, wenn sie einen laengeren Abschnitt wirklich klarer machen. Nicht als Pflichtschema pro Abschnitt verwenden.
 
 ## Struktur
 
 - Kapitel bleiben nummerierte Markdown-Dateien unter `docs/`.
-- Abschnitte moeglichst als `Kernaussage`, optional `Einordnung`, dann `Praxis`.
+- Abschnitte bevorzugt als klar geschriebene Absaetze formulieren: erst die zentrale Aussage, dann Kontext oder Grenze, dann die praktische Konsequenz.
+- Wiederholte Mini-Schemata wie `Nutzen/Grenze/Beispiele` oder `Kernaussage/Praxis` vermeiden; bei kurzen Abschnitten ist ein einzelner guter Absatz meist besser.
 - Tabellen, Listen und Checklisten nur nutzen, wenn sie Entscheidungen klarer machen.
 - Kurzbelege direkt im Text verlinken; zentrale Quellen zusaetzlich in `docs/10-quellen.md` einordnen.
 - Bildassets mit passender `.prompt.md` dokumentieren.

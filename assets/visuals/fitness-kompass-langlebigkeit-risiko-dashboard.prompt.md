@@ -1,0 +1,9 @@
+# fitness-kompass-langlebigkeit-risiko-dashboard.png
+
+Target path: `assets/visuals/fitness-kompass-langlebigkeit-risiko-dashboard.png`
+Markdown file: `docs/06-langlebigkeit-risiken.md`
+Recommended size: 1600x900 px, aspect ratio 16:9
+
+## Prompt
+
+Create a premium inline analytical visual for a longevity and risk-factors chapter in a personal open-source "Fitness Compass" project, aspect ratio 16:9, 1600x900 px. Scene: a sober risk-priority dashboard on a clean map-like surface, with several large practical control dials for major modifiable risks: tobacco avoidance, blood pressure, waist trend, movement, alcohol, sleep, prevention, and sunlight protection, represented only by abstract symbols and blank gauges. A few tiny low-priority biohack details sit aside as small faint objects. No readable labels or numbers. Style: high-end editorial illustration mixed with realistic 3D detail, sophisticated, calm, evidence-based, not fear-based and not biohacking hype. Soft natural morning light, crisp shadows, refined glass, paper, matte metal, and subtle topographic texture. Composition: large dials dominate center, compass on left, small fine-tuning objects in the background to show lower priority. Color palette: deep teal, slate, warm white, muted green, earth tones, pale gray, and a small red accent on one risk dial. Critical no-text constraint: the final image must contain zero written words, letterforms, numbers, labels, captions, pseudo-text, or readable marks; use simple icons, blank cards, blank grids, unlabeled shapes, and clean geometry only. Avoid neon colors, dark gym cliches, medical panic imagery, hospital imagery, exaggerated muscles, supplement stacks, scales as the main subject, before-after imagery, clutter, UI elements, readable text, letters, numbers, logos, brand names, watermarks, and people posing.

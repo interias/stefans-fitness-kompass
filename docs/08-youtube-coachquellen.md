@@ -6,49 +6,35 @@
 
 YouTube ist hier als Praxis- und Einordnungsquelle gedacht, nicht als Primärquelle. Die Reihenfolge bewertet Nutzen für Fitness, Training und Gesundheit.
 
+<p align="center">
+  <img src="../assets/visuals/fitness-kompass-coachquellen-praxisfilter.png" alt="Fitness-Kompass Coachquellen Praxisfilter" width="100%">
+</p>
+
+*Abbildung: Coach-Content ist am stärksten, wenn praktische Hinweise durch Grundlagen, Quellenqualität und eigene Übertragbarkeit gefiltert werden.*
+
 ## 8.1 Evidenznah und trainingsstark
 
-**Renaissance Periodization / Dr. Mike Israetel**  
-**Nutzen:** Hypertrophie, Trainingsvolumen, Periodisierung, Diät- und Muskelaufbau-Logik.  
-**Einordnung:** sehr stark für Trainingsmodelle; Ton und Detailtiefe situationsabhängig einordnen.
+**Renaissance Periodization / Dr. Mike Israetel:** stark für Hypertrophie, Trainingsvolumen, Periodisierung sowie Diät- und Muskelaufbau-Logik. Besonders nützlich für Trainingsmodelle; Ton und Detailtiefe situationsabhängig einordnen.
 
-**Jeff Nippard**  
-**Nutzen:** evidenzbasiertes Krafttraining, Hypertrophie, Übungsausführung, Studien-Einordnung.  
-**Einordnung:** sehr guter Einstieg, visuell stark, meist ausgewogen.
+**Jeff Nippard:** guter Einstieg in evidenzbasiertes Krafttraining, Hypertrophie, Übungsausführung und Studien-Einordnung. Visuell stark und meist ausgewogen.
 
-**House of Hypertrophy**  
-**Nutzen:** research-backed Deep Dives zu Muskel- und Kraftaufbau.  
-**Einordnung:** gut, wenn Studien und Trainingsfragen nüchtern bewertet werden sollen.
+**House of Hypertrophy:** research-backed Deep Dives zu Muskel- und Kraftaufbau. Gut, wenn Studien und Trainingsfragen nüchtern bewertet werden sollen.
 
-**Sean Nalewanyj**  
-**Nutzen:** Muskelaufbau, Ernährung, Supplements, Social-Media-Mythen.  
-**Einordnung:** praxisnah und hilfreich gegen Fitness-Hype.
+**Sean Nalewanyj:** praxisnah für Muskelaufbau, Ernährung, Supplements und Social-Media-Mythen. Hilfreich als Gegengewicht zu Fitness-Hype.
 
 ## 8.2 Deutschsprachig und praxisnah
 
-**Dr. Golo Röhrken | Health & Performance**  
-**Nutzen:** Gesundheit, Performance, Ausdauer, Übertraining, nachhaltige Leistungsfähigkeit.  
-**Einordnung:** gute Ergänzung zu bodybuilding-lastigen Kanälen.
+**Dr. Golo Röhrken | Health & Performance:** Gesundheit, Performance, Ausdauer, Übertraining und nachhaltige Leistungsfähigkeit. Gute Ergänzung zu bodybuilding-lastigen Kanälen.
 
-**Sjard Roscher**  
-**Nutzen:** Fitness-Mythen, Fettverlust, Muskelaufbau, wissenschaftsnahe Einordnung.  
-**Einordnung:** gute deutschsprachige Brücke zwischen Theorie und Alltag.
+**Sjard Roscher:** Fitness-Mythen, Fettverlust, Muskelaufbau und wissenschaftsnahe Einordnung. Gute deutschsprachige Brücke zwischen Theorie und Alltag.
 
-**Schmale Schulter**  
-**Nutzen:** Abnehmen, Muskelaufbau, Rezepte, Meal Prep.  
-**Einordnung:** besonders praktisch für Diät-Compliance.
+**Schmale Schulter:** Abnehmen, Muskelaufbau, Rezepte und Meal Prep. Besonders praktisch für Diät-Compliance.
 
-**Yellow Dude**  
-**Nutzen:** Calisthenics, Körpergewichtstraining, Bewegungskontrolle.  
-**Einordnung:** gute Ergänzung zu klassischem Gym-Training.
+**Yellow Dude:** Calisthenics, Körpergewichtstraining und Bewegungskontrolle. Gute Ergänzung zu klassischem Gym-Training.
 
-**Tobi Aesthetics aka Mr. LAT**  
-**Nutzen:** Natural Bodybuilding, Muskelaufbau, praktische Übungstipps.  
-**Einordnung:** als Praxisinput gut; Sponsoring und Influencer-Kontext mitdenken.
+**Tobi Aesthetics aka Mr. LAT:** Natural Bodybuilding, Muskelaufbau und praktische Übungstipps. Als Praxisinput gut; Sponsoring und Influencer-Kontext mitdenken.
 
-**Mario Müller Fitness / Coach Andy**  
-**Nutzen:** deutschsprachige Fitness- und Movement-Praxis.  
-**Einordnung:** ergänzende Praxisquellen, nicht höchste Evidenzstufe.
+**Mario Müller Fitness / Coach Andy:** deutschsprachige Fitness- und Movement-Praxis. Ergänzende Praxisquellen, nicht höchste Evidenzstufe.
 
 ## 8.3 Unterhaltung und Inspiration
 

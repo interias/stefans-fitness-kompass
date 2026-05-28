@@ -1,0 +1,9 @@
+# fitness-kompass-training-hypertrophie-signalweg.png
+
+Target path: `assets/visuals/fitness-kompass-training-hypertrophie-signalweg.png`
+Markdown file: `docs/04-training.md`
+Recommended size: 1600x900 px, aspect ratio 16:9
+
+## Prompt
+
+Create a premium inline analytical visual for a strength-training chapter in a personal open-source "Fitness Compass" project, aspect ratio 16:9, 1600x900 px. Scene: an elegant abstract signal pathway from mechanical tension to cellular signaling to protein synthesis to gradual muscle adaptation. Use a barbell-line motif on the left, a transparent muscle-fiber cross-section in the center, subtle molecular pathway nodes, amino-acid blocks, recovery moon, and a smooth upward adaptation curve on the right. No readable labels, no microscopic clutter. Style: high-end editorial illustration mixed with realistic 3D detail, scientific educational but calm and practical, not flashy. Soft natural morning light, crisp shadows, refined glass, matte metal, paper texture, precise linework. Composition: left-to-right pathway with four distinct stages, compass integrated as a small control marker, plenty of negative space. Color palette: deep teal, slate, warm white, muted green, neutral steel, subtle warm biological tones, and a small red accent on one signal node. Critical no-text constraint: the final image must contain zero written words, letterforms, numbers, labels, captions, pseudo-text, or readable marks; use simple icons, blank cards, blank grids, unlabeled shapes, and clean geometry only. Avoid neon colors, dark gym cliches, gore, medical panic imagery, exaggerated muscles, supplement products, before-after imagery, aggressive bodybuilding aesthetics, clutter, UI elements, readable text, letters, numbers, logos, brand names, watermarks, and people posing.

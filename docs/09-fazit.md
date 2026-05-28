@@ -16,6 +16,6 @@ Die beste Fitnessstrategie ist robust:
 - realistische Routinen,
 - gute Quellen statt Hype.
 
-**Schlussgedanke:** Der Fitness-Kompass ist dann nützlich, wenn er Entscheidungen vereinfacht und wiederholbares Verhalten unterstützt.
+Der Fitness-Kompass ist dann nützlich, wenn er Entscheidungen vereinfacht und wiederholbares Verhalten unterstützt.
 
 ---

@@ -6,13 +6,11 @@
 
 ## 7.1 Gewohnheiten und 1%-Methode
 
-### 7.1.1 Kerngedanke
+Die 1%-Methode nach James Clear ist eine Denkregel: Kleine, wiederholte Verbesserungen wirken langfristig stärker als seltene radikale Neustarts. Sie ist keine exakte mathematische Gesundheitsformel, sondern ein praktisches Modell für Konsistenz (<a href="https://www.penguinrandomhouse.com/books/543993/atomic-habits-by-james-clear/9780735211292/">Clear 2018</a>).
 
-**Kernaussage:** Die 1%-Methode nach James Clear ist eine Denkregel: Kleine, wiederholte Verbesserungen wirken langfristig stärker als seltene radikale Neustarts. Sie ist keine exakte mathematische Gesundheitsformel, sondern ein praktisches Modell für Konsistenz (<a href="https://www.penguinrandomhouse.com/books/543993/atomic-habits-by-james-clear/9780735211292/">Clear 2018</a>).
+Gewohnheiten entstehen durch Wiederholung in einem stabilen Kontext. Entscheidend ist nicht eine magische Tageszahl, sondern dass ein Verhalten regelmäßig an einen klaren Auslöser gekoppelt wird (<a href="https://doi.org/10.1002/ejsp.674">Lally et al. 2010</a>; <a href="https://doi.org/10.1016/S0065-2601(06)38002-1">Gollwitzer &amp; Sheeran 2006</a>).
 
-**Einordnung:** Gewohnheiten entstehen durch Wiederholung in einem stabilen Kontext. Entscheidend ist nicht eine magische Tageszahl, sondern dass ein Verhalten regelmäßig an einen klaren Auslöser gekoppelt wird (<a href="https://doi.org/10.1002/ejsp.674">Lally et al. 2010</a>; <a href="https://doi.org/10.1016/S0065-2601(06)38002-1">Gollwitzer &amp; Sheeran 2006</a>).
-
-### 7.1.2 Praxisregeln
+### 7.1.1 Praxisregeln
 
 1. **Kleinstversion definieren:** Die Gewohnheit muss auch an schlechten Tagen machbar sein.
 2. **An Auslöser koppeln:** "Nach X mache ich Y" ist besser als "Ich sollte öfter Y machen".
@@ -22,7 +20,7 @@
 6. **Rückfälle einplanen:** Ein verpasster Tag ist kein Abbruch. Zwei verpasste Tage hintereinander sind ein Warnsignal.
 7. **Fortschritt sichtbar machen:** Häkchen, Trainingslog, Schritttrend oder Wochennotiz reichen.
 
-### 7.1.3 Beispiele
+### 7.1.2 Beispiele
 
 - **Ernährung:** Nach dem Frühstück eine Wasserflasche füllen.
 - **Training:** Nach der Arbeit direkt die Trainingskleidung anziehen.
@@ -30,16 +28,14 @@
 - **Schlaf:** Nach dem Zähneputzen das Handy außerhalb des Schlafzimmers laden.
 - **Diät:** Wenn abends Hunger kommt, zuerst Protein-/Gemüseoption essen und dann neu entscheiden.
 
-### 7.1.4 Mindestversionen
+### 7.1.3 Mindestversionen
 
 - 10 Minuten Krafttraining statt gar kein Training.
 - 15 Minuten Spaziergang statt kompletter Bewegungsausfall.
 - Eine proteinreiche Mahlzeit statt perfekter Ernährung.
 - Licht aus und Handy weg statt perfekter Abendroutine.
 
-**Merksatz:** Gewohnheiten sollen so klein starten, dass sie zuverlässig beginnen, und so klar geplant sein, dass sie nicht jeden Tag neu verhandelt werden müssen.
-
----
+Gewohnheiten sollen so klein starten, dass sie zuverlässig beginnen, und so klar geplant sein, dass sie nicht jeden Tag neu verhandelt werden müssen.
 
 ---
 
@@ -72,8 +68,6 @@
 
 ---
 
----
-
 ## 7.3 Wochen-Checkliste
 
 ```text
@@ -88,5 +82,11 @@
 [ ] Gewichtstrend geprüft, Tagesgewicht nicht überbewertet
 [ ] nächste Trainingswoche geplant
 ```
+
+<p align="center">
+  <img src="../assets/visuals/fitness-kompass-gewohnheiten-wochencheck-loop.png" alt="Fitness-Kompass Gewohnheiten Wochencheck Loop" width="100%">
+</p>
+
+*Abbildung: Der Wochencheck ist ein Rückkopplungssystem: planen, umsetzen, messen, vereinfachen und erneut planen.*
 
 ---

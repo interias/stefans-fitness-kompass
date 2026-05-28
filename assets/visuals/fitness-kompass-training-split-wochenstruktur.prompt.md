@@ -1,0 +1,9 @@
+# fitness-kompass-training-split-wochenstruktur.png
+
+Target path: `assets/visuals/fitness-kompass-training-split-wochenstruktur.png`
+Markdown file: `docs/04-training.md`
+Recommended size: 1600x900 px, aspect ratio 16:9
+
+## Prompt
+
+Create a premium inline analytical visual for a training-split and weekly-structure section in a personal open-source "Fitness Compass" project, aspect ratio 16:9, 1600x900 px. Scene: a clean weekly planning surface with blank calendar columns, several interchangeable training-session blocks, endurance route blocks, recovery spaces, and a compass that aligns the plan to available days. Show that different split structures are organization choices by using modular blank tiles rather than fixed labels. No readable text, letters, or numbers. Style: high-end editorial illustration mixed with realistic 3D detail, sophisticated, practical, calm training-log aesthetic. Soft natural morning light, crisp shadows, refined paper, matte desk, brushed metal, subtle fabric and map texture. Composition: calendar grid across the center, session tiles arranged in a balanced week, recovery spaces clearly visible, compass on the left. Color palette: deep teal, slate, warm white, muted green, neutral steel, pale gray, and a small red accent on one planning marker. Critical no-text constraint: the final image must contain zero written words, letterforms, numbers, labels, captions, pseudo-text, or readable marks; use simple icons, blank cards, blank grids, unlabeled shapes, and clean geometry only. Avoid neon colors, dark gym cliches, stock-photo look, exaggerated muscles, supplement products, scales, before-after imagery, aggressive bodybuilding aesthetics, clutter, UI elements, readable text, letters, numbers, logos, brand names, watermarks, and people posing.

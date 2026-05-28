@@ -1,0 +1,9 @@
+# fitness-kompass-ernaehrung-diaet-aufbau-korridor.png
+
+Target path: `assets/visuals/fitness-kompass-ernaehrung-diaet-aufbau-korridor.png`
+Markdown file: `docs/03-ernaehrung.md`
+Recommended size: 1600x900 px, aspect ratio 16:9
+
+## Prompt
+
+Create a premium inline analytical visual for a nutrition chapter in a personal open-source "Fitness Compass" project, aspect ratio 16:9, 1600x900 px. Scene: two calm parallel route corridors on a refined map-like surface: one gently descending for a moderate diet phase and one gently rising for a controlled muscle-gain phase. Both routes stay inside narrow guide rails and pass by the same anchors: protein, strength training, sleep, steps, and trend review. No readable labels or numbers. The image should communicate controlled corridors instead of extreme swings. Style: high-end editorial illustration mixed with realistic 3D detail, sophisticated and calm, practical body-composition planning, not before-after imagery. Soft natural morning light, crisp shadows, refined paper, matte metal, ceramic meal shapes, and subtle topographic texture. Composition: split horizontal lanes, diet route above and build route below, shared compass at the left, review marker at the right. Color palette: deep teal, slate, warm white, muted green, pale gray, natural food tones, and a small red accent on one review marker. Critical no-text constraint: the final image must contain zero written words, letterforms, numbers, labels, captions, pseudo-text, or readable marks; use simple icons, blank cards, blank grids, unlabeled shapes, and clean geometry only. Avoid neon colors, dark gym cliches, stock-photo look, exaggerated muscles, visible body transformations, supplement products, scales as the main subject, aggressive bodybuilding aesthetics, clutter, UI elements, readable text, letters, numbers, logos, brand names, watermarks, and people posing.

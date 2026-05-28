@@ -1,0 +1,9 @@
+# fitness-kompass-ernaehrung-protein-zielbereiche.png
+
+Target path: `assets/visuals/fitness-kompass-ernaehrung-protein-zielbereiche.png`
+Markdown file: `docs/03-ernaehrung.md`
+Recommended size: 1600x900 px, aspect ratio 16:9
+
+## Prompt
+
+Create a premium inline analytical visual for a nutrition chapter in a personal open-source "Fitness Compass" project, aspect ratio 16:9, 1600x900 px. Scene: a refined protein-target range visual made of overlapping calm bands and meal-building blocks, showing several context layers: general baseline, strength training, diet phase, and higher satiety need. Use symbolic protein sources such as legumes, dairy bowl, eggs, tofu, fish shape, and a neutral scoop without branding, integrated with a compass and blank range gauge. No readable labels or numbers. Style: high-end editorial illustration mixed with realistic 3D detail, sophisticated and practical, not bodybuilding marketing. Soft natural morning light, crisp shadows, refined ceramic, paper, matte metal, and natural food textures. Composition: horizontal range bands through the center, meal blocks below, compass marker on the left, clean negative space around the bands. Color palette: deep teal, slate, warm white, muted green, natural food colors, and a small red accent on one marker. Critical no-text constraint: the final image must contain zero written words, letterforms, numbers, labels, captions, pseudo-text, or readable marks; use simple icons, blank cards, blank grids, unlabeled shapes, and clean geometry only. Avoid neon colors, dark gym cliches, stock-photo food styling, exaggerated muscles, supplement tubs as the main subject, before-after imagery, aggressive bodybuilding aesthetics, clutter, UI elements, readable text, letters, numbers, logos, brand names, watermarks, and people posing.

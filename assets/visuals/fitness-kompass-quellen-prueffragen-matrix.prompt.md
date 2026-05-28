@@ -1,0 +1,9 @@
+# fitness-kompass-quellen-prueffragen-matrix.png
+
+Target path: `assets/visuals/fitness-kompass-quellen-prueffragen-matrix.png`
+Markdown file: `docs/02-quellenbewertung.md`
+Recommended size: 1600x900 px, aspect ratio 16:9
+
+## Prompt
+
+Create a premium inline analytical visual for a source-evaluation chapter in a personal open-source "Fitness Compass" project, aspect ratio 16:9, 1600x900 px. Scene: a refined evidence-check matrix made of six blank evaluation tiles connected to a transparent lens and a fitness compass. Abstract source cards pass through the matrix and become ordered layers: guideline sheet, review card, practice note, and social-media fragment, all without readable text. The matrix should visually suggest recency, evidence basis, consensus, target group, conflicts of interest, and practical transferability without labels. Style: high-end editorial illustration mixed with realistic 3D detail, sophisticated, calm, evidence-based, not clinical or flashy. Clean GitHub documentation aesthetic, soft natural morning light, crisp shadows, refined paper, glass, brushed metal, and subtle map texture. Composition: organized grid across the center, compass and lens slightly left, calm output layers on the right. Color palette: deep teal, slate, warm white, muted green, pale gray, and a small red accent on the compass needle. Critical no-text constraint: the final image must contain zero written words, letterforms, numbers, labels, captions, pseudo-text, or readable marks; use simple icons, blank cards, blank grids, unlabeled shapes, and clean geometry only. Avoid neon colors, dark gym cliches, stock-photo look, exaggerated muscles, supplements, scales, before-after imagery, aggressive bodybuilding aesthetics, clutter, UI elements, readable text, letters, numbers, logos, brand names, watermarks, and people posing.

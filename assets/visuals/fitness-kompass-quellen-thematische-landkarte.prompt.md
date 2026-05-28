@@ -1,0 +1,9 @@
+# fitness-kompass-quellen-thematische-landkarte.png
+
+Target path: `assets/visuals/fitness-kompass-quellen-thematische-landkarte.png`
+Markdown file: `docs/10-quellen.md`
+Recommended size: 1600x900 px, aspect ratio 16:9
+
+## Prompt
+
+Create a premium inline analytical visual for a references chapter in a personal open-source "Fitness Compass" project, aspect ratio 16:9, 1600x900 px. Scene: a thematic source map made of organized blank citation islands connected by quiet routes: nutrition, training, sleep, longevity, habits, tracking tools, and coach-practice sources, all represented by abstract objects and cards with no readable text. A refined compass and archive box anchor the map, with transparent evidence layers showing how sources are grouped and maintained. Style: high-end editorial illustration mixed with realistic 3D detail, sophisticated and calm, evidence-based documentation aesthetic. Soft natural morning light, crisp shadows, refined paper, bookmark tabs, glass, brushed metal, matte desk textures, and precise linework. Composition: source islands arranged in a readable map across the center, compass slightly left, archive and citation cards to the right, uncluttered. Color palette: deep teal, slate, warm white, muted green, natural paper tones, pale gray, and a small red accent on the compass needle or bookmark. Critical no-text constraint: the final image must contain zero written words, letterforms, numbers, labels, captions, pseudo-text, or readable marks; use simple icons, blank cards, blank grids, unlabeled shapes, and clean geometry only. Avoid neon colors, dark gym cliches, stock-photo look, exaggerated muscles, supplements, scales, before-after imagery, aggressive bodybuilding aesthetics, clutter, UI elements, readable text, letters, numbers, logos, brand names, watermarks, and people posing.

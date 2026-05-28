@@ -1,0 +1,9 @@
+# fitness-kompass-ernaehrung-getraenke-entscheidung.png
+
+Target path: `assets/visuals/fitness-kompass-ernaehrung-getraenke-entscheidung.png`
+Markdown file: `docs/03-ernaehrung.md`
+Recommended size: 1600x900 px, aspect ratio 16:9
+
+## Prompt
+
+Create a premium inline analytical visual for a nutrition chapter in a personal open-source "Fitness Compass" project, aspect ratio 16:9, 1600x900 px. Scene: a calm beverage decision map with a water glass and unsweetened tea as the large default route, a smaller branch showing a zero-sugar drink replacing a sugary drink, and a separate sport-context branch with electrolyte droplets and a long training route under heat. Show the branches as clean compass-map paths with blank cards and no readable labels. The image should communicate everyday default, replacement tool, and sport-specific use without moralizing. Style: high-end editorial illustration mixed with realistic 3D detail, sophisticated, practical, clean documentation aesthetic. Soft natural morning light, crisp shadows, refined glass, ceramic, paper, matte metal, and subtle condensation. Composition: main water route centered, two smaller situational branches to the right, compass marker on the left. Color palette: deep teal, slate, warm white, muted green, clear water blue used sparingly, and a small red accent on the compass marker. Critical no-text constraint: the final image must contain zero written words, letterforms, numbers, labels, captions, pseudo-text, or readable marks; use simple icons, blank cards, blank grids, unlabeled shapes, and clean geometry only. Avoid neon colors, dark gym cliches, soda branding, product labels, supplement advertising, stock-photo look, clutter, UI elements, readable text, letters, numbers, logos, brand names, watermarks, before-after imagery, and people posing.

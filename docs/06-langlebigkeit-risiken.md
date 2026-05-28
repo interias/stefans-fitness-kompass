@@ -8,11 +8,9 @@ Dieses Kapitel ist keine Biohacking-Liste. Es geht um große, robuste Hebel, die
 
 ## 6.1 Grundidee: länger leben und länger gesund bleiben
 
-**Kernaussage:** Langlebigkeit entsteht selten durch einen einzelnen perfekten Hebel, sondern durch die Summe weniger wiederholbarer Risikosenkungen. Entscheidend ist nicht, jeden Faktor maximal zu optimieren, sondern die großen Baustellen nicht dauerhaft zu ignorieren.
+Langlebigkeit entsteht selten durch einen einzelnen perfekten Hebel, sondern durch die Summe weniger wiederholbarer Risikosenkungen. Entscheidend ist nicht, jeden Faktor maximal zu optimieren, sondern die großen Baustellen nicht dauerhaft zu ignorieren.
 
-**Einordnung:** In großen Kohorten war ein Bündel aus Nichtrauchen, gesundem Körpergewicht, regelmäßiger Aktivität, guter Ernährungsqualität und niedrigem/moderatem Alkoholkonsum mit deutlich längerer Lebenserwartung ab 50 verbunden. Die Größenordnung lag in einer US-Auswertung bei etwa 14 Jahren für Frauen und 12 Jahren für Männer im Vergleich zu null dieser Low-Risk-Faktoren (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6207481/">Li et al. 2018</a>). Eine BMJ-Auswertung fand außerdem mehr Jahre frei von Krebs, Herz-Kreislauf-Erkrankungen und Typ-2-Diabetes bei Personen mit mehreren gesunden Lebensstilfaktoren (<a href="https://www.bmj.com/content/368/bmj.l6669">Li et al. 2020</a>).
-
-**Grenze:** Solche Zahlen sind keine Garantie und nicht 1:1 auf jede Person übertragbar. Sie zeigen aber klar: Die Summe der Basics zählt mehr als der nächste kleine Gesundheits-Hack.
+In großen Kohorten war ein Bündel aus Nichtrauchen, gesundem Körpergewicht, regelmäßiger Aktivität, guter Ernährungsqualität und niedrigem/moderatem Alkoholkonsum mit deutlich längerer Lebenserwartung ab 50 verbunden. Die Größenordnung lag in einer US-Auswertung bei etwa 14 Jahren für Frauen und 12 Jahren für Männer im Vergleich zu null dieser Low-Risk-Faktoren (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6207481/">Li et al. 2018</a>). Eine BMJ-Auswertung fand außerdem mehr Jahre frei von Krebs, Herz-Kreislauf-Erkrankungen und Typ-2-Diabetes bei Personen mit mehreren gesunden Lebensstilfaktoren (<a href="https://www.bmj.com/content/368/bmj.l6669">Li et al. 2020</a>). Solche Zahlen sind keine Garantie und nicht 1:1 auf jede Person übertragbar. Sie zeigen aber klar: Die Summe der Basics zählt mehr als der nächste kleine Gesundheits-Hack.
 
 ## 6.2 Die größten beeinflussbaren Hebel
 
@@ -26,19 +24,25 @@ Dieses Kapitel ist keine Biohacking-Liste. Es geht um große, robuste Hebel, die
 | **Schlaf** | Schlaf beeinflusst Regeneration, Hungerregulation, Psyche, Leistung und Risikoverhalten. Für gesunde Erwachsene werden regelmäßig 7 oder mehr Stunden empfohlen (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4434546/">AASM/SRS 2015</a>). | Regelmäßige Zeiten, genug Schlafdruck, Licht/Koffein/Alkohol/Stress prüfen. |
 | **Krebsprävention und Vorsorge** | WHO/IARC schätzt, dass 2022 weltweit etwa 37 % neuer Krebsfälle mit vermeidbaren Ursachen verbunden waren, darunter Tabak, Alkohol, hoher BMI, Bewegungsmangel, UV-Strahlung, Luftverschmutzung und Infektionen (<a href="https://www.who.int/news/item/03-02-2026-four-in-ten-cancer-cases-could-be-prevented-globally">WHO/IARC 2026</a>). | Risikofaktoren senken, Sonnenschutz, Impfungen/HPV/Hepatitis prüfen, alters- und risikogerechte Vorsorge nutzen. |
 
+<p align="center">
+  <img src="../assets/visuals/fitness-kompass-langlebigkeit-risiko-dashboard.png" alt="Fitness-Kompass Langlebigkeit Risiko Dashboard" width="100%">
+</p>
+
+*Abbildung: Die größten Risikoregler sind unspektakulär, aber wirksamer als kleine Biohacking-Details.*
+
 ## 6.3 Taille und Körpergewicht praktisch einordnen
 
-**Kernaussage:** Körpergewicht allein reicht nicht. Der Taillenumfang ergänzt den Gewichtstrend, weil Bauchfett für Stoffwechsel- und Krankheitsrisiken relevanter sein kann als eine reine Kilogrammzahl.
+Körpergewicht allein reicht nicht. Der Taillenumfang ergänzt den Gewichtstrend, weil Bauchfett für Stoffwechsel- und Krankheitsrisiken relevanter sein kann als eine reine Kilogrammzahl.
 
-**Praxis:** Den Taillenumfang gelegentlich unter gleichen Bedingungen messen und als Trend nutzen, nicht als täglichen Stressor. Wenn Gewicht und Taille sinken, Kraft möglichst erhalten bleibt und Alltag besser wird, ist das oft ein gutes Zeichen. Bei stark erhöhtem Taillenumfang, Bluthochdruck, Diabetesrisiko, Fettleberverdacht oder Schlafapnoe-Symptomen fachlich abklären.
+Den Taillenumfang gelegentlich unter gleichen Bedingungen messen und als Trend nutzen, nicht als täglichen Stressor. Wenn Gewicht und Taille sinken, Kraft möglichst erhalten bleibt und Alltag besser wird, ist das oft ein gutes Zeichen. Bei stark erhöhtem Taillenumfang, Bluthochdruck, Diabetesrisiko, Fettleberverdacht oder Schlafapnoe-Symptomen fachlich abklären.
 
 ## 6.4 Krebsrisiken nüchtern betrachten
 
-**Kernaussage:** Krebs ist nicht vollständig vermeidbar. Alter, Genetik, Zufall, Umwelt und Infektionen spielen eine Rolle. Prävention bedeutet deshalb nicht Kontrolle über jedes Risiko, sondern die beeinflussbaren Risiken aus 6.2 ernst zu nehmen und krebsbezogene Sonderthemen nicht zu vergessen.
+Krebs ist nicht vollständig vermeidbar. Alter, Genetik, Zufall, Umwelt und Infektionen spielen eine Rolle. Prävention bedeutet deshalb nicht Kontrolle über jedes Risiko, sondern die beeinflussbaren Risiken aus 6.2 ernst zu nehmen und krebsbezogene Sonderthemen nicht zu vergessen.
 
 **Krebsbezogene Sonderthemen:** UV-Schutz nutzen, Impfungen und Infektionsthemen wie HPV/Hepatitis ärztlich prüfen, empfohlene Früherkennung wahrnehmen und verarbeitetes Fleisch nicht zur Basis der Ernährung machen.
 
-**Einordnung:** Gute Prävention bedeutet nicht Angst vor jedem Risiko. Sie bedeutet, bekannte große Risiken nüchtern zu senken und bei Unsicherheit fachliche Vorsorge statt Social-Media-Diagnosen zu nutzen.
+Gute Prävention bedeutet nicht Angst vor jedem Risiko. Sie bedeutet, bekannte große Risiken nüchtern zu senken und bei Unsicherheit fachliche Vorsorge statt Social-Media-Diagnosen zu nutzen.
 
 ## 6.5 Anwendung: Prioritäten statt Perfektion
 
@@ -46,4 +50,4 @@ Dieses Kapitel ist keine Biohacking-Liste. Es geht um große, robuste Hebel, die
 2. **Verhalten stabilisieren:** Bewegung, Ernährung, Schlaf, Alkoholgrenzen und Rauchstopp nicht als kurzfristige Projekte behandeln.
 3. **Erst Lücken schließen, dann optimieren:** Kleine Biohacks sind zweitrangig, solange große, bekannte Risiken dauerhaft offen sind.
 
-**Merksatz:** Für ein längeres und gesünderes Leben zählt nicht ein perfekter Biohack, sondern ein System, das die großen vermeidbaren Risiken dauerhaft niedrig hält.
+Für ein längeres und gesünderes Leben zählt nicht ein perfekter Biohack, sondern ein System, das die großen vermeidbaren Risiken dauerhaft niedrig hält.

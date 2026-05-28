@@ -1,0 +1,9 @@
+# fitness-kompass-kurzfassung-grundlagen-vor-optimierung.png
+
+Target path: `assets/visuals/fitness-kompass-kurzfassung-grundlagen-vor-optimierung.png`
+Markdown file: `docs/01-kurzfassung.md`
+Recommended size: 1600x900 px, aspect ratio 16:9
+
+## Prompt
+
+Create a premium inline analytical visual for a personal open-source "Fitness Compass" documentation chapter, aspect ratio 16:9, 1600x900 px. Scene: a calm layered priority landscape showing broad stable foundations at the bottom and smaller optimization details near the top, built from abstract training, nutrition, sleep, movement, health-risk, and evidence symbols arranged like a refined compass map. The foundation layer should feel heavy, practical, and repeatable; the upper layer should be lighter and smaller, showing fine-tuning without making it the focus. Style: high-end editorial illustration mixed with realistic 3D detail, sophisticated and calm, evidence-based and practical. Clean GitHub documentation visual aesthetic. Soft natural morning light, crisp shadows, refined paper, matte metal, ceramic, fabric, and subtle topographic map textures. Composition: centered but spacious, strong horizontal foundation, clear visual hierarchy, readable at document width. Color palette: deep teal, slate, warm white, muted green, neutral steel, and a small red accent on a compass needle. Critical no-text constraint: the final image must contain zero written words, letterforms, numbers, labels, captions, pseudo-text, or readable marks; use simple icons, blank cards, blank grids, unlabeled shapes, and clean geometry only. Avoid neon colors, dark gym cliches, stock-photo look, exaggerated muscles, supplement products, scales as the main subject, before-after imagery, aggressive bodybuilding aesthetics, clutter, UI elements, readable text, letters, numbers, logos, brand names, watermarks, and people posing.

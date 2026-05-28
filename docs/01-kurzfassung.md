@@ -6,6 +6,12 @@
 
 Dieser Kompass ist kein Plan für perfekte Wochen, sondern ein Entscheidungsrahmen für normale Wochen. Die Reihenfolge ist bewusst: erst robuste Grundlagen, dann Optimierung.
 
+<p align="center">
+  <img src="../assets/visuals/fitness-kompass-kurzfassung-grundlagen-vor-optimierung.png" alt="Fitness-Kompass Kurzfassung Grundlagen vor Optimierung" width="100%">
+</p>
+
+*Abbildung: Die robuste Reihenfolge bleibt erst Alltag, Ernährung, Training, Schlaf und Risikoreduktion; Feintuning kommt danach.*
+
 ## 1.1 Die wichtigsten Kernideen
 
 1. **Trends schlagen Tageswerte.** Körpergewicht, Kalorien, Trainingsleistung, Schlaf und Stress schwanken. Entscheidend ist nicht ein einzelner Tag, sondern die Richtung über mehrere Wochen.
@@ -29,6 +35,12 @@ Dieser Kompass ist kein Plan für perfekte Wochen, sondern ein Entscheidungsrahm
 10. **Quellenqualität zählt.** Offizielle Empfehlungen, Leitlinien, Reviews und gute Positionspapiere sind stärker als einzelne Posts, Erfahrungsberichte oder Hype. Coaches und YouTube können praktisch wertvoll sein, ersetzen aber keine solide Quellenprüfung.
 
 11. **Systeme schlagen Motivation.** Gute Gewohnheiten sind klein, konkret und wiederholbar. Ein Plan ist dann gut, wenn er auch bei Alltag, Stress und schwankender Motivation eine Mindestversion ermöglicht.
+
+<p align="center">
+  <img src="../assets/visuals/fitness-kompass-kurzfassung-trend-statt-tageswert.png" alt="Fitness-Kompass Kurzfassung Trend statt Tageswert" width="100%">
+</p>
+
+*Abbildung: Einzelne Messpunkte schwanken; die geglättete Richtung über mehrere Wochen ist für Entscheidungen belastbarer.*
 
 ## 1.2 Minimaler Startpunkt
 
