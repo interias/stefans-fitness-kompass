@@ -128,7 +128,39 @@ Tracking ist kein Muss. Es kann aber helfen, langfristig den Überblick zu behal
 
 Für viele reicht eine App pro Kategorie oder sogar nur ein einfaches Notizbuch. Wichtiger als die perfekte App ist, dass die Daten regelmäßig, ehrlich und ohne Zwang erfasst werden.
 
-### 3.11.4 Diät-Regeln
+### 3.11.4 Erhaltungskalorien und Diät-Regeln
+
+Ein Kalorienziel ist zuerst ein Arbeitswert. Formeln und Rechner liefern einen Startpunkt; ob er stimmt, zeigt erst der Gewichtstrend.
+
+**Startwert berechnen:** Eine brauchbare Schätzung ist die Mifflin-St.-Jeor-Formel für den Ruheenergieverbrauch, im Alltag oft Grundumsatz genannt. Danach wird mit einem Aktivitätsfaktor multipliziert (<a href="https://pubmed.ncbi.nlm.nih.gov/2305711/">Mifflin et al. 1990</a>; <a href="https://www.niddk.nih.gov/bwp">NIDDK Body Weight Planner</a>).
+
+- Männer: `10 x Körpergewicht (kg) + 6,25 x Größe (cm) - 5 x Alter + 5`
+- Frauen: `10 x Körpergewicht (kg) + 6,25 x Größe (cm) - 5 x Alter - 161`
+- Erhaltungskalorien: `Ruheenergieverbrauch x Aktivitätsfaktor`
+
+Als Aktivitätsfaktor reichen grobe Arbeitswerte: 1,3-1,4 bei überwiegend sitzendem Alltag und wenig Schritten, 1,5-1,6 bei sitzendem Alltag plus regelmäßiger Bewegung oder Training, 1,7+ bei körperlich aktivem Alltag oder hohem Trainingsumfang. Beispiel: 80 kg, 180 cm, 40 Jahre, männlich ergibt ca. 1.730 kcal Ruheenergieverbrauch; mit Faktor 1,55 sind das ca. 2.680 kcal/Tag als Erhaltungsstartwert.
+
+**Defizit wählen:** Vom Erhaltungswert wird ein Defizit abgezogen. 200 kcal/Tag ist konservativ und leistungsschonend, aber langsam. 300 kcal/Tag ist für viele ein guter erster Diätwert. 500 kcal/Tag ist ein deutlicheres Defizit und oft noch alltagstauglich, wenn Protein, Schlaf und Training passen. 1.000 kcal/Tag ist eher eine harte Cutting-Phase als eine normale Diätempfehlung: Hunger, Trainingsleistung, Alltagsenergie, Regeneration, Nährstoffabdeckung und Muskelmasseerhalt werden schneller zum Problem. Je schlanker, sportlicher oder leistungsorientierter jemand ist, desto konservativer sollte das Defizit geplant werden; offizielle Gewichtsmanagement-Quellen betonen langsame, stetige Abnahme, und sportnahe Empfehlungen sind bei leanen, trainierenden Personen besonders vorsichtig (<a href="https://www.cdc.gov/healthy-weight-growth/losing-weight/index.html">CDC 2025</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/24864135/">Helms et al. 2014</a>).
+
+**Defizit in Fett umrechnen:** 1 kg Körperfett entspricht grob 7.700 kcal. Das ist ein Fettäquivalent, kein exaktes Waagenversprechen, weil Wasser, Glykogen, Verdauungsinhalt, Trainingsstress und Anpassungen im Energieverbrauch mitlaufen. Moderne Gewichtsmodelle warnen deshalb vor zu starren 3.500-kcal-pro-Pfund- oder 7.700-kcal-pro-kg-Erwartungen (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3880593/">Hall et al. 2011</a>; <a href="https://www.niddk.nih.gov/bwp">NIDDK Body Weight Planner</a>).
+
+| Tagesdefizit | Wochendefizit | grobes Fettäquivalent |
+| --- | ---: | ---: |
+| 200 kcal | 1.400 kcal | ca. 0,18 kg/Woche |
+| 300 kcal | 2.100 kcal | ca. 0,27 kg/Woche |
+| 500 kcal | 3.500 kcal | ca. 0,45 kg/Woche |
+| 1.000 kcal | 7.000 kcal | ca. 0,9 kg/Woche |
+
+**Echte Erhaltung aus zwei Wochen:** Wenn Kalorien und Morgengewicht 14 Tage halbwegs sauber erfasst wurden, lässt sich der persönliche Erhaltungswert aus dem Trend zurückrechnen:
+
+- Durchschnittskalorien aus allen 14 Tagen bilden.
+- Durchschnittsgewicht aus Woche 1 und Woche 2 bilden.
+- Gewichtsänderung berechnen: `Woche 2 - Woche 1`.
+- Erhaltungskalorien schätzen: `Durchschnittskalorien - (Gewichtsänderung in kg x 7.700 / 7)`.
+
+Die Division durch 7 passt, weil die Mittelpunkte der beiden Wochenmittel etwa eine Woche auseinanderliegen. Beispiel: Durchschnittskalorien 2.300 kcal/Tag, Woche 1 im Mittel 82,4 kg, Woche 2 im Mittel 82,0 kg. Die Änderung ist -0,4 kg. Rechnung: `2.300 - (-0,4 x 7.700 / 7) = ca. 2.740 kcal/Tag`. Wer bei 2.300 kcal/Tag rund 0,4 kg pro Woche verliert, liegt also grob 440 kcal unter Erhaltung. Bei viel Salz, anderen Kohlenhydratmengen, Muskelkater, Reisen, Krankheit oder Zyklusschwankungen ist die Rechnung lauter; dann besser weitere 1-2 Wochen beobachten.
+
+**Praktische Diät-Regeln:**
 
 - Defizit moderat halten, nicht maximal.
 - Protein eher hoch halten.
@@ -137,8 +169,6 @@ Für viele reicht eine App pro Kategorie oder sogar nur ein einfaches Notizbuch.
 - Stagnation erst nach 2-3 Wochen Trend bewerten.
 - Als grobe Orientierung ist eine Gewichtsabnahme von etwa 0,5-1,0 % des Körpergewichts pro Woche für viele Diätphasen realistischer als Crash-Diäten.
 - Schlafmangel nicht mit noch mehr Koffein und noch weniger Essen kompensieren.
-
-Je schlanker, sportlicher oder leistungsorientierter jemand ist, desto konservativer sollte das Defizit geplant werden.
 
 **Schritte als Defizit-Werkzeug:** Wenn der Gewichtstrend stagniert, sind zusätzliche Schritte oft die erste Bewegungsschraube, bevor Kalorien stark gesenkt oder harte Cardioeinheiten ergänzt werden. Alltagsbewegung erhöht den Energieverbrauch niedrigschwellig und ist für viele leichter durchzuhalten als zusätzliche intensive Einheiten. Der Effekt ist trotzdem endlich: Schritte helfen beim Defizit, ersetzen aber keine Kontrolle von Kalorien, Protein, Schlaf und Wochenbilanz.
 

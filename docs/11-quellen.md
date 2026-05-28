@@ -19,6 +19,10 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - <a href="https://www.who.int/publications/i/item/9789240046429">WHO 2022</a> - Health effects of non-sugar sweeteners: systematischer Review und Meta-Analyse.
 - <a href="https://www.ncbi.nlm.nih.gov/books/NBK592246/">WHO 2023</a> - Use of non-sugar sweeteners: Empfehlung und Einordnung der Evidenz.
 - <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790045">McGlynn et al. 2022</a> - Low- and no-calorie sweetened beverages als Ersatz für zuckergesüßte Getränke.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/2305711/">Mifflin et al. 1990</a> - Mifflin-St.-Jeor-Formel zur Schätzung des Ruheenergieverbrauchs.
+- <a href="https://www.niddk.nih.gov/bwp">NIDDK Body Weight Planner</a> - dynamisches Modell für Energiezufuhr, Körpergewicht und Erhaltungskalorien.
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3880593/">Hall et al. 2011</a> - dynamische Einordnung von Energieungleichgewicht und Körpergewichtsveränderung.
+- <a href="https://www.cdc.gov/healthy-weight-growth/losing-weight/index.html">CDC 2025</a> - Gewichtsabnahme: langsame, stetige Veränderung und alltagstaugliche Umsetzung.
 
 ## 11.2 Bewegung und Training
 
@@ -42,10 +46,17 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12927080/">Van Every et al. 2025</a> - Load-induced human skeletal muscle hypertrophy: Mechanismen, Mythen und Fehlannahmen.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/30335577/">Wackerhage et al. 2019</a> - Stimuli and sensors: mechanische Reize, Sensoren und mTORC1 im Muskelaufbau.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/29282529/">Damas et al. 2018</a> - Muskelschädigung, Muskelproteinsynthese und Hypertrophie.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/27433992/">Schoenfeld et al. 2017a</a> - Dosis-Wirkungs-Beziehung zwischen Wochenvolumen und Muskelaufbau.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/28834797/">Schoenfeld et al. 2017b</a> - niedrige vs. hohe Lasten und Hypertrophie bei ausreichend harten Sätzen.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/27174923/">Morton et al. 2016</a> - unterschiedliche Last- und Wiederholungsbereiche bei trainierten Männern.
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8884877/">Baz-Valle et al. 2022</a> - systematische Review zu unterschiedlichen Krafttrainingsvolumen und Hypertrophie.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/36334240/">Refalo et al. 2023</a> - Proximity-to-failure und Hypertrophie.
 - <a href="https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2024.1429789/full">Singer et al. 2024</a> - Satzpausen und Hypertrophie.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/34125411/">Iversen et al. 2021</a> - zeiteffiziente Trainingsprogramme für Kraft und Hypertrophie.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/37523092/">Sødal et al. 2023</a> - Drop-Sätze und Hypertrophie.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/41920484/">Havers et al. 2026</a> - Drop-Sätze: akute Anstrengung, Laktat und langfristige Anpassungen.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/32901442/">Jukic et al. 2020</a> - Cluster- und Rest-Redistribution-Setstrukturen, akute Ermüdung und Leistung.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/33475986/">Davies et al. 2021</a> - Cluster-Sets im Vergleich zu traditionellen Satzstrukturen bei Langzeitanpassungen.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/39903375/">Zhang et al. 2025</a> - Supersätze im Vergleich zu traditionellen Sätzen.
 
 ## 11.3 Langlebigkeit und Risikofaktoren
