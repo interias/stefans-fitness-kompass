@@ -55,6 +55,8 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/34125411/">Iversen et al. 2021</a> - zeiteffiziente Trainingsprogramme für Kraft und Hypertrophie.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/37523092/">Sødal et al. 2023</a> - Drop-Sätze und Hypertrophie.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/41920484/">Havers et al. 2026</a> - Drop-Sätze: akute Anstrengung, Laktat und langfristige Anpassungen.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/28532248/">Ozaki et al. 2018</a> - Drop-Set-Protokoll mit mehreren Lastreduktionen und zeiteffizienter Hypertrophie bei untrainierten Männern.
+- <a href="https://sjsp.aearedo.es/index.php/sjsp/article/view/drop-set-training-muscle-performance-body-composition">Fasihiyan et al. 2023</a> - Single-Step- vs. Multi-Step-Drop-Set-Training bei Kraftausdauer, Muskelmasse und Körperzusammensetzung.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/32901442/">Jukic et al. 2020</a> - Cluster- und Rest-Redistribution-Setstrukturen, akute Ermüdung und Leistung.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/33475986/">Davies et al. 2021</a> - Cluster-Sets im Vergleich zu traditionellen Satzstrukturen bei Langzeitanpassungen.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/39903375/">Zhang et al. 2025</a> - Supersätze im Vergleich zu traditionellen Sätzen.

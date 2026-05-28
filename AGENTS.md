@@ -15,6 +15,7 @@ Dieses Repository ist ein deutschsprachiger, persoenlicher Fitness-Kompass. Aend
 - Kapitel bleiben nummerierte Markdown-Dateien unter `docs/`.
 - Abschnitte bevorzugt als klar geschriebene Absaetze formulieren: erst die zentrale Aussage, dann Kontext oder Grenze, dann die praktische Konsequenz.
 - Wiederholte Mini-Schemata wie `Nutzen/Grenze/Beispiele` oder `Kernaussage/Praxis` vermeiden; bei kurzen Abschnitten ist ein einzelner guter Absatz meist besser.
+- Methoden-Unterkapitel wie Drop-Saetze, EMOM, Supersaetze, HIIT-Protokolle oder Tracking-Methoden nicht in identische Labelbloecke pressen; lieber 2-3 zusammenhaengende Absaetze mit Beispiel im Satzfluss.
 - Tabellen, Listen und Checklisten nur nutzen, wenn sie Entscheidungen klarer machen.
 - Kurzbelege direkt im Text verlinken; zentrale Quellen zusaetzlich in `docs/11-quellen.md` einordnen.
 - Bildassets mit passender `.prompt.md` dokumentieren.
