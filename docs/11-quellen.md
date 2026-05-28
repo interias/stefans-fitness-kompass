@@ -6,8 +6,6 @@
 
 Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 
-*Abbildung: Die Quellenlandschaft ist thematisch sortiert: Ernährung, Training, Gesundheit, Langlebigkeit, Gewohnheiten, Apps und Coach-Einordnung.*
-
 ## 11.1 Ernährung
 
 - <a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a> - Gut essen und trinken: zentrale Ernährungsempfehlungen für gesunde Erwachsene in Deutschland von 18 bis 65 Jahren.

@@ -1,9 +1,5 @@
 # 05 Ausdauertraining
 
-<p align="center">
-  <img src="../assets/visuals/fitness-kompass-training-cardio-intensitaetsmix.png" alt="Fitness-Kompass Ausdauer Intensitaetsmix" width="100%">
-</p>
-
 ## 5.1 Ausdauer ergänzen
 
 Ausdauertraining verbessert Herz-Kreislauf-Fitness, Belastbarkeit, Erholung und Alltag. Es muss nicht jedes Mal hart sein. Für Erwachsene nennen die WHO-Leitlinien 150-300 Minuten moderate oder 75-150 Minuten intensive aerobe Aktivität pro Woche als robuste Gesundheitsbasis, zusätzlich zu Krafttraining (<a href="https://www.ncbi.nlm.nih.gov/books/NBK566046/">WHO 2020</a>).

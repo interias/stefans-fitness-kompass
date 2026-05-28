@@ -6,12 +6,6 @@
 
 YouTube ist hier als Praxis- und Einordnungsquelle gedacht, nicht als Primärquelle. Die Reihenfolge bewertet Nutzen für Fitness, Training und Gesundheit.
 
-<p align="center">
-  <img src="../assets/visuals/fitness-kompass-coachquellen-praxisfilter.png" alt="Fitness-Kompass Coachquellen Praxisfilter" width="100%">
-</p>
-
-*Abbildung: Coach-Content ist am stärksten, wenn praktische Hinweise durch Grundlagen, Quellenqualität und eigene Übertragbarkeit gefiltert werden.*
-
 ## 9.1 Evidenznah und trainingsstark
 
 **Renaissance Periodization / Dr. Mike Israetel:** stark für Hypertrophie, Trainingsvolumen, Periodisierung sowie Diät- und Muskelaufbau-Logik. Besonders nützlich für Trainingsmodelle; Ton und Detailtiefe situationsabhängig einordnen.

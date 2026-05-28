@@ -46,12 +46,6 @@ Muskelaufbau braucht Nähe zum Muskelversagen, aber nicht jeder Satz muss maxima
 
 **Supersätze:** Supersätze können ein gutes zeitsparendes Werkzeug sein. Besonders sinnvoll sind nicht konkurrierende oder antagonistische Paarungen, z. B. Drücken/Ziehen; Supersätze für dieselbe Zielmuskulatur sind härter und können Volumen oder Technik schneller drücken (<a href="https://pubmed.ncbi.nlm.nih.gov/39903375/">Zhang et al. 2025</a>).
 
-<p align="center">
-  <img src="../assets/visuals/fitness-kompass-training-rir-steuerung.png" alt="Fitness-Kompass Training RIR Steuerung" width="100%">
-</p>
-
-*Abbildung: RIR macht harte Sätze planbarer: nah genug am Limit für Reiz, aber nicht jede Serie maximal.*
-
 ## 4.7 Werkzeuge pragmatisch wählen
 
 Langhantel, Kurzhantel, Kabelzug, Maschinen und Körpergewicht sind Werkzeuge. Entscheidend sind Reiz, Sicherheit und Fortschritt. Ein robuster Plan deckt die großen Bewegungsmuster ab: Kniebeuge/Beinpresse, Hinge, Drücken, Ziehen, Core und Carry/Grip.
