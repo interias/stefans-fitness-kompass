@@ -1,0 +1,89 @@
+# 10 Quellen
+
+<p align="center">
+  <img src="../assets/visuals/fitness-kompass-quellenbibliothek.png" alt="Fitness-Kompass Quellenbibliothek" width="100%">
+</p>
+
+Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
+
+## 10.1 Ernährung
+
+- <a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a> - Gut essen und trinken: zentrale Ernährungsempfehlungen für gesunde Erwachsene in Deutschland von 18 bis 65 Jahren.
+- <a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-ernaehrungskreis/">DGE 2024b</a> - Ernährungskreis: praktische Orientierung für Lebensmittelgruppen.
+- <a href="https://www.dge.de/presse/meldungen/2024/gut-essen-und-trinken-dge-stellt-neue-lebensmittelbezogene-ernaehrungsempfehlungen-fuer-deutschland-vor/">DGE 2024d</a> - Empfehlungen 2024: Hintergrund zur Überarbeitung der lebensmittelbezogenen Empfehlungen.
+- <a href="https://www.dge.de/presse/meldungen/2020/positionspapier-zur-proteinzufuhr-im-sport/">DGE 2020</a> - Proteinzufuhr im Sport: Positionspapier zu Protein, Sport und Trainingsumfang.
+- <a href="https://www.dge.de/wissenschaft/faqs/ausgewaehlte-fragen-und-antworten-zu-ballaststoffen/">DGE o. J.</a> - Ballaststoffe: Richtwert und praktische Lebensmittelquellen.
+- <a href="https://www.dge.de/gesunde-ernaehrung/faq/alkohol/">DGE 2024c</a> - Alkohol: aktuelle Einordnung zu Risiko und Konsum.
+- <a href="https://www.fda.gov/food/food-additives-petitions/high-intensity-sweeteners">FDA 2017</a> - High-Intensity Sweeteners: Sicherheit, Kalorienbeitrag, Blutzucker und ADI-Einordnung.
+- <a href="https://www.efsa.europa.eu/en/press/news/131210">EFSA 2013</a> - Aspartam-Risikobewertung: ADI, Abbauprodukte und PKU-Hinweis.
+- <a href="https://www.who.int/publications/i/item/9789240046429">WHO 2022</a> - Health effects of non-sugar sweeteners: systematischer Review und Meta-Analyse.
+- <a href="https://www.ncbi.nlm.nih.gov/books/NBK592246/">WHO 2023</a> - Use of non-sugar sweeteners: Empfehlung und Einordnung der Evidenz.
+- <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790045">McGlynn et al. 2022</a> - Low- and no-calorie sweetened beverages als Ersatz für zuckergesüßte Getränke.
+
+## 10.2 Bewegung und Training
+
+- <a href="https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Praevention/Broschueren/Konsenspapier_Runder_Tisch.pdf">BMG o. J.</a> - Bewegungsempfehlungen: Ausdauer, Kraft und weniger Sitzen.
+- <a href="https://www.ncbi.nlm.nih.gov/books/NBK566046/">WHO 2020</a> - Physical Activity Guidelines: internationale Basisempfehlungen für Ausdauer, Kraft und Sitzen.
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9289978/">Paluch et al. 2022</a> - tägliche Schritte und Gesamtsterblichkeit: Meta-Analyse aus 15 internationalen Kohorten.
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8365695/">Beaulieu et al. 2021</a> - Exercise Training, Energieaufnahme und Appetitkontrolle bei Erwachsenen mit Übergewicht oder Adipositas.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/19204579/">ACSM 2009</a> - Progression Models in Resistance Training: Grundlagen zur Progression im Krafttraining.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/21694556/">Garber et al. 2011</a> - ACSM-Position-Stand zu Ausdauer, Kraft, Flexibilität und neuromotorischem Training.
+- <a href="https://www.nsca.com/about-us/position-statements/">NSCA Position Statements</a> - Positionspapiere zu Strength &amp; Conditioning, unter anderem Gewichtheben und explosive Leistungsentwicklung.
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12927080/">Van Every et al. 2025</a> - Load-induced human skeletal muscle hypertrophy: Mechanismen, Mythen und Fehlannahmen.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/30335577/">Wackerhage et al. 2019</a> - Stimuli and sensors: mechanische Reize, Sensoren und mTORC1 im Muskelaufbau.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/29282529/">Damas et al. 2018</a> - Muskelschädigung, Muskelproteinsynthese und Hypertrophie.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/36334240/">Refalo et al. 2023</a> - Proximity-to-failure und Hypertrophie.
+- <a href="https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2024.1429789/full">Singer et al. 2024</a> - Satzpausen und Hypertrophie.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/34125411/">Iversen et al. 2021</a> - zeiteffiziente Trainingsprogramme für Kraft und Hypertrophie.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/37523092/">Sødal et al. 2023</a> - Drop-Sätze und Hypertrophie.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/39903375/">Zhang et al. 2025</a> - Supersätze im Vergleich zu traditionellen Sätzen.
+
+## 10.3 Langlebigkeit und Risikofaktoren
+
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6207481/">Li et al. 2018</a> - Lifestyle-Faktoren und geschätzte Lebenserwartung in US-Kohorten.
+- <a href="https://www.bmj.com/content/368/bmj.l6669">Li et al. 2020</a> - gesunder Lebensstil und Jahre ohne Krebs, Herz-Kreislauf-Erkrankungen und Typ-2-Diabetes.
+- <a href="https://www.who.int/news-room/fact-sheets/detail/tobacco">WHO 2025</a> - Tobacco Fact Sheet: globale Belastung durch Tabak.
+- <a href="https://www.nejm.org/doi/full/10.1056/NEJMsa1211128">Jha et al. 2013</a> - 21st-Century Hazards of Smoking and Benefits of Cessation.
+- <a href="https://www.who.int/news/item/19-09-2023-first-who-report-details-devastating-impact-of-hypertension-and-ways-to-stop-it">WHO 2023a</a> - globaler Bericht zu Hypertonie und vermeidbarer Krankheitslast.
+- <a href="https://www.cancer.gov/about-cancer/causes-prevention/risk/obesity/obesity-fact-sheet">NCI 2024</a> - Obesity and Cancer: viszerales Fett, Körpergewicht und Krebsrisiken.
+- <a href="https://www.who.int/europe/news-room/04-01-2023-no-level-of-alcohol-consumption-is-safe-for-our-health">WHO 2023b</a> - Einordnung zu Alkohol und Krebsrisiko.
+- <a href="https://www.cancer.gov/about-cancer/causes-prevention/risk/alcohol/alcohol-fact-sheet">NCI 2024b</a> - Alcohol and Cancer Risk Fact Sheet.
+- <a href="https://www.who.int/news/item/03-02-2026-four-in-ten-cancer-cases-could-be-prevented-globally">WHO/IARC 2026</a> - globale Schätzung vermeidbarer Krebsfälle durch modifizierbare Risikofaktoren.
+
+## 10.4 Schlaf und Gesundheit
+
+- <a href="https://gesund.bund.de/gut-schlafen">gesund.bund.de 2023</a> - Gut schlafen: verständliche Quelle zu Schlaf, Schlafbedarf und Schlafqualität.
+- <a href="https://register.awmf.org/assets/guidelines/063-003l_S3_Insomnie-bei-Erwachsenen_2025-04.pdf">AWMF/DGSM 2025</a> - S3-Leitlinie Insomnie bei Erwachsenen.
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4434546/">AASM/SRS 2015</a> - Recommended Amount of Sleep for a Healthy Adult.
+
+## 10.5 Gewohnheiten und Verhalten
+
+- <a href="https://www.penguin.de/buecher/james-clear-die-1-methode-minimale-veraenderung-maximale-wirkung/paperback/9783442178582">Clear dt.</a> - Die 1%-Methode: deutsche Ausgabe von *Atomic Habits*.
+- <a href="https://www.penguinrandomhouse.com/books/543993/atomic-habits-by-james-clear/9780735211292/">Clear 2018</a> - Atomic Habits: Originalausgabe.
+- <a href="https://doi.org/10.1002/ejsp.674">Lally et al. 2010</a> - How are habits formed: Studie zur Gewohnheitsbildung im Alltag.
+- <a href="https://doi.org/10.1016/S0065-2601(06)38002-1">Gollwitzer &amp; Sheeran 2006</a> - Implementation Intentions and Goal Achievement: Meta-Analyse zu Wenn-dann-Plänen.
+
+## 10.6 Sporternährung und Supplements
+
+- <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a> - Protein and Exercise: Positionspapier zu Protein für trainierende Personen.
+- <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4">ISSN 2017b</a> - Nutrient Timing: Positionspapier zu Timing von Protein, Kohlenhydraten und Energiezufuhr.
+- <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z">ISSN 2017c</a> - Kreatin: Safety and efficacy of creatine supplementation.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/24864135/">Helms et al. 2014</a> - Evidence-based recommendations for natural bodybuilding contest preparation.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/17277604/">ACSM 2007</a> - Exercise and Fluid Replacement: Flüssigkeit, Elektrolyte und Kohlenhydrate während Belastung.
+
+## 10.7 Apps und Tracking-Tools
+
+- Gewichtstrend: <a href="https://play.google.com/store/apps/details?id=net.cachapa.libra">Libra</a>, <a href="https://happyscale.com/">Happy Scale</a>, <a href="https://github.com/oliexdev/openScale">openScale</a>.
+- Ernährung: <a href="https://fddb.info/">FDDB</a>, <a href="https://www.yazio.com/">YAZIO</a>, <a href="https://www.myfitnesspal.com/">MyFitnessPal</a>.
+- Training: <a href="https://www.hevyapp.com/">Hevy</a>, <a href="https://www.strong.app/">Strong</a>, <a href="https://www.fitnotesapp.com/">FitNotes</a>.
+
+## 10.8 Coach- und Kanalquellen
+
+- <a href="https://rpstrength.com/pages/team/michael-israetel">RP / Israetel</a>
+- <a href="https://www.youtube.com/@RenaissancePeriodization">RP YouTube</a>
+- <a href="https://www.youtube.com/@JeffNippard">Jeff Nippard</a>
+- <a href="https://www.youtube.com/@HouseofHypertrophy">House of Hypertrophy</a>
+- <a href="https://www.youtube.com/@Sean_Nalewanyj">Sean Nalewanyj</a>
+- <a href="https://www.youtube.com/@doc_golo">Dr. Golo Röhrken</a>
+
+---
