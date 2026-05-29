@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/fitness-kompass-banner.png" alt="Stefans Fitness-Kompass Banner" width="100%">
+  <img src="assets/fitness-kompass-readme-hero.png" alt="Stefans Fitness-Kompass Hero" width="100%">
 </p>
 
 # Stefans-Fitness-Kompass
@@ -50,14 +50,15 @@ Wenn du nur eine Seite lesen willst, starte mit der [Kurzfassung](docs/01-kurzfa
 | [02 Quellenbewertung](docs/02-quellenbewertung.md) | Regeln zur Bewertung von Leitlinien, Reviews, Coaches und Influencer-Content. |
 | [03 Ernährung](docs/03-ernaehrung.md) | Kalorienbilanz, Protein, Lebensmittelauswahl, Tracking, Diät, Aufbau und Supplements. |
 | [04 Krafttraining](docs/04-krafttraining.md) | Progression, mTORC1/Hypertrophie, Technik, RIR, Split-Programme und Wochenstruktur. |
-| [05 Ausdauertraining](docs/05-ausdauertraining.md) | Cardio, Mitochondrien, VO2max, Zone 2, HIIT und Intensitätsmix. |
-| [06 Gesundheit und Schlaf](docs/06-gesundheit-schlaf.md) | Schlaf, Alltagsbewegung, Stress, Schmerzsignale und medizinische Basis. |
-| [07 Langlebigkeit und Risikofaktoren](docs/07-langlebigkeit-risiken.md) | Große Gesundheitshebel, Risikostatistiken, Krebsrisiken und Prävention. |
-| [08 Gewohnheiten und Alltag](docs/08-gewohnheiten-alltag.md) | 1%-Methode, Systeme, Entscheidungsregeln und Wochen-Checkliste. |
-| [09 YouTube- und Coachquellen](docs/09-youtube-coachquellen.md) | Praktische Einordnung von Kanälen und Coaches. |
-| [10 Fazit](docs/10-fazit.md) | Kompakte Zusammenfassung der robusten Strategie. |
-| [11 Quellen](docs/11-quellen.md) | Thematisch sortierte Quellenliste. |
-| [12 Über dieses Dokument](docs/12-ueber-dieses-dokument.md) | Stand, Autor, Geltungsbereich, Hinweis und Lizenzdetails. |
+| [05 Biomechanik und Übungsauswahl](docs/05-biomechanik-uebungsauswahl.md) | Bewegungsmuster, Zielmuskeln, Übungsauswahl und Prioritäten. |
+| [06 Ausdauertraining](docs/06-ausdauertraining.md) | Cardio, Mitochondrien, VO2max, Zone 2, HIIT und Intensitätsmix. |
+| [07 Gesundheit und Schlaf](docs/07-gesundheit-schlaf.md) | Schlaf, Alltagsbewegung, Stress, Schmerzsignale und medizinische Basis. |
+| [08 Langlebigkeit und Risikofaktoren](docs/08-langlebigkeit-risiken.md) | Große Gesundheitshebel, Risikostatistiken, Krebsrisiken und Prävention. |
+| [09 Gewohnheiten und Alltag](docs/09-gewohnheiten-alltag.md) | 1%-Methode, Systeme, Entscheidungsregeln und Wochen-Checkliste. |
+| [10 YouTube- und Coachquellen](docs/10-youtube-coachquellen.md) | Praktische Einordnung von Kanälen und Coaches. |
+| [11 Fazit](docs/11-fazit.md) | Kompakte Zusammenfassung der robusten Strategie. |
+| [12 Quellen](docs/12-quellen.md) | Thematisch sortierte Quellenliste. |
+| [13 Über dieses Dokument](docs/13-ueber-dieses-dokument.md) | Stand, Autor, Geltungsbereich, Hinweis und Lizenzdetails. |
 
 ## Lizenz
 
