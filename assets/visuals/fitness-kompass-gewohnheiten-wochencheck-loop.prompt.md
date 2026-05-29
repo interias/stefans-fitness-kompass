@@ -1,7 +1,7 @@
 # fitness-kompass-gewohnheiten-wochencheck-loop.png
 
 Target path: `assets/visuals/fitness-kompass-gewohnheiten-wochencheck-loop.png`
-Markdown file: `docs/08-gewohnheiten-alltag.md`
+Markdown file: `docs/09-gewohnheiten-alltag.md`
 Recommended size: 1600x900 px, aspect ratio 16:9
 
 ## Prompt

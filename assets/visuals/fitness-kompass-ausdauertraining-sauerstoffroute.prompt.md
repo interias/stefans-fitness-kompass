@@ -1,7 +1,7 @@
 # fitness-kompass-ausdauertraining-sauerstoffroute.png
 
 Target path: `assets/visuals/fitness-kompass-ausdauertraining-sauerstoffroute.png`  
-Markdown file: `docs/05-ausdauertraining.md`  
+Markdown file: `docs/06-ausdauertraining.md`
 Recommended size: 2400x600 px, aspect ratio 4:1
 
 ## Prompt
