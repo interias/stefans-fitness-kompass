@@ -1,4 +1,4 @@
-# 05 Ausdauertraining
+# 06 Ausdauertraining
 
 <p align="center">
   <img src="../assets/visuals/fitness-kompass-ausdauertraining-sauerstoffroute.png" alt="Fitness-Kompass Ausdauertraining Sauerstoffroute" width="100%">
@@ -6,7 +6,7 @@
 
 Ausdauertraining muss nicht nach Wettkampfplan aussehen. Schon ein ruhiger, wiederholbarer Mix aus lockerer Basisarbeit, langsam steigendem Umfang und wenigen harten Reizen kann Herz-Kreislauf-Fitness, Sauerstoffnutzung und Belastbarkeit verbessern. Schritte bleiben die Alltagsbasis; Ausdauertraining ist der geplante Reiz.
 
-## 5.1 Ausdauer ergänzen
+## 6.1 Ausdauer ergänzen
 
 Ausdauertraining verbessert Herz-Kreislauf-Fitness, Belastbarkeit, Erholung und Alltag. Es muss nicht jedes Mal hart sein. Für Erwachsene nennen die WHO-Leitlinien 150-300 Minuten moderate oder 75-150 Minuten intensive aerobe Aktivität pro Woche als robuste Gesundheitsbasis, zusätzlich zu Krafttraining (<a href="https://www.ncbi.nlm.nih.gov/books/NBK566046/">WHO 2020</a>).
 
@@ -16,7 +16,7 @@ Für die Praxis heißt das: viele lockere Einheiten, wenige harte Einheiten und 
 
 **Abgrenzung zu Schritten:** Alltagsbewegung und Schritte sind die Grundlage, Cardio ist der gezielte Trainingsreiz. Wer Fett verlieren will, sollte zuerst einen stabilen Bewegungsschnitt aufbauen und dann entscheiden, ob zusätzliches Cardio für Fitness, Gesundheit oder Kalorienverbrauch nötig ist. Wer laufen, OCR oder Ausdauerleistung verbessern will, braucht strukturiertes Ausdauertraining; Schritte allein reichen dafür nicht.
 
-## 5.2 Was Cardio im Körper verbessert
+## 6.2 Was Cardio im Körper verbessert
 
 Cardio ist nicht nur Kalorienverbrauch. Es trainiert die Fähigkeit, Sauerstoff aufzunehmen, zu transportieren und in der Muskulatur für Energie bereitzustellen.
 
@@ -26,7 +26,7 @@ Mitochondrien sind dabei ein gutes Beispiel für die periphere Seite von Ausdaue
 
 Für Gesundheit und Alltag zählt nicht, jede Einheit maximal hart zu machen. Entscheidend ist ein wiederholbarer Mix aus lockerer Ausdauer, ausreichend Gesamtvolumen und gelegentlich härteren Reizen, wenn Regeneration, Gelenke und Schlaf das tragen.
 
-## 5.3 VO2max verstehen
+## 6.3 VO2max verstehen
 
 VO2max beschreibt die maximale Sauerstoffaufnahme: wie viel Sauerstoff der Körper bei harter Belastung aufnehmen, transportieren und verwerten kann. Häufig wird sie relativ zum Körpergewicht als ml/kg/min angegeben.
 
@@ -42,13 +42,13 @@ Erst nach 6-8 Wochen regelmäßigem Training lohnt es sich, einzelne VO2max-Sch�
 
 *Abbildung: VO2max hängt an der Sauerstoffkette aus Aufnahme, Transport und Nutzung; Uhrenschätzungen sind nur ein indirekter Blick darauf.*
 
-## 5.4 Zone 2
+## 6.4 Zone 2
 
 "Zone 2" wird je nach System unterschiedlich verwendet. In diesem Dokument meint Zone 2 lockere bis moderate Ausdauer unterhalb der ersten Laktat- oder Ventilationsschwelle: Die Atmung ist erhöht, aber kontrolliert, und kurze Sätze sind noch möglich.
 
 Zone 2 ist nützlich, weil sie viel Trainingszeit mit relativ niedrigen Regenerationskosten erlaubt. Sie ist aber kein magischer Sonderreiz. Für VO2max, Leistung und Zeitökonomie können höhere Intensitäten zusätzlich sinnvoll sein, solange sie dosiert bleiben (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8493117/">MacIntosh et al. 2021</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/40560504/">Storoschuk et al. 2025</a>). Praktisch passen 30-60 Minuten zügiges Gehen, lockeres Joggen, Rad, Rudergerät, Crosstrainer oder Schwimmen. Der Talk-Test ist oft brauchbarer als starre Pulszonen: Wenn Reden kaum noch möglich ist, ist es für Zone 2 meist zu hart.
 
-## 5.5 HIIT
+## 6.5 HIIT
 
 HIIT bedeutet hochintensives Intervalltraining: harte Arbeitsintervalle wechseln sich mit lockeren Erholungsphasen ab. Es ist ein Werkzeug für VO2max, Leistung und Zeiteffizienz, kein Pflichtprogramm.
 
@@ -58,7 +58,7 @@ Die Grenze ist die Ermüdung. Wer neu einsteigt, schlecht schläft, Schmerzen ha
 
 Erst aufwärmen, dann hart aber kontrollierbar arbeiten, danach auslaufen oder ausfahren. Für viele reicht 1 HIIT-Einheit pro Woche zusätzlich zu lockerer Ausdauer. HIIT nicht direkt vor schwere Bein- oder Laufbelastungen legen, wenn Leistung oder Gelenke darunter leiden.
 
-## 5.6 Drei robuste HIIT-Vorlagen
+## 6.6 Drei robuste HIIT-Vorlagen
 
 Diese Protokolle sind gute Werkzeuge, aber keine Pflicht. Die beste Variante ist die, die regelmäßig, sauber und ohne unnötige Beschwerden wiederholt werden kann.
 

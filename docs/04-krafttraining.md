@@ -130,6 +130,8 @@ Langhantel, Kurzhantel, Kabelzug, Maschinen und Körpergewicht sind Werkzeuge. E
 
 Ein robuster Plan deckt die großen Bewegungsmuster ab: Kniebeuge/Beinpresse, Hinge, Drücken, Ziehen, Core und Carry/Grip. Für Alltag, Haltung, Laufen, OCR/Spartan und langfristige Robustheit sind Beine, Rücken, hintere Kette und Griffkraft zentral. Rows, Pull-downs/Pull-ups, RDLs, Beinbeuger, Carries, Hängen, Waden und Core sollten deshalb regelmäßig vorkommen.
 
+Welche Bewegung welche Muskulatur belastet und wie man Übungen dafür auswählt, wird in [05 Biomechanik und Übungsauswahl](05-biomechanik-uebungsauswahl.md) praktisch eingeordnet.
+
 ## 4.9 Regeneration als Grenze einplanen
 
 Schlaf, Ernährung, Pausen, Deloads und Stressmanagement sind Teil des Trainingsplans. Regeneration entscheidet, ob ein Volumenbereich oder Split wirklich funktioniert. Wenn Leistung, Stimmung und Schlaf mehrere Wochen schlechter werden, sollte zuerst Belastung geprüft, Volumen reduziert und Schlaf priorisiert werden.
@@ -156,7 +158,7 @@ Nicht den Split optimieren, bevor die Basics stehen. Ein mittelmäßiger Split m
 
 ## 4.11 Wochenstruktur
 
-Ausdauer wird in [05 Ausdauertraining](05-ausdauertraining.md) getrennt beschrieben. Die Wochenstruktur verbindet beide Reize trotzdem, weil Krafttraining, Laufen, Schlaf und Alltag in der Praxis um dieselbe Regeneration konkurrieren.
+Ausdauer wird in [06 Ausdauertraining](06-ausdauertraining.md) getrennt beschrieben. Die Wochenstruktur verbindet beide Reize trotzdem, weil Krafttraining, Laufen, Schlaf und Alltag in der Praxis um dieselbe Regeneration konkurrieren.
 
 ### 4.11.1 Minimal-Woche
 

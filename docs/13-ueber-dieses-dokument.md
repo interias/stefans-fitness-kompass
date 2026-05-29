@@ -1,6 +1,6 @@
-# 12 Über dieses Dokument
+# 13 Über dieses Dokument
 
-- **Stand:** 2026-05-28
+- **Stand:** 2026-05-29
 - **Autor:** Stefan Börzel, stefanboerzel@googlemail.com
 - **Geltungsbereich:** gesunde Erwachsene, primär 18 bis 65 Jahre; bei höherem Alter, Erkrankungen, Medikamenten, Schmerzen, Essstörungen, starkem Übergewicht, Schlafstörungen oder extremen Diäten fachlich abklären.
 - **Ziel:** ein persönlicher, praxistauglicher Fitness-Kompass zu Ernährung, Training, Gesundheit, Alltag und Quellenbewertung.
