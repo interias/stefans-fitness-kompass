@@ -1,9 +1,10 @@
 # 16 Über dieses Dokument
 
-- **Stand:** 2026-05-29
+- **Stand:** 2026-05-30
 - **Autor:** Stefan Börzel, stefanboerzel@googlemail.com
-- **Geltungsbereich:** gesunde Erwachsene, primär 18 bis 65 Jahre; bei höherem Alter, Erkrankungen, Medikamenten, Schmerzen, Essstörungen, starkem Übergewicht, Schlafstörungen oder extremen Diäten fachlich abklären.
+- **Geltungsbereich:** gesunde Erwachsene, primär 18 bis 65 Jahre; bei höherem Alter, Erkrankungen, Medikamenten, Schmerzen, Essstörungen, starkem Übergewicht, Schwangerschaft, Schlafstörungen oder extremen Diäten fachlich abklären.
 - **Ziel:** ein persönlicher, praxistauglicher Fitness-Kompass zu Ernährung, Training, Gesundheit, Alltag und Quellenbewertung.
+- **Pflege:** Schreibregeln stehen im [Styleguide](../STYLEGUIDE.md), die wiederholbare Prüfung in der [Review-Checkliste](../REVIEW_CHECKLIST.md), der kurze Hinweis im [Disclaimer](../DISCLAIMER.md).
 
 *Hinweis: Dieser Fitness-Kompass ersetzt keine medizinische Einzelberatung; er bündelt robuste Grundregeln für gesunde Erwachsene im genannten Geltungsbereich.*
 

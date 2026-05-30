@@ -29,7 +29,7 @@ Praktisch heißt das: Wenn Gewicht und Bauchumfang schnell steigen, aber Trainin
 
 ## 7.3 Start- und Stoppkorridor
 
-Für männliche, gesunde, trainierende Erwachsene ist der Start einer kontrollierten Massephase bei grob 12-15 % Körperfett oft ein brauchbarer Praxisbereich. Unterhalb davon wird längeres Halten für viele anstrengend; oberhalb davon wird die Massephase kürzer, weil der nächste Cut schneller nötig wird. Als pragmatische Grenze ist um 20 % Körperfett häufig ein guter Zeitpunkt, die Massephase zu beenden oder auf Erhaltung zu gehen. Das ist kein medizinischer Grenzwert und gilt nicht automatisch für Frauen, andere Zielgruppen oder Messmethoden.
+Für männliche, gesunde, trainierende Erwachsene ist der Start einer kontrollierten Massephase bei grob 12-15 % Körperfett oft ein brauchbarer Praxisbereich. Das ist eine Bodybuilding- und Coach-Heuristik, kein medizinischer Grenzwert. Unterhalb davon wird längeres Halten für viele anstrengend; oberhalb davon wird die Massephase kürzer, weil der nächste Cut schneller nötig wird. Als pragmatische Grenze ist um 20 % Körperfett häufig ein guter Zeitpunkt, die Massephase zu beenden oder auf Erhaltung zu gehen. Diese Bereiche gelten nicht automatisch für Frauen, andere Zielgruppen, andere Messmethoden oder Personen mit medizinischen Risiken.
 
 Körperfettprozent sind Schätzwerte mit deutlicher Messunsicherheit. Für Gesundheit und Alltag sind Gewichtstrend, Taillenumfang, Blutdruck, Blutwerte, Schlaf und Leistungsfähigkeit oft robuster. Die zentralen Messmethoden und Warngrenzen stehen in [04 Tracking und Messung](04-tracking.md); die Risikoeinordnung steht in [12 Langlebigkeit und Risikofaktoren](12-langlebigkeit-risiken.md).
 
@@ -55,7 +55,7 @@ Stoppsignale sind ein schnell steigender Taillenumfang, deutlich schlechtere Kon
 
 ## 7.7 Massephase beenden
 
-Eine Massephase endet nicht erst, wenn man sich unwohl fühlt. Sie endet, wenn der zusätzliche Überschuss mehr Diätkosten erzeugt als Nutzen für den Muskelaufbau. Praktisch heißt das: bei grob 20 % Körperfett für Männer, stark steigendem Taillentrend oder ungünstigen Gesundheitsmarkern auf Erhaltung gehen und entscheiden, ob ein Cut sinnvoll ist.
+Eine Massephase endet nicht erst, wenn man sich unwohl fühlt. Sie endet, wenn der zusätzliche Überschuss mehr Diätkosten erzeugt als Nutzen für den Muskelaufbau. Praktisch heißt das: bei grob 20 % Körperfett für Männer als Heuristik, stark steigendem Taillentrend oder ungünstigen Gesundheitsmarkern auf Erhaltung gehen und entscheiden, ob ein Cut sinnvoll ist.
 
 Wer bei etwa 12-15 % startet, langsam zunimmt und bei etwa 18-20 % stoppt, kann oft mehrere Monate produktiv aufbauen. Wer bei 20 % startet und schnell zunimmt, muss meist früher wieder diäten. Die längere, kontrollierte Massephase ist deshalb meistens stärker als der schnelle Dirty Bulk mit langer Reparaturphase.
 

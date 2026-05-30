@@ -33,4 +33,8 @@ Diese README dient als Einstieg in die Kapitel des Fitness-Kompasses. Sie ersetz
 
 ## Geltungsbereich
 
-Der Fitness-Kompass richtet sich primär an gesunde Erwachsene von 18 bis 65 Jahren. Bei Erkrankungen, Medikamenten, Schmerzen, Essstörungen, starkem Übergewicht, Schlafstörungen oder extremen Diäten ist fachliche Abklärung sinnvoll.
+Der Fitness-Kompass richtet sich primär an gesunde Erwachsene von 18 bis 65 Jahren. Bei Erkrankungen, Medikamenten, Schmerzen, Essstörungen, starkem Übergewicht, Schwangerschaft, Schlafstörungen oder extremen Diäten ist fachliche Abklärung sinnvoll.
+
+## Projektpflege
+
+Schreibregeln, Review-Fragen und der kurze Hinweis stehen im Root-Verzeichnis: [Styleguide](../STYLEGUIDE.md), [Review-Checkliste](../REVIEW_CHECKLIST.md) und [Disclaimer](../DISCLAIMER.md).

@@ -28,6 +28,8 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - <a href="https://www.nhlbi.nih.gov/health/heart-healthy-living/healthy-weight">NHLBI o. J.</a> - Taillenumfang und erhöhte Gesundheitsrisiken bei zentraler Fettverteilung.
 - <a href="https://www.nice.org.uk/guidance/ng246/chapter/Recommendations">NICE 2025</a> - Waist-to-height ratio und Einordnung zentraler Fettverteilung.
 - <a href="https://www.nice.org.uk/guidance/ng246/chapter/Physical-activity-and-diet">NICE 2025b</a> - Low-energy und Very-low-energy diets: nur mit Nährstoffvollständigkeit, fachlicher Begleitung und begrenzter Dauer.
+- <a href="https://gesund.bund.de/bluthochdruck">gesund.bund.de o. J.</a> - Bluthochdruck: verständliche Einordnung von Grenzwerten, Risiken und ärztlicher Abklärung.
+- <a href="https://register.awmf.org/assets/guidelines/nvl-009k_S3_Hypertonie_2023-06.pdf">AWMF/NVL 2023</a> - Nationale VersorgungsLeitlinie Hypertonie, Kurzfassung: Messung, Cut-offs und Behandlungskontext.
 - <a href="https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings">AHA 2024</a> - Blutdruckkategorien und Einordnung erhöhter Werte.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/2305711/">Mifflin et al. 1990</a> - Mifflin-St.-Jeor-Formel zur Schätzung des Ruheenergieverbrauchs.
 - <a href="https://www.niddk.nih.gov/bwp">NIDDK Body Weight Planner</a> - dynamisches Modell für Energiezufuhr, Körpergewicht und Erhaltungskalorien.
@@ -128,6 +130,10 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/24864135/">Helms et al. 2014</a> - Evidence-based recommendations for natural bodybuilding contest preparation.
 - <a href="https://bjsm.bmj.com/content/57/17/1073">IOC 2023</a> - Consensus Statement zu Relative Energy Deficiency in Sport und problematischer niedriger Energieverfügbarkeit.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/17277604/">ACSM 2007</a> - Exercise and Fluid Replacement: Flüssigkeit, Elektrolyte und Kohlenhydrate während Belastung.
+- <a href="https://www.bfr.bund.de/veroeffentlichung/ausgewaehlte-fragen-und-antworten-zu-vitamin-d/">BfR 2025a</a> - Vitamin D: Versorgung, Sonnenexposition und vorsichtige Supplement-Einordnung.
+- <a href="https://www.bfr.bund.de/lebensmittel-und-futtermittelsicherheit/bewertung-der-stofflichen-risiken-von-lebensmitteln/bewertung-von-lebensmittelinhaltsstoffen/bewertung-von-vitaminen-und-mineralstoffen-in-lebensmitteln-neu/">BfR 2025b</a> - Bewertung von Vitaminen und Mineralstoffen, Höchstmengen und Risikokontext.
+- <a href="https://www.dge.de/wissenschaft/referenzwerte/vitamin-b12/">DGE B12</a> - Vitamin B12: Referenzwerte und Einordnung bei rein pflanzlicher Ernährung.
+- <a href="https://www.dge.de/gesunde-ernaehrung/faq/faqs-vegane-ernaehrung/">DGE vegan</a> - vegane Ernährung: kritische Nährstoffe und Notwendigkeit von Vitamin-B12-Präparaten.
 
 ## 15.9 Apps und Tracking-Tools
 
@@ -143,5 +149,8 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - <a href="https://www.youtube.com/@HouseofHypertrophy">House of Hypertrophy</a>
 - <a href="https://www.youtube.com/@Sean_Nalewanyj">Sean Nalewanyj</a>
 - <a href="https://www.youtube.com/@doc_golo">Dr. Golo Röhrken</a>
+- <a href="https://www.youtube.com/@schmaleschulter">Schmale Schulter</a>
+- <a href="https://yellowdude.co/">Yellow Dude</a>
+- <a href="https://linktr.ee/tobi_aesthetics">Tobi Aesthetics aka Mr. LAT</a>
 
 ---

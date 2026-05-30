@@ -13,8 +13,10 @@ Ein freier, persönlicher Fitness-Kompass zu Ernährung, Training, Gesundheit, A
 ## Inhaltsverzeichnis
 
 - [Worum es geht](#worum-es-geht)
+- [Geltungsbereich](#geltungsbereich)
 - [Schnellstart](#schnellstart)
 - [Kapitel](#kapitel)
+- [Projektregeln](#projektregeln)
 - [Lizenz](#lizenz)
 
 ## Worum es geht
@@ -28,6 +30,10 @@ Der Kompass ist kein perfekter Wochenplan, sondern ein Entscheidungsrahmen für 
 - große Gesundheitsrisiken wie Rauchen, Blutdruck, Bauchfett und Alkohol nüchtern priorisieren.
 - Quellen kritisch bewerten statt Fitness-Hype zu übernehmen.
 - Gewohnheiten so klein bauen, dass sie regelmäßig passieren.
+
+## Geltungsbereich
+
+Der Fitness-Kompass richtet sich primär an gesunde Erwachsene von 18 bis 65 Jahren. Er ersetzt keine medizinische Einzelberatung. Bei Erkrankungen, Medikamenten, Schmerzen, Essstörungen, starkem Übergewicht, Schlafstörungen, Schwangerschaft oder extremen Diäten ist fachliche Abklärung sinnvoll.
 
 ## Schnellstart
 
@@ -62,6 +68,10 @@ Wenn du nur eine Seite lesen willst, starte mit der [Kurzfassung](docs/01-kurzfa
 | [14 Fazit](docs/14-fazit.md) | Kompakte Zusammenfassung der robusten Strategie. |
 | [15 Quellen](docs/15-quellen.md) | Thematisch sortierte Quellenliste. |
 | [16 Über dieses Dokument](docs/16-ueber-dieses-dokument.md) | Stand, Autor, Geltungsbereich, Hinweis und Lizenzdetails. |
+
+## Projektregeln
+
+Redaktionelle Regeln stehen im [Styleguide](STYLEGUIDE.md), die wiederholbare Prüfung im [Review-Check](REVIEW_CHECKLIST.md). Der kurze medizinische und rechtliche Hinweis steht zusätzlich im [Disclaimer](DISCLAIMER.md).
 
 ## Lizenz
 

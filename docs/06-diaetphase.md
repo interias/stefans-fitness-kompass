@@ -4,7 +4,7 @@
   <img src="../assets/visuals/fitness-kompass-diaetphase-energiebilanz-banner.png" alt="Fitness-Kompass Diätphase Energiebilanz Banner" width="100%">
 </p>
 
-Diätphase bedeutet in diesem Kompass eine geplante Fettverlustphase, nicht eine Ernährungsidentität. Ziel ist ein moderates Defizit, das lange genug wiederholbar bleibt, ohne Training, Schlaf, Alltag und Nährstoffabdeckung unnötig zu beschädigen. Bei Essstörungen, starkem Übergewicht, Medikamenten, Erkrankungen, auffälliger Müdigkeit oder sehr aggressiven Diäten ist fachliche Begleitung sinnvoll.
+Diätphase bedeutet in diesem Kompass eine geplante Fettverlustphase, nicht eine Ernährungsidentität. Ziel ist ein moderates Defizit, das lange genug wiederholbar bleibt, ohne Training, Schlaf, Alltag und Nährstoffabdeckung unnötig zu beschädigen. Bei Essstörungen, starkem Übergewicht, Schwangerschaft, Medikamenten, Erkrankungen, auffälliger Müdigkeit oder sehr aggressiven Diäten ist fachliche Begleitung sinnvoll.
 
 ## 6.1 Energiebilanz verstehen
 
@@ -18,7 +18,7 @@ Ein Kalorienziel ist zuerst ein Arbeitswert. Erhaltungskalorien können mit Rech
 
 ## 6.3 Defizit planen
 
-Vom Erhaltungswert wird ein Defizit abgezogen. 200 kcal/Tag ist konservativ und leistungsschonend, aber langsam. 300-500 kcal/Tag ist für viele ein guter Startbereich, wenn Protein, Schlaf und Training passen. 1.000 kcal/Tag ist eher eine harte Cutting-Phase als eine normale Empfehlung: Hunger, Trainingsleistung, Alltagsenergie, Regeneration, Nährstoffabdeckung und Muskelerhalt werden schneller zum Problem.
+Vom Erhaltungswert wird ein Defizit abgezogen. 200 kcal/Tag ist konservativ und leistungsschonend, aber langsam. 300-500 kcal/Tag ist für viele ein guter Startbereich, wenn Protein, Schlaf und Training passen. 1.000 kcal/Tag ist keine normale Empfehlung, sondern eine harte Spezialphase mit klarer Grenze: Hunger, Trainingsleistung, Alltagsenergie, Regeneration, Nährstoffabdeckung und Muskelerhalt werden schneller zum Problem.
 
 | Tagesdefizit | Wochendefizit | grobes Fettäquivalent |
 | --- | ---: | ---: |
@@ -29,7 +29,7 @@ Vom Erhaltungswert wird ein Defizit abgezogen. 200 kcal/Tag ist konservativ und 
 
 Die Kalorienwerte sind Rechenanker, keine Waagenversprechen. Für viele Diätphasen ist eine Abnahme von etwa 0,5-1,0 % des Körpergewichts pro Woche ein realistischer Korridor; offizielle Gewichtsmanagement-Quellen betonen langsame, stetige Veränderung, und sportnahe Empfehlungen sind bei schlanken, trainierenden Personen besonders vorsichtig (<a href="https://www.cdc.gov/healthy-weight-growth/losing-weight/index.html">CDC 2025</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/24864135/">Helms et al. 2014</a>). Wie dieser Korridor gemessen wird, steht in [04 Tracking und Messung](04-tracking.md).
 
-Ein Defizit um 1.000 kcal/Tag ist eine kurze Spezialphase, keine Standardlösung. Häufig sinnvolle Grenze: 4-6 Wochen, dann 1-2 Wochen Erhaltung oder ein Wechsel auf ein moderateres Defizit. Gemeint ist dabei das Defizit, nicht eine Gesamtzufuhr von 1.000 kcal/Tag. Sehr niedrige Gesamtzufuhren gehören in einen anderen Kontext: NICE ordnet 800-1.200 kcal/Tag und unter 800 kcal/Tag als Low- bzw. Very-low-energy diets ein und empfiehlt sie nur mit Nährstoffvollständigkeit, fachlicher Begleitung, klarer Indikation und begrenzter Dauer (<a href="https://www.nice.org.uk/guidance/ng246/chapter/Physical-activity-and-diet">NICE 2025b</a>).
+Ein Defizit um 1.000 kcal/Tag ist eine kurze Spezialphase, keine Standardlösung. Häufig sinnvolle Grenze: 4-6 Wochen, dann 1-2 Wochen Erhaltung oder ein Wechsel auf ein moderateres Defizit. Gemeint ist dabei das Defizit, nicht eine Gesamtzufuhr von 1.000 kcal/Tag. Für normalgewichtige oder sehr schlanke Personen, bei Essstörungsrisiko, Schwangerschaft, Medikamenten, Erkrankungen, auffälliger Müdigkeit, RED-S-Warnsignalen oder sehr hoher Trainingslast ist so ein Vorgehen ohne fachliche Begleitung nicht passend. Sehr niedrige Gesamtzufuhren gehören in einen anderen Kontext: NICE ordnet 800-1.200 kcal/Tag und unter 800 kcal/Tag als Low- bzw. Very-low-energy diets ein und empfiehlt sie nur mit Nährstoffvollständigkeit, fachlicher Begleitung, klarer Indikation und begrenzter Dauer (<a href="https://www.nice.org.uk/guidance/ng246/chapter/Physical-activity-and-diet">NICE 2025b</a>).
 
 ## 6.4 Hunger, Sättigung und hormonelle Anpassung
 
@@ -51,9 +51,9 @@ Bei trainierenden Personen untersuchte Campbell et al. ein 7-wöchiges Defizit m
 
 Ein Diet Break ist länger: meistens 7-14 Tage auf Erhaltungskalorien. Er passt eher nach mehreren harten Diätwochen, bei hoher Diätmüdigkeit oder nach einer 4-6-wöchigen aggressiven Phase. In der MATADOR-Studie mit Männern mit Adipositas führte ein Wechsel aus Defizit- und Erhaltungsblöcken zu mehr Fettverlust als kontinuierliche Restriktion, aber das Protokoll dauerte deutlich länger und ist nicht automatisch auf jede normale Diät übertragbar (<a href="https://www.nature.com/articles/ijo2017206">Byrne et al. 2018</a>). Häufig sinnvoller als ein perfektes Protokoll ist ein nüchterner Wochencheck: Ist das Defizit noch tragbar, oder braucht es Erhaltung, bevor die Diät kippt?
 
-## 6.7 Cheat Codes und Hacks nüchtern einordnen
+## 6.7 Abkürzungen und Diät-Hacks nüchtern einordnen
 
-Cheat Codes sind keine Abkürzung um die Energiebilanz herum. Sinnvoll sind nur Hebel, die das Defizit mit weniger Reibung ermöglichen.
+Diät-Hacks sind keine Abkürzung um die Energiebilanz herum. Sinnvoll sind nur Hebel, die das Defizit mit weniger Reibung ermöglichen.
 
 Protein pro Hauptmahlzeit ist der erste Hebel, weil es Sättigung und Muskelerhalt unterstützt. Gemüse, Obst, Kartoffeln, Hülsenfrüchte, Suppen und Salate helfen über Volumen, Wasser und Ballaststoffe; die CDC beschreibt genau diese Volumenlogik als praktische Gewichtsmanagement-Strategie (<a href="https://www.cdc.gov/healthy-weight-growth/healthy-eating/fruits-vegetables.html">CDC 2025b</a>). Kalorienfreie Getränke, Zero-Getränke als Ersatz für Zuckergetränke, feste Standardmahlzeiten und vorbereitete Notfalloptionen senken Entscheidungslast.
 

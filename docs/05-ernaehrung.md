@@ -20,7 +20,7 @@ Für gesunde Erwachsene von 19 bis unter 65 Jahren nennt die DGE 0,8 g Protein p
 
 - **Allgemeine Gesundheit:** 19 bis unter 65 Jahre etwa 0,8 g/kg/Tag; ab 65 Jahren etwa 1,0 g/kg/Tag als DGE-Schätzwert. Praktisch sind das Untergrenzen für grundlegende Versorgung, nicht die Oberkante dessen, was sinnvoll sein kann.
 - **Krafttraining/Muskelaufbau:** häufig 1,6-2,0 g/kg/Tag.
-- **Diät/Fettverlust:** häufig 1,8-2,2 g/kg/Tag, besonders bei Krafttraining und hohem Sättigungsbedarf.
+- **Diät/Fettverlust:** häufig 1,8-2,2 g/kg/Tag, besonders bei Krafttraining, schlankeren Ausgangslagen und hohem Sättigungsbedarf; sportnahe Empfehlungen für Natural-Bodybuilding-Diäten liegen in diesem Bereich, sind aber nicht automatisch auf jede normale Diät übertragbar (<a href="https://pubmed.ncbi.nlm.nih.gov/24864135/">Helms et al. 2014</a>).
 - **Sehr hohe Werte:** nur gezielt einsetzen, wenn Ernährung, Nierenfunktion, Flüssigkeitszufuhr und Kontext passen.
 
 Wer trainiert, abnehmen will, älter ist, wenig Muskelmasse hat oder hohe Sättigung braucht, liegt oft sinnvoll über der reinen Basisabsicherung. Bei starkem Übergewicht kann eine Berechnung nach Zielgewicht oder fettfreier Masse sinnvoller sein als eine starre Rechnung mit aktuellem Körpergewicht.
@@ -114,14 +114,16 @@ Wer Muskeln aufbauen will, braucht ebenfalls keine andere Lebensmittelmoral, son
 
 ### 5.11.3 Supplements
 
-Supplements ergänzen, ersetzen aber nicht Ernährung, Training, Schlaf und Konsistenz.
+Supplements ergänzen, ersetzen aber nicht Ernährung, Training, Schlaf und Konsistenz. Sinnvoll sind sie vor allem, wenn ein konkreter Bedarf, eine Versorgungslücke oder ein praktisches Problem vorliegt. Mehr ist nicht automatisch besser: Bei Mikronährstoffen zählen Blutwerte, Ernährungsmuster, Medikamente, Erkrankungen und sichere Obergrenzen.
 
 **Sinnvolle Kandidaten:**
 
 - **Protein/Whey:** praktisch, wenn Lebensmittel nicht reichen (<a href="https://www.dge.de/presse/meldungen/2020/positionspapier-zur-proteinzufuhr-im-sport/">DGE 2020</a>; <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a>).
 - **Kreatin-Monohydrat:** gut untersucht; häufig 3-5 g/Tag als einfache Praxisdosis (<a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z">ISSN 2017c</a>).
 - **Elektrolyte/Natrium:** situationsabhängig sinnvoll bei langen, heißen oder sehr schweißtreibenden Ausdauerbelastungen (<a href="https://pubmed.ncbi.nlm.nih.gov/17277604/">ACSM 2007</a>).
-- **Vitamin D, B12, Eisen, Omega-3:** abhängig von Ernährung, Blutwerten, Symptomen oder fachlicher Einschätzung.
+- **Vitamin D:** bei wenig Sonne, auffälligen Werten oder fachlicher Empfehlung prüfen; dauerhaft hohe Dosierungen nicht auf Verdacht nehmen. Das BfR nennt für Nahrungsergänzungsmittel vorsichtige Höchstmengen und betont, dass bei ausreichender Sonnenexposition und ausgewogener Ernährung oft keine Präparate nötig sind (<a href="https://www.bfr.bund.de/veroeffentlichung/ausgewaehlte-fragen-und-antworten-zu-vitamin-d/">BfR 2025a</a>; <a href="https://www.bfr.bund.de/lebensmittel-und-futtermittelsicherheit/bewertung-der-stofflichen-risiken-von-lebensmitteln/bewertung-von-lebensmittelinhaltsstoffen/bewertung-von-vitaminen-und-mineralstoffen-in-lebensmitteln-neu/">BfR 2025b</a>).
+- **Vitamin B12:** bei veganer Ernährung praktisch Pflicht; bei sehr geringer Aufnahme tierischer Lebensmittel prüfen. Die DGE nennt Vitamin B12 als kritischen Nährstoff und verweist bei veganer Ernährung auf Präparate (<a href="https://www.dge.de/wissenschaft/referenzwerte/vitamin-b12/">DGE B12</a>; <a href="https://www.dge.de/gesunde-ernaehrung/faq/faqs-vegane-ernaehrung/">DGE vegan</a>).
+- **Eisen, Omega-3 und andere Mikronährstoffe:** nicht pauschal nehmen, sondern Ernährung, Blutwerte, Symptome und Zielgruppe prüfen. Das gilt besonders bei starker Müdigkeit, veganer Ernährung, sehr niedriger Energiezufuhr, starker Menstruation, Medikamenten oder Erkrankungen.
 
 **Nicht priorisieren:**
 

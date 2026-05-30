@@ -4,7 +4,7 @@
   <img src="../assets/visuals/fitness-kompass-fazit-kompassroute.png" alt="Fitness-Kompass Fazit Kompassroute" width="100%">
 </p>
 
-Die beste Fitnessstrategie ist robust:
+Eine robuste Fitnessstrategie bleibt unspektakulär:
 
 - genug Protein,
 - überwiegend gute Lebensmittel,
