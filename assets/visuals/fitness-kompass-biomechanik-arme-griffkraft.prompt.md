@@ -1,14 +1,14 @@
 # fitness-kompass-biomechanik-arme-griffkraft.png
 
 Target path: `assets/visuals/fitness-kompass-biomechanik-arme-griffkraft.png`
-Markdown file: `docs/08-biomechanik-uebungsauswahl.md`
+Markdown file: `docs/09-biomechanik-uebungsauswahl.md`
 Recommended size: 1600x900 px, aspect ratio 16:9
 Generated size: 1672x941 px
 
 ## Prompt
 
 Use case: scientific-educational
-Asset type: replacement inline anatomy visual for docs/08-biomechanik-uebungsauswahl.md, section 8.9 arms/forearms/grip, target aspect ratio 16:9, intended final size 1600x900 px
+Asset type: replacement inline anatomy visual for docs/09-biomechanik-uebungsauswahl.md, section 8.9 arms/forearms/grip, target aspect ratio 16:9, intended final size 1600x900 px
 Primary request: Create an anatomically careful, ultrarealistic but calm arm and grip muscle illustration in the existing Fitness Compass visual style. The image is a clean two-view anatomical plate with no text: left side shows one coherent anterior upper-arm and forearm view with palm-up hand; right side shows one coherent posterior-lateral upper-arm and forearm view with dorsal hand. Do not blend the arms together. Do not make a random collage.
 Anatomy requirements: anterior view must clearly show biceps brachii as two heads converging toward radial tuberosity and bicipital aponeurosis, brachialis deep to the biceps from distal anterior humerus toward ulna, brachioradialis on lateral forearm, and forearm flexor-pronator mass from medial epicondyle with tendons continuing toward wrist and fingers. Posterior-lateral view must clearly show triceps long/lateral/medial heads converging to the olecranon via triceps tendon, and extensor-supinator forearm mass from lateral epicondyle with dorsal tendons toward wrist and fingers. Include semi-transparent humerus, radius, ulna, elbow joint, wrist bones, metacarpals, and finger bones. Keep hand relaxed, not clenched.
 Scene/backdrop: clean warm off-white anatomical atlas background with subtle paper texture and faint Fitness Compass compass-line motif, no gym scene.

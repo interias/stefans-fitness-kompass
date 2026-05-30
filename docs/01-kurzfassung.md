@@ -10,7 +10,7 @@ Dieser Kompass ist kein Plan für perfekte Wochen, sondern ein Entscheidungsrahm
 
 1. **Trends schlagen Tageswerte.** Körpergewicht, Kalorien, Trainingsleistung, Schlaf und Stress schwanken. Entscheidend ist nicht ein einzelner Tag, sondern die Richtung über mehrere Wochen.
 
-2. **Die Kalorienbilanz steuert den Gewichtstrend.** Lebensmittel sind selten allein "gut" oder "schlecht"; Menge, Regelmäßigkeit, Sättigung, Umgebung und Wochenbilanz zählen stärker als einzelne Mahlzeiten. Diät nutzt ein moderates Defizit, Aufbau einen kontrollierten Überschuss.
+2. **Die Kalorienbilanz steuert den Gewichtstrend.** Lebensmittel sind selten allein "gut" oder "schlecht"; Menge, Regelmäßigkeit, Sättigung, Umgebung und Wochenbilanz zählen stärker als einzelne Mahlzeiten. Diätphase nutzt ein moderates Defizit, Massephase einen kontrollierten Überschuss.
 
 3. **Protein und Lebensmittelqualität machen die Kalorienbilanz praktikabel.** Protein unterstützt Sättigung, Muskelerhalt und Muskelaufbau; für trainierende Personen ist ein Bereich um 1,4-2,0 g/kg/Tag häufig sinnvoll (<a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a>). Die Basis bleibt eine überwiegend pflanzenbetonte, ballaststoffreiche Ernährung mit klaren Proteinquellen, sinnvollen Kohlenhydraten und guter Fettqualität (<a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a>).
 
@@ -24,7 +24,7 @@ Dieser Kompass ist kein Plan für perfekte Wochen, sondern ein Entscheidungsrahm
 
 8. **Langlebigkeit ist die Summe großer vermeidbarer Risiken.** Rauchen, hoher Blutdruck, viszerales Fett, Alkohol, Bewegungsmangel, schlechter Schlaf und verpasste Vorsorge sind größere Hebel als die meisten kleinen Optimierungen. Kohorten und offizielle Gesundheitsquellen zeigen: mehrere gute Lebensstilfaktoren zusammen sind mit deutlich mehr Lebenszeit und gesunder Lebenszeit verbunden (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6207481/">Li et al. 2018</a>; <a href="https://www.bmj.com/content/368/bmj.l6669">Li et al. 2020</a>).
 
-9. **Tracking hilft, ist aber kein Muss.** Gewichtstrend, Ernährung und Training können mit Apps oder einem einfachen Logbuch sichtbarer werden. Die Daten sind Arbeitswerte, keine Identität; sie sollen Entscheidungen erleichtern, nicht Druck erzeugen.
+9. **Tracking hilft, ist aber kein Muss.** Gewichtstrend, Ernährung und Training können mit Apps oder einem einfachen Logbuch sichtbarer werden. Die Daten sind Arbeitswerte, keine Identität; [04 Tracking und Messung](04-tracking.md) bündelt Messmethoden, Formeln und Grenzen.
 
 10. **Quellenqualität zählt.** Offizielle Empfehlungen, Leitlinien, Reviews und gute Positionspapiere sind stärker als einzelne Posts, Erfahrungsberichte oder Hype. Coaches und YouTube können praktisch wertvoll sein, ersetzen aber keine solide Quellenprüfung.
 
@@ -39,7 +39,7 @@ Dieser Kompass ist kein Plan für perfekte Wochen, sondern ein Entscheidungsrahm
 - Ausdauer und Alltagsbewegung regelmäßig einbauen: meist locker, bei stabiler Basis optional gezielte Intervalle.
 - Schlaf und Stress wie echte Trainingsfaktoren behandeln.
 - Blutdruck, Taillenumfang, Vorsorge und Impfstatus nicht dauerhaft aufschieben.
-- Bei Diät oder Aufbau wenige Kennzahlen tracken, bis die Richtung klar ist.
+- Bei Diät- oder Massephase wenige Kennzahlen tracken, bis die Richtung klar ist.
 
 <p align="center">
   <img src="../assets/visuals/fitness-kompass-kurzfassung-grundlagen-vor-optimierung.png" alt="Fitness-Kompass Kurzfassung Grundlagen vor Optimierung" width="100%">

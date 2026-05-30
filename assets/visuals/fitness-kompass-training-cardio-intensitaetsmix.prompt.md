@@ -1,7 +1,7 @@
 # fitness-kompass-training-cardio-intensitaetsmix.png
 
 Target path: `assets/visuals/fitness-kompass-training-cardio-intensitaetsmix.png`
-Markdown file: `docs/09-ausdauertraining.md`
+Markdown file: `docs/10-ausdauertraining.md`
 Recommended size: 1600x900 px, aspect ratio 16:9
 
 ## Prompt

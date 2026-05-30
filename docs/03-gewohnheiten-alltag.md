@@ -51,14 +51,14 @@ Gewohnheiten sollen so klein starten, dass sie zuverlässig beginnen, und so kla
 4. Umgebung gestalten: Was sichtbar ist, wird eher gegessen oder getan.
 5. Rückfallplan haben: schlechte Woche bedeutet Minimal-Woche, nicht Abbruch.
 6. Wochentrend statt Tagesurteil.
-7. Fortschritt dokumentieren: Gewicht, Training, Laufzeiten, Umfänge, optional Fotos.
+7. Fortschritt dokumentieren: wenige Kennzahlen reichen; Messmethoden stehen in [04 Tracking und Messung](04-tracking.md).
 8. Belohnung nicht nur über Essen lösen: Sauna, Spaziergang, Ausrüstung, Freizeit, Schlaf.
 9. Social Media filtern: keine Angst-, Hype- oder Detox-Quellen.
 10. Monatsreview durchführen: Was funktioniert? Was nervt? Was ist zu kompliziert?
 
 ### 3.2.2 Entscheidungsregeln
 
-**Gewicht stagniert 2-3 Wochen:** Kalorienaufnahme prüfen, Protein/Faser/Sättigung optimieren, Schritte leicht erhöhen oder 100-200 kcal reduzieren.
+**Gewicht stagniert 2-3 Wochen:** zuerst Messstandard und Trend prüfen, dann Kalorienaufnahme, Protein/Faser/Sättigung, Schritte oder eine kleine Kalorienanpassung.
 
 **Training stagniert:** Schlaf, Technik, Übungsauswahl, Satznähe zum Versagen, Volumen und Deload prüfen.
 

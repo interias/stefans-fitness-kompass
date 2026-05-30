@@ -1,7 +1,7 @@
 # fitness-kompass-training-progression.png
 
 Target path: `assets/visuals/fitness-kompass-training-progression.png`  
-Markdown file: `docs/07-krafttraining.md`
+Markdown file: `docs/08-krafttraining.md`
 Recommended size: 2400x600 px, aspect ratio 4:1
 
 ## Prompt

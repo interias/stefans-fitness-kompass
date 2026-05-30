@@ -1,14 +1,14 @@
 # fitness-kompass-biomechanik-pectoralis-fasern.png
 
 Target path: `assets/visuals/fitness-kompass-biomechanik-pectoralis-fasern.png`
-Markdown file: `docs/08-biomechanik-uebungsauswahl.md`
+Markdown file: `docs/09-biomechanik-uebungsauswahl.md`
 Recommended size: 1600x900 px, aspect ratio 16:9
 Generated size: 1672x941 px
 
 ## Prompt
 
 Use case: scientific-educational
-Asset type: replacement inline anatomy visual for docs/08-biomechanik-uebungsauswahl.md, section 8.7 chest/pectoralis, target aspect ratio 16:9, intended final size 1600x900 px
+Asset type: replacement inline anatomy visual for docs/09-biomechanik-uebungsauswahl.md, section 8.7 chest/pectoralis, target aspect ratio 16:9, intended final size 1600x900 px
 Primary request: Create an anatomically careful, ultrarealistic but calm pectoralis major illustration in the existing Fitness Compass visual style. Show one coherent anterior-oblique upper-torso anatomy model cropped close on clavicle, sternum, upper ribs, shoulder joint, and proximal humerus. This is a non-sexual educational anatomy model, not a person posing. No skin emphasis.
 Anatomy requirements: highlight pectoralis major with three visible fiber regions: clavicular head from medial half of clavicle toward upper humerus; sternocostal head from sternum and costal cartilages of roughly ribs 1-6/7 toward the humeral tendon; inferior abdominal fibers from external oblique aponeurosis/lower chest sweeping upward toward the same tendon. Show the fibers converging and twisting into a single tendon inserting on the lateral lip of the intertubercular sulcus / crest of greater tubercle of the humerus. Show semi-transparent clavicle, sternum, upper ribs, scapula shoulder socket, and proximal humerus. Keep pectoralis minor only as a faint deeper secondary shape if visible.
 Scene/backdrop: clean warm off-white anatomical atlas background with subtle paper texture and faint Fitness Compass compass-line motif, no gym scene.

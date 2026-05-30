@@ -1,7 +1,7 @@
 # fitness-kompass-training-mtorc1-reiz-ermuedung.png
 
 Target path: `assets/visuals/fitness-kompass-training-mtorc1-reiz-ermuedung.png`
-Markdown file: `docs/07-krafttraining.md`
+Markdown file: `docs/08-krafttraining.md`
 Recommended size: 1600x900 px, aspect ratio 16:9
 
 ## Prompt

@@ -1,7 +1,7 @@
 # fitness-kompass-ernaehrung-massephase-korridor.png
 
 Target path: `assets/visuals/fitness-kompass-ernaehrung-massephase-korridor.png`
-Markdown file: `docs/06-massephase.md`
+Markdown file: `docs/07-massephase.md`
 Recommended size: 1600x900 px, aspect ratio 16:9
 
 ## Prompt

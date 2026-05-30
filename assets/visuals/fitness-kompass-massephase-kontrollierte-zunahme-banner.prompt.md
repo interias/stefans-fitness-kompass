@@ -1,7 +1,7 @@
 # fitness-kompass-massephase-kontrollierte-zunahme-banner.png
 
 Target path: `assets/visuals/fitness-kompass-massephase-kontrollierte-zunahme-banner.png`
-Markdown file: `docs/06-massephase.md`
+Markdown file: `docs/07-massephase.md`
 Recommended size: 2400x600 px, aspect ratio 4:1
 
 ## Prompt

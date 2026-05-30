@@ -1,7 +1,7 @@
 # fitness-kompass-ernaehrung-teller-balance.png
 
 Target path: `assets/visuals/fitness-kompass-ernaehrung-teller-balance.png`  
-Markdown file: `docs/04-ernaehrung.md`
+Markdown file: `docs/05-ernaehrung.md`
 Recommended size: 2400x600 px, aspect ratio 4:1
 
 ## Prompt

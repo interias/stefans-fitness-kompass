@@ -1,18 +1,18 @@
-# 04 Ernährung
+# 05 Ernährung
 
 <p align="center">
   <img src="../assets/visuals/fitness-kompass-ernaehrung-teller-balance.png" alt="Fitness-Kompass Ernaehrung Teller Balance" width="100%">
 </p>
 
-Ernährung muss im Alltag funktionieren, nicht nur in einer App oder auf einem perfekten Wochenplan. Gute Entscheidungen werden leichter, wenn die groben Hebel klar sind: Kalorienbilanz, genug Protein, ballaststoffreiche Lebensmittel, passende Kohlenhydrate, einfache Getränkeentscheidungen und ein flexibler Umgang mit Tracking. Dieses Kapitel legt die Basis. Geplante Fettabnahme wird in [05 Diätphase](05-diaetphase.md) beschrieben, kontrollierte Gewichtszunahme in [06 Massephase](06-massephase.md).
+Ernährung muss im Alltag funktionieren, nicht nur in einer App oder auf einem perfekten Wochenplan. Gute Entscheidungen werden leichter, wenn die groben Hebel klar sind: Kalorienbilanz, genug Protein, ballaststoffreiche Lebensmittel, passende Kohlenhydrate, einfache Getränkeentscheidungen und ein flexibler Umgang mit Tracking. Dieses Kapitel legt die Ernährungsbasis. Messmethoden, Formeln und Tools stehen in [04 Tracking und Messung](04-tracking.md); geplante Fettabnahme wird in [06 Diätphase](06-diaetphase.md) beschrieben, kontrollierte Gewichtszunahme in [07 Massephase](07-massephase.md).
 
-## 4.1 Kalorienbilanz steuert den Gewichtstrend
+## 5.1 Kalorienbilanz steuert den Gewichtstrend
 
 Körpergewicht verändert sich langfristig vor allem über die Energiebilanz. Einzelne Lebensmittel sind selten das Hauptproblem; Menge, Regelmäßigkeit, Sättigung und Umgebung zählen stärker.
 
-Tageswerte sind dafür zu laut. Aussagekräftiger sind der 7-Tage-Gewichtstrend und die Entwicklung über 2-4 Wochen. Ernährung stellt dafür die Werkzeuge bereit; Diätphase und Massephase setzen diese Werkzeuge in unterschiedliche Richtungen ein.
+Tageswerte sind dafür zu laut. Aussagekräftiger sind Trends über mehrere Wochen. Wie Gewicht, Taille, Kalorien und Makros sauber gemessen werden, steht gesammelt in [04 Tracking und Messung](04-tracking.md).
 
-## 4.2 Protein absichern
+## 5.2 Protein absichern
 
 Für gesunde Erwachsene von 19 bis unter 65 Jahren nennt die DGE 0,8 g Protein pro kg Körpergewicht und Tag als Referenzwert; für gesunde, normalgewichtige Menschen ab 65 Jahren nennt sie 1,0 g/kg/Tag als Schätzwert (<a href="https://www.dge.de/presse/meldungen/2020/positionspapier-zur-proteinzufuhr-im-sport/">DGE 2020</a>). Diese Werte sichern die allgemeine Basis ab. Sie sind nicht automatisch optimale Zielwerte für Krafttraining, Diät, Muskelaufbau, hohe Sättigung oder bestmöglichen Muskelerhalt. Bei Sportlerinnen und Sportlern mit mehr als 5 Stunden Training pro Woche empfiehlt die DGE je nach Ziel und Trainingszustand 1,2-2,0 g/kg/Tag (<a href="https://www.dge.de/presse/meldungen/2020/positionspapier-zur-proteinzufuhr-im-sport/">DGE 2020</a>). Die ISSN nennt für die meisten trainierenden Personen 1,4-2,0 g/kg/Tag als sinnvollen Bereich (<a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a>).
 
@@ -33,21 +33,21 @@ Praktisch heißt das: pro Hauptmahlzeit eine klare Proteinquelle einbauen, zum B
 
 *Abbildung: Proteinbereiche sind Kontextwerte: Basisversorgung, Training, Diät und höherer Sättigungsbedarf verlangen unterschiedliche Einordnung.*
 
-## 4.3 Pflanzenbetont essen
+## 5.3 Pflanzenbetont essen
 
 Die DGE empfiehlt eine Ernährung, die überwiegend aus pflanzlichen Lebensmitteln besteht. Dazu gehören Obst, Gemüse, Vollkorn, Hülsenfrüchte, Nüsse, Samen und pflanzliche Öle (<a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a>; <a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-ernaehrungskreis/">DGE 2024b</a>).
 
 Für den Alltag reicht ein einfaches Raster: Jede Hauptmahlzeit besteht aus Proteinquelle, Gemüse oder Obst, sättigenden Kohlenhydraten und einer sinnvollen Fettquelle.
 
-## 4.4 Obst und Gemüse täglich priorisieren
+## 5.4 Obst und Gemüse täglich priorisieren
 
 Mindestens 5 Portionen Obst und Gemüse pro Tag sind ein guter Marker für Mikronährstoffe, Ballaststoffe, Volumen und Sättigung (<a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a>). Ein einfacher Start sind eine Portion Obst zum Frühstück, Gemüse oder Salat zu Mittag und Abendessen und Tiefkühlgemüse als Reserve.
 
-## 4.5 Ballaststoffe ernst nehmen
+## 5.5 Ballaststoffe ernst nehmen
 
 Für Erwachsene gilt ein Richtwert von mindestens 30 g Ballaststoffen pro Tag. Ballaststoffe unterstützen Sättigung, Darmgesundheit und Stoffwechselgesundheit (<a href="https://www.dge.de/wissenschaft/faqs/ausgewaehlte-fragen-und-antworten-zu-ballaststoffen/">DGE o. J.</a>). Gute Alltagsquellen sind Haferflocken, Vollkornbrot, Linsen, Bohnen, Kichererbsen, Kartoffeln, Beeren, Gemüse, Nüsse und Leinsamen.
 
-## 4.6 Getränke simpel halten
+## 5.6 Getränke simpel halten
 
 Die DGE empfiehlt rund 1,5 Liter Flüssigkeit pro Tag, am besten Wasser oder ungesüßten Tee (<a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a>). Für Sportlerinnen und Sportler kann der Bedarf durch Körpergröße, Hitze, Schweißrate und Trainingsumfang deutlich höher liegen; 3-5 Liter pro Tag können an langen Trainings- oder Hitzetagen plausibel sein (<a href="https://pubmed.ncbi.nlm.nih.gov/17277604/">ACSM 2007</a>).
 
@@ -71,7 +71,7 @@ Im Alltag hält die Regel "Getränke sind kalorienfrei" vieles einfach. Wasser, 
 
 *Abbildung: Getränke bleiben zuerst Wasser und ungesüßter Tee; Zero-Getränke, Elektrolyte und Sportdrinks sind situationsabhängige Werkzeuge.*
 
-## 4.7 Kohlenhydrate als Trainingsenergie nutzen
+## 5.7 Kohlenhydrate als Trainingsenergie nutzen
 
 Kohlenhydrate sind kein Gegenspieler von Gesundheit oder Fettverlust. Sie sind der wichtigste schnell verfügbare Trainingsbrennstoff für Krafttraining mit hohem Volumen, intensive Einheiten, Laufen und Sportarten mit wiederholten Belastungsspitzen (<a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4">ISSN 2017b</a>; <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a>).
 
@@ -83,58 +83,36 @@ Nach dem Training reicht meist eine normale Mahlzeit aus Protein plus Kohlenhydr
 
 Ein zwingendes 30-Minuten-Fenster gibt es für normale Krafttrainingseinheiten nicht, wenn Tageskalorien und Tagesprotein passen. Je höher Trainingsvolumen, Ausdaueranteil und Einheitenfrequenz sind, desto wichtiger wird gezieltes Carb-Timing (<a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4">ISSN 2017b</a>; <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a>).
 
-## 4.8 Fettqualität verbessern
+## 5.8 Fettqualität verbessern
 
 Fette sind wichtig für Zellfunktionen, Hormonsystem und Sättigung. Entscheidend ist vor allem die Qualität und der Kontext der Ernährung. Rapsöl, Olivenöl, Nüsse, Samen, Avocado und Fisch sind gute Basisquellen; frittierte Snacks, Süßwaren und stark verarbeitete Fett-Zucker-Kombinationen sollten nicht die Basis sein.
 
-## 4.9 Alkohol niedrig halten
+## 5.9 Alkohol niedrig halten
 
 Es gibt keine risikofreie Alkoholmenge. Wer nicht trinkt, sollte nicht anfangen; wer trinkt, sollte Menge und Häufigkeit niedrig halten (<a href="https://www.dge.de/gesunde-ernaehrung/faq/alkohol/">DGE 2024c</a>). Alkohol ist kein Regenerationsgetränk und verdient besonders in Diät-, Trainings- und Schlafphasen einen kritischen Blick.
 
-## 4.10 Flexibilität einplanen
+## 5.10 Flexibilität einplanen
 
 Eine Ernährung muss alltagstauglich bleiben. Ein zu perfekter Plan scheitert oft schneller als ein robuster Plan mit Spielraum. Lieblingsessen sollten eingeplant und nicht als "Cheat" behandelt werden; die Wochenbilanz zählt mehr als einzelne Mahlzeiten.
 
 ---
 
-## 4.11 Ernährung in der Praxis
+## 5.11 Ernährung in der Praxis
 
-### 4.11.1 Teller-Modell
+### 5.11.1 Teller-Modell
 
 - **1/2 Teller:** Gemüse, Salat oder Obst.
 - **1/4 Teller:** Proteinquelle.
 - **1/4 Teller:** sättigende Kohlenhydrate.
 - **Zusatz:** kleine, hochwertige Fettquelle.
 
-### 4.11.2 Minimal-Tracking
+### 5.11.2 Gewichtsziel separat planen
 
-Für die meisten Ziele reichen wenige Kennzahlen:
+Wer Fett verlieren will, braucht kein neues Ernährungssystem, sondern eine geplante Anwendung der Basis: moderates Defizit, Protein, Krafttraining, Schritte, Schlaf und Trendkontrolle. Die Details stehen in [06 Diätphase](06-diaetphase.md).
 
-- Körpergewicht als Wochenschnitt.
-- Protein täglich grob absichern.
-- Kalorien temporär oder grob tracken, wenn Gewichtsziel, Diätphase oder Massephase wichtig sind.
-- Training dokumentieren.
-- Schritte, Bewegung und Schlafqualität beobachten.
+Wer Muskeln aufbauen will, braucht ebenfalls keine andere Lebensmittelmoral, sondern genug Energie für Training und Regeneration. Wie Erhaltung, kontrollierte Massephase, klassische Massephase und Dirty Bulk praktisch einzuordnen sind, steht in [07 Massephase](07-massephase.md).
 
-### 4.11.3 Tracking-Apps und Tools
-
-Tracking ist kein Muss. Es kann aber helfen, langfristig den Überblick zu behalten und [Diätphasen](05-diaetphase.md) oder [Massephasen](06-massephase.md) besser zu steuern. App-Werte sind Arbeitswerte, keine Wahrheit: Etiketten, Portionsgrößen und Körpergewichtstrend bleiben wichtiger als einzelne App-Schätzungen.
-
-| Kategorie | Top-3-Beispiele | Hilft vor allem bei |
-| --- | --- | --- |
-| Körpergewicht und Trend | <a href="https://play.google.com/store/apps/details?id=net.cachapa.libra">Libra</a>, <a href="https://happyscale.com/">Happy Scale</a>, <a href="https://github.com/oliexdev/openScale">openScale</a> | Tagesgewicht glätten, 7-Tage-Trend sehen, Plateaus nüchterner einordnen |
-| Ernährung, Kalorien und Makros | <a href="https://fddb.info/">FDDB</a>, <a href="https://www.yazio.com/">YAZIO</a>, <a href="https://www.myfitnesspal.com/">MyFitnessPal</a> | Kalorien, Protein, Ballaststoffe, Mahlzeiten und Rezepte grob steuern |
-| Krafttraining und Logbuch | <a href="https://www.hevyapp.com/">Hevy</a>, <a href="https://www.strong.app/">Strong</a>, <a href="https://www.fitnotesapp.com/">FitNotes</a> | Übungen, Gewicht, Wiederholungen, Sätze, RIR/RPE, Pausen und Progression dokumentieren |
-
-Für viele reicht eine App pro Kategorie oder sogar nur ein einfaches Notizbuch. Wichtiger als die perfekte App ist, dass die Daten regelmäßig, ehrlich und ohne Zwang erfasst werden.
-
-### 4.11.4 Gewichtsziel separat planen
-
-Wer Fett verlieren will, braucht kein neues Ernährungssystem, sondern eine geplante Anwendung der Basis: moderates Defizit, Protein, Krafttraining, Schritte, Schlaf und Trendkontrolle. Die Details stehen in [05 Diätphase](05-diaetphase.md).
-
-Wer Muskeln aufbauen will, braucht ebenfalls keine andere Lebensmittelmoral, sondern genug Energie für Training und Regeneration. Wie Erhaltung, kontrollierte Massephase, klassische Massephase und Dirty Bulk praktisch einzuordnen sind, steht in [06 Massephase](06-massephase.md).
-
-### 4.11.5 Supplements
+### 5.11.3 Supplements
 
 Supplements ergänzen, ersetzen aber nicht Ernährung, Training, Schlaf und Konsistenz.
 

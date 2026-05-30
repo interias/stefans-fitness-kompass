@@ -1,4 +1,4 @@
-# 13 Fazit
+# 14 Fazit
 
 <p align="center">
   <img src="../assets/visuals/fitness-kompass-fazit-kompassroute.png" alt="Fitness-Kompass Fazit Kompassroute" width="100%">
@@ -8,7 +8,7 @@ Die beste Fitnessstrategie ist robust:
 
 - genug Protein,
 - überwiegend gute Lebensmittel,
-- kontrollierte Kalorienbilanz für Diät und Aufbau,
+- kontrollierte Kalorienbilanz für Diätphase und Massephase,
 - progressives Krafttraining,
 - ausreichend Ausdauer und Alltagsbewegung,
 - Schlaf und Regeneration,

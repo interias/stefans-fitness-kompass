@@ -1,7 +1,7 @@
 # fitness-kompass-training-rir-steuerung.png
 
 Target path: `assets/visuals/fitness-kompass-training-rir-steuerung.png`
-Markdown file: `docs/07-krafttraining.md`
+Markdown file: `docs/08-krafttraining.md`
 Recommended size: 1600x900 px, aspect ratio 16:9
 
 ## Prompt

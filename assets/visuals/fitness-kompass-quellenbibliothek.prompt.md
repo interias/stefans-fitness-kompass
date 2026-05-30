@@ -1,7 +1,7 @@
 # fitness-kompass-quellenbibliothek.png
 
 Target path: `assets/visuals/fitness-kompass-quellenbibliothek.png`  
-Markdown file: `docs/14-quellen.md`
+Markdown file: `docs/15-quellen.md`
 Recommended size: 2400x600 px, aspect ratio 4:1
 
 ## Prompt

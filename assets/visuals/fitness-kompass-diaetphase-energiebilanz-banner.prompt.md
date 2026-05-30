@@ -1,7 +1,7 @@
 # fitness-kompass-diaetphase-energiebilanz-banner.png
 
 Target path: `assets/visuals/fitness-kompass-diaetphase-energiebilanz-banner.png`
-Markdown file: `docs/05-diaetphase.md`
+Markdown file: `docs/06-diaetphase.md`
 Recommended size: 2400x600 px, aspect ratio 4:1
 
 ## Prompt

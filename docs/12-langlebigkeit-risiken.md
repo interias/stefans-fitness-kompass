@@ -1,18 +1,18 @@
-# 11 Langlebigkeit und Risikofaktoren
+# 12 Langlebigkeit und Risikofaktoren
 
 <p align="center">
   <img src="../assets/visuals/fitness-kompass-langlebigkeit-risikohebel.png" alt="Fitness-Kompass Langlebigkeit Risikohebel" width="100%">
 </p>
 
-Dieses Kapitel ist keine Biohacking-Liste. Es geht um große, robuste Hebel, die Lebenszeit und gesunde Lebenszeit beeinflussen. Einzelne Statistiken beschreiben Bevölkerungsgruppen, nicht das Schicksal einer einzelnen Person. Die Tabelle in 11.2 ist die Hauptübersicht; die Abschnitte danach vertiefen nur Punkte, die sonst leicht missverstanden werden.
+Dieses Kapitel ist keine Biohacking-Liste. Es geht um große, robuste Hebel, die Lebenszeit und gesunde Lebenszeit beeinflussen. Einzelne Statistiken beschreiben Bevölkerungsgruppen, nicht das Schicksal einer einzelnen Person. Die Tabelle in 12.2 ist die Hauptübersicht; die Abschnitte danach vertiefen nur Punkte, die sonst leicht missverstanden werden.
 
-## 11.1 Grundidee: länger leben und länger gesund bleiben
+## 12.1 Grundidee: länger leben und länger gesund bleiben
 
 Langlebigkeit entsteht selten durch einen einzelnen perfekten Hebel, sondern durch die Summe weniger wiederholbarer Risikosenkungen. Entscheidend ist nicht, jeden Faktor maximal zu optimieren, sondern die großen Baustellen nicht dauerhaft zu ignorieren.
 
 In großen Kohorten war ein Bündel aus Nichtrauchen, gesundem Körpergewicht, regelmäßiger Aktivität, guter Ernährungsqualität und niedrigem/moderatem Alkoholkonsum mit deutlich längerer Lebenserwartung ab 50 verbunden. Die Größenordnung lag in einer US-Auswertung bei etwa 14 Jahren für Frauen und 12 Jahren für Männer im Vergleich zu null dieser Low-Risk-Faktoren (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6207481/">Li et al. 2018</a>). Eine BMJ-Auswertung fand außerdem mehr Jahre frei von Krebs, Herz-Kreislauf-Erkrankungen und Typ-2-Diabetes bei Personen mit mehreren gesunden Lebensstilfaktoren (<a href="https://www.bmj.com/content/368/bmj.l6669">Li et al. 2020</a>). Solche Zahlen sind keine Garantie und nicht 1:1 auf jede Person übertragbar. Sie zeigen aber klar: Die Summe der Basics zählt mehr als der nächste kleine Gesundheits-Hack.
 
-## 11.2 Die größten beeinflussbaren Hebel
+## 12.2 Die größten beeinflussbaren Hebel
 
 | Hebel | Warum er zählt | Praktische Richtung |
 | --- | --- | --- |
@@ -30,21 +30,21 @@ In großen Kohorten war ein Bündel aus Nichtrauchen, gesundem Körpergewicht, r
 
 *Abbildung: Die größten Risikoregler sind unspektakulär, aber wirksamer als kleine Biohacking-Details.*
 
-## 11.3 Taille und Körpergewicht praktisch einordnen
+## 12.3 Taille und Körpergewicht praktisch einordnen
 
 Körpergewicht allein reicht nicht. Der Taillenumfang ergänzt den Gewichtstrend, weil Bauchfett für Stoffwechsel- und Krankheitsrisiken relevanter sein kann als eine reine Kilogrammzahl.
 
-Den Taillenumfang gelegentlich unter gleichen Bedingungen messen und als Trend nutzen, nicht als täglichen Stressor. Wenn Gewicht und Taille sinken, Kraft möglichst erhalten bleibt und Alltag besser wird, ist das oft ein gutes Zeichen. Bei stark erhöhtem Taillenumfang, Bluthochdruck, Diabetesrisiko, Fettleberverdacht oder Schlafapnoe-Symptomen fachlich abklären.
+Den Taillenumfang gelegentlich unter gleichen Bedingungen messen und als Trend nutzen, nicht als täglichen Stressor. Die Messmethode und Richtwerte stehen in [04 Tracking und Messung](04-tracking.md). Wenn Gewicht und Taille sinken, Kraft möglichst erhalten bleibt und Alltag besser wird, ist das oft ein gutes Zeichen. Bei stark erhöhtem Taillenumfang, Bluthochdruck, Diabetesrisiko, Fettleberverdacht oder Schlafapnoe-Symptomen fachlich abklären.
 
-## 11.4 Krebsrisiken nüchtern betrachten
+## 12.4 Krebsrisiken nüchtern betrachten
 
-Krebs ist nicht vollständig vermeidbar. Alter, Genetik, Zufall, Umwelt und Infektionen spielen eine Rolle. Prävention bedeutet deshalb nicht Kontrolle über jedes Risiko, sondern die beeinflussbaren Risiken aus 11.2 ernst zu nehmen und krebsbezogene Sonderthemen nicht zu vergessen.
+Krebs ist nicht vollständig vermeidbar. Alter, Genetik, Zufall, Umwelt und Infektionen spielen eine Rolle. Prävention bedeutet deshalb nicht Kontrolle über jedes Risiko, sondern die beeinflussbaren Risiken aus 12.2 ernst zu nehmen und krebsbezogene Sonderthemen nicht zu vergessen.
 
 **Krebsbezogene Sonderthemen:** UV-Schutz nutzen, Impfungen und Infektionsthemen wie HPV/Hepatitis ärztlich prüfen, empfohlene Früherkennung wahrnehmen und verarbeitetes Fleisch nicht zur Basis der Ernährung machen.
 
 Gute Prävention bedeutet nicht Angst vor jedem Risiko. Sie bedeutet, bekannte große Risiken nüchtern zu senken und bei Unsicherheit fachliche Vorsorge statt Social-Media-Diagnosen zu nutzen.
 
-## 11.5 Anwendung: Prioritäten statt Perfektion
+## 12.5 Anwendung: Prioritäten statt Perfektion
 
 1. **Messen, was sonst unsichtbar bleibt:** Blutdruck, Taillenumfang, Gewichtstrend, Vorsorge- und Impfstatus.
 2. **Verhalten stabilisieren:** Bewegung, Ernährung, Schlaf, Alkoholgrenzen und Rauchstopp nicht als kurzfristige Projekte behandeln.

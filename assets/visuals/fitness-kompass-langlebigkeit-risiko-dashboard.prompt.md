@@ -1,7 +1,7 @@
 # fitness-kompass-langlebigkeit-risiko-dashboard.png
 
 Target path: `assets/visuals/fitness-kompass-langlebigkeit-risiko-dashboard.png`
-Markdown file: `docs/11-langlebigkeit-risiken.md`
+Markdown file: `docs/12-langlebigkeit-risiken.md`
 Recommended size: 1600x900 px, aspect ratio 16:9
 
 ## Prompt

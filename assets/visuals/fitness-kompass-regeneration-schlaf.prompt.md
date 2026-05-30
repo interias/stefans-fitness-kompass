@@ -1,7 +1,7 @@
 # fitness-kompass-regeneration-schlaf.png
 
 Target path: `assets/visuals/fitness-kompass-regeneration-schlaf.png`  
-Markdown file: `docs/10-gesundheit-schlaf.md`
+Markdown file: `docs/11-gesundheit-schlaf.md`
 Recommended size: 2400x600 px, aspect ratio 4:1
 
 ## Prompt

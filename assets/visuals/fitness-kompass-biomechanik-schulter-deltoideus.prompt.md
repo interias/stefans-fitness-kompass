@@ -1,14 +1,14 @@
 # fitness-kompass-biomechanik-schulter-deltoideus.png
 
 Target path: `assets/visuals/fitness-kompass-biomechanik-schulter-deltoideus.png`
-Markdown file: `docs/08-biomechanik-uebungsauswahl.md`
+Markdown file: `docs/09-biomechanik-uebungsauswahl.md`
 Recommended size: 1600x900 px, aspect ratio 16:9
 Generated size: 1672x941 px
 
 ## Prompt
 
 Use case: scientific-educational
-Asset type: replacement inline anatomy visual for docs/08-biomechanik-uebungsauswahl.md, section 8.8 shoulder/deltoid, target aspect ratio 16:9, intended final size 1600x900 px
+Asset type: replacement inline anatomy visual for docs/09-biomechanik-uebungsauswahl.md, section 8.8 shoulder/deltoid, target aspect ratio 16:9, intended final size 1600x900 px
 Primary request: Create an anatomically careful, ultrarealistic but calm shoulder muscle illustration in the existing Fitness Compass visual style. Show one coherent three-quarter shoulder-girdle anatomy model, cropped on clavicle, scapula, shoulder joint, upper ribs, and proximal humerus. This is a non-sexual educational medical anatomy model, not a person posing.
 Anatomy requirements: highlight the deltoid with three clearly distinct fiber regions that still form one cap: anterior deltoid from lateral third of clavicle to deltoid tuberosity; middle/lateral deltoid from acromion to deltoid tuberosity; posterior deltoid from spine of scapula to deltoid tuberosity. Show the common insertion on the lateral humerus clearly. Show rotator cuff as subdued deeper stabilizing tendons/muscles hugging the humeral head: supraspinatus above, infraspinatus and teres minor posteriorly, subscapularis suggested anteriorly if view allows. Include semi-transparent clavicle, acromion, scapular spine, glenoid area, humeral head, proximal humerus, and upper ribs.
 Scene/backdrop: clean warm off-white anatomical atlas background with subtle paper texture and faint Fitness Compass compass-line motif, no gym scene.
