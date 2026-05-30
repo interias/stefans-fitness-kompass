@@ -62,8 +62,12 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/41920484/">Havers et al. 2026</a> - Drop-Sätze: akute Anstrengung, Laktat und langfristige Anpassungen.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/28532248/">Ozaki et al. 2018</a> - Drop-Set-Protokoll mit mehreren Lastreduktionen und zeiteffizienter Hypertrophie bei untrainierten Männern.
 - <a href="https://sjsp.aearedo.es/index.php/sjsp/article/view/drop-set-training-muscle-performance-body-composition">Fasihiyan et al. 2023</a> - Single-Step- vs. Multi-Step-Drop-Set-Training bei Kraftausdauer, Muskelmasse und Körperzusammensetzung.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/28828076/">Tufano et al. 2017</a> - Cluster-Sets und Rest Redistribution bei Kniebeugen: Verteilung kurzer Pausen und mechanische Leistung.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/32901442/">Jukic et al. 2020</a> - Cluster- und Rest-Redistribution-Setstrukturen, akute Ermüdung und Leistung.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/33417154/">Jukic et al. 2021</a> - traditionelle, Cluster- und Rest-Redistribution-Setstrukturen bei langfristigen Kraft- und Hypertrophieanpassungen.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/33475986/">Davies et al. 2021</a> - Cluster-Sets im Vergleich zu traditionellen Satzstrukturen bei Langzeitanpassungen.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/35368341/">Jukic et al. 2022</a> - Cluster- und Rest-Redistribution-Strukturen als praktische Alternative zu Velocity-Loss-Schwellen.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/39932536/">Vargas-Molina et al. 2025</a> - Cluster- und traditionelle Sätze bei volumen- und RIR-abgeglichener Hypertrophie.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/39903375/">Zhang et al. 2025</a> - Supersätze im Vergleich zu traditionellen Sätzen.
 
 ## 12.3 Langlebigkeit und Risikofaktoren
