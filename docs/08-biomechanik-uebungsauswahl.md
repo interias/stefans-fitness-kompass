@@ -1,24 +1,24 @@
-# 05 Biomechanik und Übungsauswahl
+# 08 Biomechanik und Übungsauswahl
 
 Biomechanik soll im Fitness-Kompass kein Anatomie-Lexikon ersetzen. Der praktische Nutzen ist einfacher: verstehen, welche Bewegung welchen Muskel belastet, warum eine Übung gut oder schlecht zum Ziel passt und wann eine zusätzliche Isolationsübung wirklich nötig ist.
 
 Der Grundsatz bleibt: erst Bewegungsmuster sauber abdecken, dann Details optimieren. Für die meisten gesunden Erwachsenen reicht eine robuste Übungsauswahl, die Kniebeuge- oder Beinpresse-Muster, Hinge, Drücken, Ziehen, Rumpfstabilität und Griffkraft regelmäßig trainiert. Einzelne Muskeln, Winkel und Übungsreihenfolgen werden erst wichtig, wenn Ziel, Technik und Wiederholbarkeit schon stimmen.
 
-## 5.1 Grundsatz: Bewegung vor Muskelnamen
+## 8.1 Grundsatz: Bewegung vor Muskelnamen
 
 Der Körper trainiert im Alltag keine isolierten Muskeln, sondern Bewegungen. Muskeln erzeugen Kraft, bremsen Bewegung ab und stabilisieren Gelenke; je nach Aufgabe arbeiten sie als Hauptbeweger, Unterstützer, Stabilisatoren oder Gegenspieler (<a href="https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems">OpenStax 2022a</a>). Eine Übung ist deshalb nicht automatisch gut, weil sie in einer Muskelgrafik bunt markiert ist. Sie ist gut, wenn sie den Zielmuskel zuverlässig belastet, technisch wiederholbar bleibt, über Wochen steigerbar ist und sich für Gelenke und Alltag vertretbar anfühlt.
 
 Muskeln arbeiten selten allein. Bei einer Kniebeuge arbeiten Quadrizeps, Gesäß, Adduktoren, Rumpf und Rückenstrecker zusammen. Beim Rudern arbeiten Latissimus, mittlerer Rücken, hintere Schulter, Bizeps, Unterarme und Rumpf je nach Variante unterschiedlich stark. Für die Praxis ist deshalb wichtiger, welches Bewegungsmuster und welcher Engpass trainiert werden sollen, als eine Übung auf einen einzigen Muskel zu reduzieren.
 
-## 5.2 Wie Muskeln praktisch arbeiten
+## 8.2 Wie Muskeln praktisch arbeiten
 
 Ein Muskel zieht über Sehnen an Knochen und bewegt dadurch ein oder mehrere Gelenke. Verkürzt sich der Muskel, arbeitet er konzentrisch; bremst er die Bewegung unter Last, arbeitet er exzentrisch; hält er Position, arbeitet er isometrisch. Alle drei Formen kommen im Krafttraining vor und werden vom Nervensystem über motorische Einheiten reguliert (<a href="https://openstax.org/books/anatomy-and-physiology-2e/pages/10-4-nervous-system-control-of-muscle-tension">OpenStax 2022b</a>).
 
-Für Muskelaufbau zählt vor allem wiederholte mechanische Spannung in den belasteten Fasern. Das wird in [04 Krafttraining](04-krafttraining.md) genauer erklärt. Biomechanik ergänzt diese Logik: Ein Muskel bekommt nur dann einen guten Reiz, wenn die Übung ihn in einer Position belastet, in der er tatsächlich sinnvoll Kraft beitragen muss. Deshalb fühlen sich kleine Änderungen manchmal deutlich anders an: Griffbreite, Ellenbogenwinkel, Oberkörperneigung, Fußposition oder Bewegungsumfang verschieben Hebel und Zielmuskulatur.
+Für Muskelaufbau zählt vor allem wiederholte mechanische Spannung in den belasteten Fasern. Das wird in [07 Krafttraining](07-krafttraining.md) genauer erklärt. Biomechanik ergänzt diese Logik: Ein Muskel bekommt nur dann einen guten Reiz, wenn die Übung ihn in einer Position belastet, in der er tatsächlich sinnvoll Kraft beitragen muss. Deshalb fühlen sich kleine Änderungen manchmal deutlich anders an: Griffbreite, Ellenbogenwinkel, Oberkörperneigung, Fußposition oder Bewegungsumfang verschieben Hebel und Zielmuskulatur.
 
 Anatomische Details sind nützlich, aber nicht jede Person muss Ursprung, Ansatz und jeden Muskelkopf auswendig kennen. Häufig reicht die Frage: Welches Gelenk bewegt sich, in welche Richtung geht die Last, und welcher Muskel muss diese Bewegung erzeugen oder bremsen?
 
-## 5.3 Verbundübungen und Isolation
+## 8.3 Verbundübungen und Isolation
 
 Verbundübungen bewegen mehrere Gelenke und belasten mehrere Muskelgruppen gleichzeitig. Kniebeugen, Kreuzheben-Varianten, Bankdrücken, Schulterdrücken, Klimmzüge, Latzug, Rudern, Ausfallschritte und Carries sind deshalb zeiteffizient. Sie liefern viel Trainingsreiz, brauchen aber mehr Technik, Koordination und Regeneration.
 
@@ -31,7 +31,7 @@ Isolationsübungen bewegen meist ein Hauptgelenk und machen es leichter, einen Z
 | Gelenk oder Technik limitiert | Maschine, Kabelzug oder stabilere Variante prüfen | Schmerz nicht mit mehr Willenskraft lösen |
 | Fortgeschrittene Priorität | Zielmuskel früher in die Einheit legen | andere Übungen verlieren Leistung |
 
-## 5.4 Unterkörper: Kniebeuge, Hinge und Ausfallschritt
+## 8.4 Unterkörper: Kniebeuge, Hinge und Ausfallschritt
 
 Der Unterkörper lässt sich praktisch über drei große Muster verstehen: kniedominante Übungen, hüftdominante Übungen und einbeinige oder versetzte Varianten. Kniedominante Übungen wie Kniebeuge, Beinpresse oder Beinstrecker belasten vor allem den Quadrizeps, also die Kniestreckung. Hüftdominante Übungen wie rumänisches Kreuzheben, Hip Thrust oder Good Morning belasten stärker Gesäß und hintere Oberschenkel. Ausfallschritte, Split Squats und Step-ups verbinden beide Welten und fordern zusätzlich Stabilität.
 
@@ -51,7 +51,7 @@ Der Unterkörper lässt sich praktisch über drei große Muster verstehen: knied
 
 Kniebeuge und Beinpresse sind gute Grundwerkzeuge, aber sie ersetzen nicht automatisch jede hintere-Kette-Arbeit. Wer nur kniedominant trainiert, lässt Hamstrings und Hüftstreckung oft unterbelichtet. Umgekehrt ersetzt schweres Kreuzheben nicht immer ausreichend Quadrizepsarbeit. Ein robuster Plan enthält deshalb meist mindestens ein kniedominantes und ein hüftdominantes Muster.
 
-## 5.5 Rumpf: Stabilität, Rotation und Übertragung
+## 8.5 Rumpf: Stabilität, Rotation und Übertragung
 
 Der Rumpf ist mehr als sichtbare Bauchmuskulatur. Rectus abdominis, schräge Bauchmuskeln, Transversus abdominis, Rückenstrecker, Beckenboden, Zwerchfell und tiefe stabilisierende Strukturen helfen, Becken, Rippenkorb und Wirbelsäule unter Last zu kontrollieren. Im Alltag und Sport geht es häufig nicht darum, den Rumpf maximal zu bewegen, sondern Kraft zwischen Unter- und Oberkörper zu übertragen.
 
@@ -70,7 +70,7 @@ Praktisch lassen sich vier Aufgaben unterscheiden:
 
 Rumpftraining muss nicht jeden Tag maximal hart sein. Wenn schwere Kniebeugen, Kreuzheben, Rudern und Carries regelmäßig vorkommen, bekommt der Rumpf bereits viel Haltearbeit. Zusätzliche Core-Arbeit ist sinnvoll, wenn Stabilität, Sportanforderung, Rückengefühl oder Zielästhetik dafür sprechen. Wiederkehrender Rücken- oder Nervenschmerz ist ein Warnsignal und gehört nicht in ein Experiment mit immer härteren Bauchübungen.
 
-## 5.6 Rücken: Ziehen, Rudern und Schulterblattkontrolle
+## 8.6 Rücken: Ziehen, Rudern und Schulterblattkontrolle
 
 Rückentraining besteht nicht nur aus "Lat treffen". Der Latissimus zieht den Oberarm nach unten, nach hinten und zum Körper; er wird bei Klimmzügen, Latzug und manchen Ruderbewegungen stark belastet. Der mittlere Rücken mit Rhomboiden und mittlerem Trapez bewegt und stabilisiert die Schulterblätter, besonders bei Ruderbewegungen. Der obere Trapez hilft bei Schulterblatthebung und -rotation; die hintere Schulter arbeitet stark bei breitem Rudern, Reverse Flys und Face-Pull-Varianten.
 
@@ -84,7 +84,7 @@ Vertikales Ziehen wie Klimmzug oder Latzug ist ein einfacher Weg, den Latissimus
 
 Für Haltung und Schultergefühl zählt nicht nur "Schultern zurückziehen". Sinnvoller ist ein kräftiger, beweglicher Schultergürtel, der ziehen, drücken, heben und rotieren kann. Wenn Nacken, Schulter oder Ellenbogen regelmäßig gereizt reagieren, zuerst Griff, Bewegungsumfang, Last, Volumen und Übungsvariante prüfen.
 
-## 5.7 Brust: Drücken und Adduktion
+## 8.7 Brust: Drücken und Adduktion
 
 Der Pectoralis major bewegt den Oberarm vor den Körper und zur Körpermitte. Druckübungen wie Bankdrücken, Kurzhanteldrücken, Liegestütze und Dips belasten die Brust zusammen mit vorderer Schulter und Trizeps. Fly-Varianten wie Butterfly oder Kabel-Flys reduzieren den Trizepsanteil und machen horizontale Adduktion direkter spürbar.
 
@@ -98,7 +98,7 @@ Schrägbankdrücken verschiebt den Reiz häufig stärker in Richtung oberer Brus
 
 Die Reihenfolge Butterfly vor Schrägbank oder Schrägbank vor Butterfly ist keine Glaubensfrage. Schrägbank zuerst passt, wenn Last, Progression und technische Qualität im Hauptlift Priorität haben. Butterfly zuerst kann sinnvoll sein, wenn die Brust besser gespürt werden soll oder wenn man mit geringeren Drücklasten arbeiten möchte; dafür sinkt meist die Leistung im anschließenden Drücken. Entscheidend ist, was über mehrere Wochen reproduzierbar besseren Zielreiz liefert.
 
-## 5.8 Schulter: vordere, seitliche und hintere Anteile
+## 8.8 Schulter: vordere, seitliche und hintere Anteile
 
 Der Deltoideus hat grob drei praktische Rollen. Die vordere Schulter arbeitet stark bei Druckbewegungen wie Bankdrücken, Schrägbankdrücken und Schulterdrücken. Die seitliche Schulter hebt den Arm zur Seite und wird durch viele Grundübungen weniger vollständig abgedeckt. Die hintere Schulter zieht den Oberarm nach hinten und außen und arbeitet bei Rudern, Reverse Flys und Face Pulls.
 
@@ -112,7 +112,7 @@ Für viele Pläne ist die vordere Schulter bereits ausreichend oder sogar reichl
 
 Die Rotatorenmanschette stabilisiert den Oberarmkopf im Schultergelenk. Sie muss nicht in jedem Plan mit vielen Spezialübungen trainiert werden, aber saubere Schulterkontrolle, passende Übungsvarianten und dosiertes Volumen sind wichtig. Stechender Schulterschmerz, Instabilität oder ausstrahlende Beschwerden sind Warnsignale.
 
-## 5.9 Arme, Unterarme und Griffkraft
+## 8.9 Arme, Unterarme und Griffkraft
 
 Arme werden bei Drücken und Ziehen bereits mittrainiert, aber direkte Arbeit kann sinnvoll sein. Der Bizeps beugt den Ellenbogen und dreht den Unterarm nach außen. Der Brachialis liegt unter dem Bizeps und beugt ebenfalls den Ellenbogen; Hammer Curls oder neutrale Griffvarianten treffen ihn oft gut. Der Trizeps streckt den Ellenbogen; der lange Kopf kreuzt zusätzlich das Schultergelenk und wird bei Überkopf-Varianten stärker in gedehnter Position belastet.
 
@@ -126,7 +126,7 @@ Unterarme und Griffkraft sind nicht nur Optik. Sie begrenzen oft Ziehübungen, C
 
 Direkte Armarbeit muss zum Gesamtvolumen passen. Wer viel zieht, drückt und zusätzlich viele Curls und Trizepsübungen macht, merkt Überlastung oft zuerst an Ellenbogen oder Unterarmen. Dann sind Griff, Bewegungsumfang, Frequenz und Satznähe zum Versagen zu prüfen.
 
-## 5.10 Nacken und Halsmuskulatur
+## 8.10 Nacken und Halsmuskulatur
 
 Nacken und Halsmuskulatur stabilisieren Kopf, Halswirbelsäule und Schultergürtel. Der obere Trapez arbeitet bei Shrugs, Carries, schwerem Heben und vielen Zugbewegungen mit. Spezifisches Halsmuskeltraining kann in bestimmten Sportarten relevant sein, etwa Motorsport, Kampfsport oder Kontaktsport, weil Kopf- und Halskontrolle dort stärker gefordert sind.
 
@@ -138,7 +138,7 @@ Nacken und Halsmuskulatur stabilisieren Kopf, Halswirbelsäule und Schultergürt
 
 Für allgemeine Fitness ist direkter Halsaufbau selten ein früher Haupthebel. Ein kräftiger oberer Rücken, gute Schulterkontrolle, Carries und sinnvolle Zugübungen decken viel ab. Wer den Hals gezielt trainiert, sollte konservativ starten: kleine Bewegungsumfänge, niedrige Lasten, langsame Progression und keine Experimente bei Schwindel, ausstrahlendem Schmerz, Taubheit oder Kopfschmerz.
 
-## 5.11 Effizienz: 80-90 % mit wenigen guten Übungen
+## 8.11 Effizienz: 80-90 % mit wenigen guten Übungen
 
 Der Effizienz-Ansatz heißt nicht, dass Details egal sind. Er heißt, dass die meisten Fortschritte aus wenigen wiederholbaren Grundentscheidungen kommen. Ein Plan, der große Bewegungsmuster sauber abdeckt, ausreichend harte Sätze enthält und über Monate fortgeführt wird, ist für die meisten Ziele stärker als ein ständig wechselnder Spezialplan.
 
@@ -153,7 +153,7 @@ Der Effizienz-Ansatz heißt nicht, dass Details egal sind. Er heißt, dass die m
 
 Ein einfacher Ganzkörperplan kann damit bereits viel abdecken: Beinpresse oder Kniebeuge, rumänisches Kreuzheben oder Beinbeuger, Bankdrücken oder Liegestütze, Latzug oder Klimmzug, Rudern, Seitheben, eine Core- oder Carry-Variante. Wer nur zwei bis drei Krafttrainings pro Woche schafft, sollte zuerst diese Abdeckung stabilisieren. Spezialübungen kommen danach, wenn ein Zielmuskel trotz sauberer Grundstruktur hinterherhinkt.
 
-## 5.12 Übungsreihenfolge, Vorermüdung und Prioritäten
+## 8.12 Übungsreihenfolge, Vorermüdung und Prioritäten
 
 Die Reihenfolge in einer Einheit steuert Aufmerksamkeit, Leistung und Ermüdung. Technisch anspruchsvolle, schwere oder priorisierte Übungen gehören meist früher in die Einheit; Reviews zur Übungsreihenfolge sprechen praktisch dafür, Übungen nach Trainingsziel und Priorität zu sortieren (<a href="https://pubmed.ncbi.nlm.nih.gov/32077380/">Nunes et al. 2020</a>). Isolationsübungen, Pump-Arbeit, Drop-Sätze oder kurze Supersatz-Blöcke passen häufig besser später, wenn die Hauptarbeit erledigt ist.
 

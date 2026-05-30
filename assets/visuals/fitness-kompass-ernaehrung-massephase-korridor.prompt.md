@@ -1,0 +1,9 @@
+# fitness-kompass-ernaehrung-massephase-korridor.png
+
+Target path: `assets/visuals/fitness-kompass-ernaehrung-massephase-korridor.png`
+Markdown file: `docs/06-massephase.md`
+Recommended size: 1600x900 px, aspect ratio 16:9
+
+## Prompt
+
+Create a premium inline analytical visual for a nutrition chapter in a personal open-source "Fitness Compass" project, aspect ratio 16:9, 1600x900 px. Scene: a calm controlled mass-gain corridor on a refined map-like surface: a gently rising route stays inside narrow guide rails and passes by practical anchors: protein, strength training, sleep, trend review, and waist measurement. No readable labels or numbers. The image should communicate controlled weight gain instead of extreme bulking. Style: high-end editorial illustration mixed with realistic 3D detail, sophisticated and calm, practical body-composition planning, not before-after imagery. Soft natural morning light, crisp shadows, refined paper, matte metal, ceramic meal shapes, and subtle topographic texture. Composition: route starts at a stable maintenance marker on the left, moves through a narrow mass-phase corridor, and ends near a review marker on the right. Color palette: deep teal, slate, warm white, muted green, pale gray, natural food tones, and a small red accent on one review marker. Critical no-text constraint: the final image must contain zero written words, letterforms, numbers, labels, captions, pseudo-text, or readable marks; use simple icons, blank cards, blank grids, unlabeled shapes, and clean geometry only. Avoid neon colors, dark gym cliches, stock-photo look, exaggerated muscles, visible body transformations, supplement products, scales as the main subject, aggressive bodybuilding aesthetics, clutter, UI elements, readable text, letters, numbers, logos, brand names, watermarks, and people posing.

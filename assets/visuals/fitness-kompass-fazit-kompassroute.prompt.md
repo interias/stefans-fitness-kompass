@@ -1,7 +1,7 @@
 # fitness-kompass-fazit-kompassroute.png
 
 Target path: `assets/visuals/fitness-kompass-fazit-kompassroute.png`  
-Markdown file: `docs/11-fazit.md`
+Markdown file: `docs/13-fazit.md`
 Recommended size: 2400x600 px, aspect ratio 4:1
 
 ## Prompt

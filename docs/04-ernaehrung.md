@@ -1,18 +1,18 @@
-# 03 Ernährung
+# 04 Ernährung
 
 <p align="center">
   <img src="../assets/visuals/fitness-kompass-ernaehrung-teller-balance.png" alt="Fitness-Kompass Ernaehrung Teller Balance" width="100%">
 </p>
 
-Ernährung muss im Alltag funktionieren, nicht nur in einer App oder auf einem perfekten Wochenplan. Gute Entscheidungen werden leichter, wenn die groben Hebel klar sind: Kalorienbilanz, genug Protein, ballaststoffreiche Lebensmittel, passende Kohlenhydrate, einfache Getränkeentscheidungen und ein flexibler Umgang mit Tracking.
+Ernährung muss im Alltag funktionieren, nicht nur in einer App oder auf einem perfekten Wochenplan. Gute Entscheidungen werden leichter, wenn die groben Hebel klar sind: Kalorienbilanz, genug Protein, ballaststoffreiche Lebensmittel, passende Kohlenhydrate, einfache Getränkeentscheidungen und ein flexibler Umgang mit Tracking. Dieses Kapitel legt die Basis. Geplante Fettabnahme wird in [05 Diätphase](05-diaetphase.md) beschrieben, kontrollierte Gewichtszunahme in [06 Massephase](06-massephase.md).
 
-## 3.1 Kalorienbilanz steuert den Gewichtstrend
+## 4.1 Kalorienbilanz steuert den Gewichtstrend
 
-Körpergewicht verändert sich langfristig vor allem über die Energiebilanz. Einzelne Lebensmittel sind selten das Hauptproblem; Menge, Regelmäßigkeit und Umgebung zählen stärker.
+Körpergewicht verändert sich langfristig vor allem über die Energiebilanz. Einzelne Lebensmittel sind selten das Hauptproblem; Menge, Regelmäßigkeit, Sättigung und Umgebung zählen stärker.
 
-Tageswerte sind dafür zu laut. Aussagekräftiger sind der 7-Tage-Gewichtstrend und die Entwicklung über 2-4 Wochen.
+Tageswerte sind dafür zu laut. Aussagekräftiger sind der 7-Tage-Gewichtstrend und die Entwicklung über 2-4 Wochen. Ernährung stellt dafür die Werkzeuge bereit; Diätphase und Massephase setzen diese Werkzeuge in unterschiedliche Richtungen ein.
 
-## 3.2 Protein absichern
+## 4.2 Protein absichern
 
 Für gesunde Erwachsene von 19 bis unter 65 Jahren nennt die DGE 0,8 g Protein pro kg Körpergewicht und Tag als Referenzwert; für gesunde, normalgewichtige Menschen ab 65 Jahren nennt sie 1,0 g/kg/Tag als Schätzwert (<a href="https://www.dge.de/presse/meldungen/2020/positionspapier-zur-proteinzufuhr-im-sport/">DGE 2020</a>). Diese Werte sichern die allgemeine Basis ab. Sie sind nicht automatisch optimale Zielwerte für Krafttraining, Diät, Muskelaufbau, hohe Sättigung oder bestmöglichen Muskelerhalt. Bei Sportlerinnen und Sportlern mit mehr als 5 Stunden Training pro Woche empfiehlt die DGE je nach Ziel und Trainingszustand 1,2-2,0 g/kg/Tag (<a href="https://www.dge.de/presse/meldungen/2020/positionspapier-zur-proteinzufuhr-im-sport/">DGE 2020</a>). Die ISSN nennt für die meisten trainierenden Personen 1,4-2,0 g/kg/Tag als sinnvollen Bereich (<a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a>).
 
@@ -33,21 +33,21 @@ Praktisch heißt das: pro Hauptmahlzeit eine klare Proteinquelle einbauen, zum B
 
 *Abbildung: Proteinbereiche sind Kontextwerte: Basisversorgung, Training, Diät und höherer Sättigungsbedarf verlangen unterschiedliche Einordnung.*
 
-## 3.3 Pflanzenbetont essen
+## 4.3 Pflanzenbetont essen
 
 Die DGE empfiehlt eine Ernährung, die überwiegend aus pflanzlichen Lebensmitteln besteht. Dazu gehören Obst, Gemüse, Vollkorn, Hülsenfrüchte, Nüsse, Samen und pflanzliche Öle (<a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a>; <a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-ernaehrungskreis/">DGE 2024b</a>).
 
 Für den Alltag reicht ein einfaches Raster: Jede Hauptmahlzeit besteht aus Proteinquelle, Gemüse oder Obst, sättigenden Kohlenhydraten und einer sinnvollen Fettquelle.
 
-## 3.4 Obst und Gemüse täglich priorisieren
+## 4.4 Obst und Gemüse täglich priorisieren
 
 Mindestens 5 Portionen Obst und Gemüse pro Tag sind ein guter Marker für Mikronährstoffe, Ballaststoffe, Volumen und Sättigung (<a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a>). Ein einfacher Start sind eine Portion Obst zum Frühstück, Gemüse oder Salat zu Mittag und Abendessen und Tiefkühlgemüse als Reserve.
 
-## 3.5 Ballaststoffe ernst nehmen
+## 4.5 Ballaststoffe ernst nehmen
 
 Für Erwachsene gilt ein Richtwert von mindestens 30 g Ballaststoffen pro Tag. Ballaststoffe unterstützen Sättigung, Darmgesundheit und Stoffwechselgesundheit (<a href="https://www.dge.de/wissenschaft/faqs/ausgewaehlte-fragen-und-antworten-zu-ballaststoffen/">DGE o. J.</a>). Gute Alltagsquellen sind Haferflocken, Vollkornbrot, Linsen, Bohnen, Kichererbsen, Kartoffeln, Beeren, Gemüse, Nüsse und Leinsamen.
 
-## 3.6 Getränke simpel halten
+## 4.6 Getränke simpel halten
 
 Die DGE empfiehlt rund 1,5 Liter Flüssigkeit pro Tag, am besten Wasser oder ungesüßten Tee (<a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a>). Für Sportlerinnen und Sportler kann der Bedarf durch Körpergröße, Hitze, Schweißrate und Trainingsumfang deutlich höher liegen; 3-5 Liter pro Tag können an langen Trainings- oder Hitzetagen plausibel sein (<a href="https://pubmed.ncbi.nlm.nih.gov/17277604/">ACSM 2007</a>).
 
@@ -71,7 +71,7 @@ Im Alltag hält die Regel "Getränke sind kalorienfrei" vieles einfach. Wasser, 
 
 *Abbildung: Getränke bleiben zuerst Wasser und ungesüßter Tee; Zero-Getränke, Elektrolyte und Sportdrinks sind situationsabhängige Werkzeuge.*
 
-## 3.7 Kohlenhydrate als Trainingsenergie nutzen
+## 4.7 Kohlenhydrate als Trainingsenergie nutzen
 
 Kohlenhydrate sind kein Gegenspieler von Gesundheit oder Fettverlust. Sie sind der wichtigste schnell verfügbare Trainingsbrennstoff für Krafttraining mit hohem Volumen, intensive Einheiten, Laufen und Sportarten mit wiederholten Belastungsspitzen (<a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4">ISSN 2017b</a>; <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a>).
 
@@ -83,42 +83,42 @@ Nach dem Training reicht meist eine normale Mahlzeit aus Protein plus Kohlenhydr
 
 Ein zwingendes 30-Minuten-Fenster gibt es für normale Krafttrainingseinheiten nicht, wenn Tageskalorien und Tagesprotein passen. Je höher Trainingsvolumen, Ausdaueranteil und Einheitenfrequenz sind, desto wichtiger wird gezieltes Carb-Timing (<a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4">ISSN 2017b</a>; <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a>).
 
-## 3.8 Fettqualität verbessern
+## 4.8 Fettqualität verbessern
 
 Fette sind wichtig für Zellfunktionen, Hormonsystem und Sättigung. Entscheidend ist vor allem die Qualität und der Kontext der Ernährung. Rapsöl, Olivenöl, Nüsse, Samen, Avocado und Fisch sind gute Basisquellen; frittierte Snacks, Süßwaren und stark verarbeitete Fett-Zucker-Kombinationen sollten nicht die Basis sein.
 
-## 3.9 Alkohol niedrig halten
+## 4.9 Alkohol niedrig halten
 
 Es gibt keine risikofreie Alkoholmenge. Wer nicht trinkt, sollte nicht anfangen; wer trinkt, sollte Menge und Häufigkeit niedrig halten (<a href="https://www.dge.de/gesunde-ernaehrung/faq/alkohol/">DGE 2024c</a>). Alkohol ist kein Regenerationsgetränk und verdient besonders in Diät-, Trainings- und Schlafphasen einen kritischen Blick.
 
-## 3.10 Flexibilität einplanen
+## 4.10 Flexibilität einplanen
 
 Eine Ernährung muss alltagstauglich bleiben. Ein zu perfekter Plan scheitert oft schneller als ein robuster Plan mit Spielraum. Lieblingsessen sollten eingeplant und nicht als "Cheat" behandelt werden; die Wochenbilanz zählt mehr als einzelne Mahlzeiten.
 
 ---
 
-## 3.11 Ernährung in der Praxis
+## 4.11 Ernährung in der Praxis
 
-### 3.11.1 Teller-Modell
+### 4.11.1 Teller-Modell
 
 - **1/2 Teller:** Gemüse, Salat oder Obst.
 - **1/4 Teller:** Proteinquelle.
 - **1/4 Teller:** sättigende Kohlenhydrate.
 - **Zusatz:** kleine, hochwertige Fettquelle.
 
-### 3.11.2 Minimal-Tracking
+### 4.11.2 Minimal-Tracking
 
 Für die meisten Ziele reichen wenige Kennzahlen:
 
 - Körpergewicht als Wochenschnitt.
 - Protein täglich grob absichern.
-- Kalorien temporär oder grob tracken, wenn Gewichtsziel wichtig ist.
+- Kalorien temporär oder grob tracken, wenn Gewichtsziel, Diätphase oder Massephase wichtig sind.
 - Training dokumentieren.
 - Schritte, Bewegung und Schlafqualität beobachten.
 
-### 3.11.3 Tracking-Apps und Tools
+### 4.11.3 Tracking-Apps und Tools
 
-Tracking ist kein Muss. Es kann aber helfen, langfristig den Überblick zu behalten und Diät- oder Aufbauphasen besser zu steuern. App-Werte sind Arbeitswerte, keine Wahrheit: Etiketten, Portionsgrößen und Körpergewichtstrend bleiben wichtiger als einzelne App-Schätzungen.
+Tracking ist kein Muss. Es kann aber helfen, langfristig den Überblick zu behalten und [Diätphasen](05-diaetphase.md) oder [Massephasen](06-massephase.md) besser zu steuern. App-Werte sind Arbeitswerte, keine Wahrheit: Etiketten, Portionsgrößen und Körpergewichtstrend bleiben wichtiger als einzelne App-Schätzungen.
 
 | Kategorie | Top-3-Beispiele | Hilft vor allem bei |
 | --- | --- | --- |
@@ -128,62 +128,13 @@ Tracking ist kein Muss. Es kann aber helfen, langfristig den Überblick zu behal
 
 Für viele reicht eine App pro Kategorie oder sogar nur ein einfaches Notizbuch. Wichtiger als die perfekte App ist, dass die Daten regelmäßig, ehrlich und ohne Zwang erfasst werden.
 
-### 3.11.4 Erhaltungskalorien und Diät-Regeln
+### 4.11.4 Gewichtsziel separat planen
 
-Ein Kalorienziel ist zuerst ein Arbeitswert. Formeln und Rechner liefern einen Startpunkt; ob er stimmt, zeigt erst der Gewichtstrend.
+Wer Fett verlieren will, braucht kein neues Ernährungssystem, sondern eine geplante Anwendung der Basis: moderates Defizit, Protein, Krafttraining, Schritte, Schlaf und Trendkontrolle. Die Details stehen in [05 Diätphase](05-diaetphase.md).
 
-**Startwert berechnen:** Eine brauchbare Schätzung ist die Mifflin-St.-Jeor-Formel für den Ruheenergieverbrauch, im Alltag oft Grundumsatz genannt. Danach wird mit einem Aktivitätsfaktor multipliziert (<a href="https://pubmed.ncbi.nlm.nih.gov/2305711/">Mifflin et al. 1990</a>; <a href="https://www.niddk.nih.gov/bwp">NIDDK Body Weight Planner</a>).
+Wer Muskeln aufbauen will, braucht ebenfalls keine andere Lebensmittelmoral, sondern genug Energie für Training und Regeneration. Wie Erhaltung, kontrollierte Massephase, klassische Massephase und Dirty Bulk praktisch einzuordnen sind, steht in [06 Massephase](06-massephase.md).
 
-- Männer: `10 x Körpergewicht (kg) + 6,25 x Größe (cm) - 5 x Alter + 5`
-- Frauen: `10 x Körpergewicht (kg) + 6,25 x Größe (cm) - 5 x Alter - 161`
-- Erhaltungskalorien: `Ruheenergieverbrauch x Aktivitätsfaktor`
-
-Als Aktivitätsfaktor reichen grobe Arbeitswerte: 1,3-1,4 bei überwiegend sitzendem Alltag und wenig Schritten, 1,5-1,6 bei sitzendem Alltag plus regelmäßiger Bewegung oder Training, 1,7+ bei körperlich aktivem Alltag oder hohem Trainingsumfang. Beispiel: 80 kg, 180 cm, 40 Jahre, männlich ergibt ca. 1.730 kcal Ruheenergieverbrauch; mit Faktor 1,55 sind das ca. 2.680 kcal/Tag als Erhaltungsstartwert.
-
-**Defizit wählen:** Vom Erhaltungswert wird ein Defizit abgezogen. 200 kcal/Tag ist konservativ und leistungsschonend, aber langsam. 300 kcal/Tag ist für viele ein guter erster Diätwert. 500 kcal/Tag ist ein deutlicheres Defizit und oft noch alltagstauglich, wenn Protein, Schlaf und Training passen. 1.000 kcal/Tag ist eher eine harte Cutting-Phase als eine normale Diätempfehlung: Hunger, Trainingsleistung, Alltagsenergie, Regeneration, Nährstoffabdeckung und Muskelmasseerhalt werden schneller zum Problem. Je schlanker, sportlicher oder leistungsorientierter jemand ist, desto konservativer sollte das Defizit geplant werden; offizielle Gewichtsmanagement-Quellen betonen langsame, stetige Abnahme, und sportnahe Empfehlungen sind bei leanen, trainierenden Personen besonders vorsichtig (<a href="https://www.cdc.gov/healthy-weight-growth/losing-weight/index.html">CDC 2025</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/24864135/">Helms et al. 2014</a>).
-
-**Defizit in Fett umrechnen:** 1 kg Körperfett entspricht grob 7.700 kcal. Das ist ein Fettäquivalent, kein exaktes Waagenversprechen, weil Wasser, Glykogen, Verdauungsinhalt, Trainingsstress und Anpassungen im Energieverbrauch mitlaufen. Moderne Gewichtsmodelle warnen deshalb vor zu starren 3.500-kcal-pro-Pfund- oder 7.700-kcal-pro-kg-Erwartungen (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3880593/">Hall et al. 2011</a>; <a href="https://www.niddk.nih.gov/bwp">NIDDK Body Weight Planner</a>).
-
-| Tagesdefizit | Wochendefizit | grobes Fettäquivalent |
-| --- | ---: | ---: |
-| 200 kcal | 1.400 kcal | ca. 0,18 kg/Woche |
-| 300 kcal | 2.100 kcal | ca. 0,27 kg/Woche |
-| 500 kcal | 3.500 kcal | ca. 0,45 kg/Woche |
-| 1.000 kcal | 7.000 kcal | ca. 0,9 kg/Woche |
-
-**Echte Erhaltung aus zwei Wochen:** Wenn Kalorien und Morgengewicht 14 Tage halbwegs sauber erfasst wurden, lässt sich der persönliche Erhaltungswert aus dem Trend zurückrechnen:
-
-- Durchschnittskalorien aus allen 14 Tagen bilden.
-- Durchschnittsgewicht aus Woche 1 und Woche 2 bilden.
-- Gewichtsänderung berechnen: `Woche 2 - Woche 1`.
-- Erhaltungskalorien schätzen: `Durchschnittskalorien - (Gewichtsänderung in kg x 7.700 / 7)`.
-
-Die Division durch 7 passt, weil die Mittelpunkte der beiden Wochenmittel etwa eine Woche auseinanderliegen. Beispiel: Durchschnittskalorien 2.300 kcal/Tag, Woche 1 im Mittel 82,4 kg, Woche 2 im Mittel 82,0 kg. Die Änderung ist -0,4 kg. Rechnung: `2.300 - (-0,4 x 7.700 / 7) = ca. 2.740 kcal/Tag`. Wer bei 2.300 kcal/Tag rund 0,4 kg pro Woche verliert, liegt also grob 440 kcal unter Erhaltung. Bei viel Salz, anderen Kohlenhydratmengen, Muskelkater, Reisen, Krankheit oder Zyklusschwankungen ist die Rechnung lauter; dann besser weitere 1-2 Wochen beobachten.
-
-**Praktische Diät-Regeln:**
-
-- Defizit moderat halten, nicht maximal.
-- Protein eher hoch halten.
-- Krafttraining beibehalten.
-- Schritte erhöhen, bevor Kalorien extrem gedrückt werden.
-- Stagnation erst nach 2-3 Wochen Trend bewerten.
-- Als grobe Orientierung ist eine Gewichtsabnahme von etwa 0,5-1,0 % des Körpergewichts pro Woche für viele Diätphasen realistischer als Crash-Diäten.
-- Schlafmangel nicht mit noch mehr Koffein und noch weniger Essen kompensieren.
-
-**Schritte als Defizit-Werkzeug:** Wenn der Gewichtstrend stagniert, sind zusätzliche Schritte oft die erste Bewegungsschraube, bevor Kalorien stark gesenkt oder harte Cardioeinheiten ergänzt werden. Alltagsbewegung erhöht den Energieverbrauch niedrigschwellig und ist für viele leichter durchzuhalten als zusätzliche intensive Einheiten. Der Effekt ist trotzdem endlich: Schritte helfen beim Defizit, ersetzen aber keine Kontrolle von Kalorien, Protein, Schlaf und Wochenbilanz.
-
-### 3.11.5 Muskelaufbau-Regeln
-
-- Leichter Kalorienüberschuss reicht.
-- Sinnvoller Startbereich: etwa 100-300 kcal/Tag über Erhalt oder ca. 5-10 % über Erhaltungskalorien; das ist ein Startwert, kein Gesetz.
-- Gewichtszunahme langsam halten; je fortgeschrittener, desto kleiner sollte der Überschuss sein.
-- Protein absichern.
-- Progressives Krafttraining ist Pflicht.
-- Wenn Bauchumfang schnell steigt, aber Trainingsleistung kaum besser wird: Überschuss prüfen.
-
-Ziel ist nicht maximale Gewichtszunahme, sondern messbarer Trainingsfortschritt bei kontrollierter Körperfettzunahme.
-
-### 3.11.6 Supplements
+### 4.11.5 Supplements
 
 Supplements ergänzen, ersetzen aber nicht Ernährung, Training, Schlaf und Konsistenz.
 

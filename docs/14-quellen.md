@@ -1,4 +1,4 @@
-# 12 Quellen
+# 14 Quellen
 
 <p align="center">
   <img src="../assets/visuals/fitness-kompass-quellenbibliothek.png" alt="Fitness-Kompass Quellenbibliothek" width="100%">
@@ -6,7 +6,7 @@
 
 Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 
-## 12.1 Ernährung
+## 14.1 Ernährung
 
 - <a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a> - Gut essen und trinken: zentrale Ernährungsempfehlungen für gesunde Erwachsene in Deutschland von 18 bis 65 Jahren.
 - <a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-ernaehrungskreis/">DGE 2024b</a> - Ernährungskreis: praktische Orientierung für Lebensmittelgruppen.
@@ -19,12 +19,26 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - <a href="https://www.who.int/publications/i/item/9789240046429">WHO 2022</a> - Health effects of non-sugar sweeteners: systematischer Review und Meta-Analyse.
 - <a href="https://www.ncbi.nlm.nih.gov/books/NBK592246/">WHO 2023</a> - Use of non-sugar sweeteners: Empfehlung und Einordnung der Evidenz.
 - <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790045">McGlynn et al. 2022</a> - Low- and no-calorie sweetened beverages als Ersatz für zuckergesüßte Getränke.
+
+## 14.2 Diät, Energiebilanz und Gewichtstrend
+
 - <a href="https://pubmed.ncbi.nlm.nih.gov/2305711/">Mifflin et al. 1990</a> - Mifflin-St.-Jeor-Formel zur Schätzung des Ruheenergieverbrauchs.
 - <a href="https://www.niddk.nih.gov/bwp">NIDDK Body Weight Planner</a> - dynamisches Modell für Energiezufuhr, Körpergewicht und Erhaltungskalorien.
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3880593/">Hall et al. 2011</a> - dynamische Einordnung von Energieungleichgewicht und Körpergewichtsveränderung.
 - <a href="https://www.cdc.gov/healthy-weight-growth/losing-weight/index.html">CDC 2025</a> - Gewichtsabnahme: langsame, stetige Veränderung und alltagstaugliche Umsetzung.
+- <a href="https://www.cdc.gov/healthy-weight-growth/healthy-eating/fruits-vegetables.html">CDC 2025b</a> - Obst und Gemüse im Gewichtsmanagement: Volumen, Wasser, Ballaststoffe und Kaloriendichte.
+- <a href="https://doi.org/10.1016/j.cmet.2019.05.008">Hall et al. 2019</a> - ultra-verarbeitete Ernährung, spontane Energieaufnahme und Gewichtszunahme in einer kontrollierten NIH-Studie.
+- <a href="https://www.nature.com/articles/ijo2017206">Byrne et al. 2018</a> - MATADOR-Studie zu intermittierender Energierestriktion und Erhaltungsblöcken bei Männern mit Adipositas.
 
-## 12.2 Bewegung und Training
+## 14.3 Massephase
+
+- <a href="https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2019.00131/full">Slater et al. 2019</a> - Review zur Frage, ob und wie ein Energieüberschuss Krafttrainings-Hypertrophie unterstützt.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/23679146/">Garthe et al. 2013</a> - Gewichtszunahme bei Eliteathleten: höhere Energiezufuhr erhöhte Fettmasse stärker, ohne mehr fettfreie Masse zu bringen.
+- <a href="https://nutrition-evidence.com/article/325019/nutrition-recommendations-for-bodybuilders-in-the-off-season-a-narrative-review">Iraki et al. 2019</a> - Off-Season- bzw. Massephase-Empfehlungen für Natural Bodybuilder: kontrollierter Überschuss und langsame Gewichtszunahme.
+- <a href="https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/am-i-healthy-weight">NIDDK 2023</a> - BMI, Taillenumfang und Grenzen der Risikoeinschätzung bei muskulösen Personen.
+- <a href="https://www.nhlbi.nih.gov/health/heart-healthy-living/healthy-weight">NHLBI o. J.</a> - Taillenumfang und erhöhte Gesundheitsrisiken bei zentraler Fettverteilung.
+
+## 14.4 Bewegung und Training
 
 - <a href="https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Praevention/Broschueren/Konsenspapier_Runder_Tisch.pdf">BMG o. J.</a> - Bewegungsempfehlungen: Ausdauer, Kraft und weniger Sitzen.
 - <a href="https://www.ncbi.nlm.nih.gov/books/NBK566046/">WHO 2020</a> - Physical Activity Guidelines: internationale Basisempfehlungen für Ausdauer, Kraft und Sitzen.
@@ -70,7 +84,7 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/39932536/">Vargas-Molina et al. 2025</a> - Cluster- und traditionelle Sätze bei volumen- und RIR-abgeglichener Hypertrophie.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/39903375/">Zhang et al. 2025</a> - Supersätze im Vergleich zu traditionellen Sätzen.
 
-## 12.3 Langlebigkeit und Risikofaktoren
+## 14.5 Langlebigkeit und Risikofaktoren
 
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6207481/">Li et al. 2018</a> - Lifestyle-Faktoren und geschätzte Lebenserwartung in US-Kohorten.
 - <a href="https://www.bmj.com/content/368/bmj.l6669">Li et al. 2020</a> - gesunder Lebensstil und Jahre ohne Krebs, Herz-Kreislauf-Erkrankungen und Typ-2-Diabetes.
@@ -82,20 +96,20 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - <a href="https://www.cancer.gov/about-cancer/causes-prevention/risk/alcohol/alcohol-fact-sheet">NCI 2024b</a> - Alcohol and Cancer Risk Fact Sheet.
 - <a href="https://www.who.int/news/item/03-02-2026-four-in-ten-cancer-cases-could-be-prevented-globally">WHO/IARC 2026</a> - globale Schätzung vermeidbarer Krebsfälle durch modifizierbare Risikofaktoren.
 
-## 12.4 Schlaf und Gesundheit
+## 14.6 Schlaf und Gesundheit
 
 - <a href="https://gesund.bund.de/gut-schlafen">gesund.bund.de 2023</a> - Gut schlafen: verständliche Quelle zu Schlaf, Schlafbedarf und Schlafqualität.
 - <a href="https://register.awmf.org/assets/guidelines/063-003l_S3_Insomnie-bei-Erwachsenen_2025-04.pdf">AWMF/DGSM 2025</a> - S3-Leitlinie Insomnie bei Erwachsenen.
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4434546/">AASM/SRS 2015</a> - Recommended Amount of Sleep for a Healthy Adult.
 
-## 12.5 Gewohnheiten und Verhalten
+## 14.7 Gewohnheiten und Verhalten
 
 - <a href="https://www.penguin.de/buecher/james-clear-die-1-methode-minimale-veraenderung-maximale-wirkung/paperback/9783442178582">Clear dt.</a> - Die 1%-Methode: deutsche Ausgabe von *Atomic Habits*.
 - <a href="https://www.penguinrandomhouse.com/books/543993/atomic-habits-by-james-clear/9780735211292/">Clear 2018</a> - Atomic Habits: Originalausgabe.
 - <a href="https://doi.org/10.1002/ejsp.674">Lally et al. 2010</a> - How are habits formed: Studie zur Gewohnheitsbildung im Alltag.
 - <a href="https://doi.org/10.1016/S0065-2601(06)38002-1">Gollwitzer &amp; Sheeran 2006</a> - Implementation Intentions and Goal Achievement: Meta-Analyse zu Wenn-dann-Plänen.
 
-## 12.6 Sporternährung und Supplements
+## 14.8 Sporternährung und Supplements
 
 - <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a> - Protein and Exercise: Positionspapier zu Protein für trainierende Personen.
 - <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0189-4">ISSN 2017b</a> - Nutrient Timing: Positionspapier zu Timing von Protein, Kohlenhydraten und Energiezufuhr.
@@ -103,13 +117,13 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/24864135/">Helms et al. 2014</a> - Evidence-based recommendations for natural bodybuilding contest preparation.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/17277604/">ACSM 2007</a> - Exercise and Fluid Replacement: Flüssigkeit, Elektrolyte und Kohlenhydrate während Belastung.
 
-## 12.7 Apps und Tracking-Tools
+## 14.9 Apps und Tracking-Tools
 
 - Gewichtstrend: <a href="https://play.google.com/store/apps/details?id=net.cachapa.libra">Libra</a>, <a href="https://happyscale.com/">Happy Scale</a>, <a href="https://github.com/oliexdev/openScale">openScale</a>.
 - Ernährung: <a href="https://fddb.info/">FDDB</a>, <a href="https://www.yazio.com/">YAZIO</a>, <a href="https://www.myfitnesspal.com/">MyFitnessPal</a>.
 - Training: <a href="https://www.hevyapp.com/">Hevy</a>, <a href="https://www.strong.app/">Strong</a>, <a href="https://www.fitnotesapp.com/">FitNotes</a>.
 
-## 12.8 Coach- und Kanalquellen
+## 14.10 Coach- und Kanalquellen
 
 - <a href="https://rpstrength.com/pages/team/michael-israetel">RP / Israetel</a>
 - <a href="https://www.youtube.com/@RenaissancePeriodization">RP YouTube</a>

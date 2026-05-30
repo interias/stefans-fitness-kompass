@@ -1,7 +1,7 @@
 # fitness-kompass-langlebigkeit-risikohebel.png
 
 Target path: `assets/visuals/fitness-kompass-langlebigkeit-risikohebel.png`  
-Markdown file: `docs/08-langlebigkeit-risiken.md`
+Markdown file: `docs/11-langlebigkeit-risiken.md`
 Recommended size: 2400x600 px, aspect ratio 4:1
 
 ## Prompt

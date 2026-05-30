@@ -1,14 +1,14 @@
 # fitness-kompass-biomechanik-nacken-hals.png
 
 Target path: `assets/visuals/fitness-kompass-biomechanik-nacken-hals.png`
-Markdown file: `docs/05-biomechanik-uebungsauswahl.md`
+Markdown file: `docs/08-biomechanik-uebungsauswahl.md`
 Recommended size: 1600x900 px, aspect ratio 16:9
 Generated size: 1672x941 px
 
 ## Prompt
 
 Use case: scientific-educational
-Asset type: replacement inline anatomy visual for docs/05-biomechanik-uebungsauswahl.md, section 5.10 neck/upper trapezius, target aspect ratio 16:9, intended final size 1600x900 px
+Asset type: replacement inline anatomy visual for docs/08-biomechanik-uebungsauswahl.md, section 8.10 neck/upper trapezius, target aspect ratio 16:9, intended final size 1600x900 px
 Primary request: Create an anatomically careful, ultrarealistic but calm neck and upper-trapezius muscle illustration in the existing Fitness Compass visual style. Show one coherent three-quarter anterior-lateral medical anatomy model cropped from base of skull to upper chest and shoulders. This is a non-sexual educational anatomy model, not a portrait; keep facial features minimal and not distracting.
 Anatomy requirements: clearly show sternocleidomastoid running from mastoid process behind the ear down to sternum and medial clavicle. Show scalenes running from cervical transverse processes to first and second ribs. Show upper trapezius running from occipital/nuchal ligament/cervical spine region to lateral clavicle, acromion, and scapular spine. Show deep cervical flexors/extensors only as subdued deeper stabilizing layers near the cervical spine. Include semi-transparent skull base, mandible only as minimal context, cervical vertebrae, clavicles, sternum/manubrium, upper ribs, scapular ridge/acromion, and proximal shoulder girdle. Keep larynx/face detail minimal.
 Scene/backdrop: clean warm off-white anatomical atlas background with subtle paper texture and faint Fitness Compass compass-line motif, no gym scene.

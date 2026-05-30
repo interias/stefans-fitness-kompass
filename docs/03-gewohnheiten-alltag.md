@@ -1,4 +1,4 @@
-# 09 Gewohnheiten, Alltag und Wochencheck
+# 03 Gewohnheiten, Alltag und Wochencheck
 
 <p align="center">
   <img src="../assets/visuals/fitness-kompass-gewohnheiten-systeme.png" alt="Fitness-Kompass Gewohnheiten Systeme" width="100%">
@@ -6,13 +6,13 @@
 
 Die meisten Pläne scheitern nicht an fehlendem Wissen, sondern an Reibung im Alltag. Gute Absichten brauchen deshalb kleine, wiederholbare Systeme: klare Auslöser, einfache Mindestversionen, passende Umgebung und einen Wochencheck, der korrigiert statt bewertet.
 
-## 9.1 Gewohnheiten und 1%-Methode
+## 3.1 Gewohnheiten und 1%-Methode
 
 Die 1%-Methode nach James Clear ist eine Denkregel: Kleine, wiederholte Verbesserungen wirken langfristig stärker als seltene radikale Neustarts. Sie ist keine exakte mathematische Gesundheitsformel, sondern ein praktisches Modell für Konsistenz (<a href="https://www.penguinrandomhouse.com/books/543993/atomic-habits-by-james-clear/9780735211292/">Clear 2018</a>).
 
 Gewohnheiten entstehen durch Wiederholung in einem stabilen Kontext. Entscheidend ist nicht eine magische Tageszahl, sondern dass ein Verhalten regelmäßig an einen klaren Auslöser gekoppelt wird (<a href="https://doi.org/10.1002/ejsp.674">Lally et al. 2010</a>; <a href="https://doi.org/10.1016/S0065-2601(06)38002-1">Gollwitzer &amp; Sheeran 2006</a>).
 
-### 9.1.1 Praxisregeln
+### 3.1.1 Praxisregeln
 
 1. **Kleinstversion definieren:** Die Gewohnheit muss auch an schlechten Tagen machbar sein.
 2. **An Auslöser koppeln:** "Nach X mache ich Y" ist besser als "Ich sollte öfter Y machen".
@@ -22,7 +22,7 @@ Gewohnheiten entstehen durch Wiederholung in einem stabilen Kontext. Entscheiden
 6. **Rückfälle einplanen:** Ein verpasster Tag ist kein Abbruch. Zwei verpasste Tage hintereinander sind ein Warnsignal.
 7. **Fortschritt sichtbar machen:** Häkchen, Trainingslog, Schritttrend oder Wochennotiz reichen.
 
-### 9.1.2 Beispiele
+### 3.1.2 Beispiele
 
 - **Ernährung:** Nach dem Frühstück eine Wasserflasche füllen.
 - **Training:** Nach der Arbeit direkt die Trainingskleidung anziehen.
@@ -30,7 +30,7 @@ Gewohnheiten entstehen durch Wiederholung in einem stabilen Kontext. Entscheiden
 - **Schlaf:** Nach dem Zähneputzen das Handy außerhalb des Schlafzimmers laden.
 - **Diät:** Wenn abends Hunger kommt, zuerst Protein-/Gemüseoption essen und dann neu entscheiden.
 
-### 9.1.3 Mindestversionen
+### 3.1.3 Mindestversionen
 
 - 10 Minuten Krafttraining statt gar kein Training.
 - 15 Minuten Spaziergang statt kompletter Bewegungsausfall.
@@ -41,9 +41,9 @@ Gewohnheiten sollen so klein starten, dass sie zuverlässig beginnen, und so kla
 
 ---
 
-## 9.2 Alltag und Systeme
+## 3.2 Alltag und Systeme
 
-### 9.2.1 Grundregeln
+### 3.2.1 Grundregeln
 
 1. Trainingsslot festlegen, nicht spontan hoffen.
 2. Standardmahlzeiten definieren, die immer funktionieren.
@@ -56,7 +56,7 @@ Gewohnheiten sollen so klein starten, dass sie zuverlässig beginnen, und so kla
 9. Social Media filtern: keine Angst-, Hype- oder Detox-Quellen.
 10. Monatsreview durchführen: Was funktioniert? Was nervt? Was ist zu kompliziert?
 
-### 9.2.2 Entscheidungsregeln
+### 3.2.2 Entscheidungsregeln
 
 **Gewicht stagniert 2-3 Wochen:** Kalorienaufnahme prüfen, Protein/Faser/Sättigung optimieren, Schritte leicht erhöhen oder 100-200 kcal reduzieren.
 
@@ -70,7 +70,7 @@ Gewohnheiten sollen so klein starten, dass sie zuverlässig beginnen, und so kla
 
 ---
 
-## 9.3 Wochen-Checkliste
+## 3.3 Wochen-Checkliste
 
 ```text
 [ ] 2-4 Krafttrainings erledigt

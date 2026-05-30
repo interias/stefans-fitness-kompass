@@ -48,17 +48,19 @@ Wenn du nur eine Seite lesen willst, starte mit der [Kurzfassung](docs/01-kurzfa
 | --- | --- |
 | [01 Kurzfassung](docs/01-kurzfassung.md) | Kernideen, Minimalstart und wichtigste Botschaften. |
 | [02 Quellenbewertung](docs/02-quellenbewertung.md) | Regeln zur Bewertung von Leitlinien, Reviews, Coaches und Influencer-Content. |
-| [03 Ernährung](docs/03-ernaehrung.md) | Kalorienbilanz, Protein, Lebensmittelauswahl, Tracking, Diät, Aufbau und Supplements. |
-| [04 Krafttraining](docs/04-krafttraining.md) | Progression, mTORC1/Hypertrophie, Technik, RIR, Split-Programme und Wochenstruktur. |
-| [05 Biomechanik und Übungsauswahl](docs/05-biomechanik-uebungsauswahl.md) | Bewegungsmuster, Zielmuskeln, Übungsauswahl und Prioritäten. |
-| [06 Ausdauertraining](docs/06-ausdauertraining.md) | Cardio, Mitochondrien, VO2max, Zone 2, HIIT und Intensitätsmix. |
-| [07 Gesundheit und Schlaf](docs/07-gesundheit-schlaf.md) | Schlaf, Alltagsbewegung, Stress, Schmerzsignale und medizinische Basis. |
-| [08 Langlebigkeit und Risikofaktoren](docs/08-langlebigkeit-risiken.md) | Große Gesundheitshebel, Risikostatistiken, Krebsrisiken und Prävention. |
-| [09 Gewohnheiten und Alltag](docs/09-gewohnheiten-alltag.md) | 1%-Methode, Systeme, Entscheidungsregeln und Wochen-Checkliste. |
-| [10 YouTube- und Coachquellen](docs/10-youtube-coachquellen.md) | Praktische Einordnung von Kanälen und Coaches. |
-| [11 Fazit](docs/11-fazit.md) | Kompakte Zusammenfassung der robusten Strategie. |
-| [12 Quellen](docs/12-quellen.md) | Thematisch sortierte Quellenliste. |
-| [13 Über dieses Dokument](docs/13-ueber-dieses-dokument.md) | Stand, Autor, Geltungsbereich, Hinweis und Lizenzdetails. |
+| [03 Gewohnheiten und Alltag](docs/03-gewohnheiten-alltag.md) | 1%-Methode, Systeme, Entscheidungsregeln und Wochen-Checkliste. |
+| [04 Ernährung](docs/04-ernaehrung.md) | Protein, Lebensmittelauswahl, Getränke, Kohlenhydrate, Fettqualität, Tracking und Supplements. |
+| [05 Diätphase](docs/05-diaetphase.md) | Energiebilanz, Erhaltungskalorien, Defizit, Cheat Codes, Einkaufsliste und Anpassung. |
+| [06 Massephase](docs/06-massephase.md) | Erhaltung, kontrollierte Massephase, Dirty Bulk, Überschuss und Stoppkorridor. |
+| [07 Krafttraining](docs/07-krafttraining.md) | Progression, mTORC1/Hypertrophie, Technik, RIR, Split-Programme und Wochenstruktur. |
+| [08 Biomechanik und Übungsauswahl](docs/08-biomechanik-uebungsauswahl.md) | Bewegungsmuster, Zielmuskeln, Übungsauswahl und Prioritäten. |
+| [09 Ausdauertraining](docs/09-ausdauertraining.md) | Cardio, Mitochondrien, VO2max, Zone 2, HIIT und Intensitätsmix. |
+| [10 Gesundheit und Schlaf](docs/10-gesundheit-schlaf.md) | Schlaf, Alltagsbewegung, Stress, Schmerzsignale und medizinische Basis. |
+| [11 Langlebigkeit und Risikofaktoren](docs/11-langlebigkeit-risiken.md) | Große Gesundheitshebel, Risikostatistiken, Krebsrisiken und Prävention. |
+| [12 YouTube- und Coachquellen](docs/12-youtube-coachquellen.md) | Praktische Einordnung von Kanälen und Coaches. |
+| [13 Fazit](docs/13-fazit.md) | Kompakte Zusammenfassung der robusten Strategie. |
+| [14 Quellen](docs/14-quellen.md) | Thematisch sortierte Quellenliste. |
+| [15 Über dieses Dokument](docs/15-ueber-dieses-dokument.md) | Stand, Autor, Geltungsbereich, Hinweis und Lizenzdetails. |
 
 ## Lizenz
 

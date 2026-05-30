@@ -1,7 +1,7 @@
 # fitness-kompass-ernaehrung-energiebilanz-trend.png
 
 Target path: `assets/visuals/fitness-kompass-ernaehrung-energiebilanz-trend.png`
-Markdown file: `docs/03-ernaehrung.md`
+Markdown file: `docs/05-diaetphase.md`
 Recommended size: 1600x900 px, aspect ratio 16:9
 
 ## Prompt

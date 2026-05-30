@@ -1,4 +1,4 @@
-# 04 Krafttraining
+# 07 Krafttraining
 
 <p align="center">
   <img src="../assets/visuals/fitness-kompass-training-progression.png" alt="Fitness-Kompass Training Progression" width="100%">
@@ -6,15 +6,15 @@
 
 Krafttraining wird schnell kompliziert, wenn jeder Split, jede Methode und jede Übung gleich wichtig wirkt. Für den Alltag reicht ein klarerer Blick: Der Reiz muss hart genug, technisch sauber und über Wochen steigerbar sein, während Schlaf, Essen und Stress die Umsetzung tragen.
 
-## 4.1 Krafttraining als Basis nutzen
+## 7.1 Krafttraining als Basis nutzen
 
 Offizielle Bewegungsempfehlungen nennen muskelkräftigende Aktivitäten an mindestens zwei Tagen pro Woche. Krafttraining ist damit nicht nur Bodybuilding, sondern Gesundheitsbasis (<a href="https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Praevention/Broschueren/Konsenspapier_Runder_Tisch.pdf">BMG o. J.</a>; <a href="https://www.ncbi.nlm.nih.gov/books/NBK566046/">WHO 2020</a>). Für viele sind 2-4 Krafttrainingseinheiten pro Woche ein sinnvoller Zielbereich.
 
-## 4.2 Regelmäßigkeit schlägt Perfektion
+## 7.2 Regelmäßigkeit schlägt Perfektion
 
 Ein solider Plan, der 12 Monate läuft, ist besser als ein idealer Plan, der nach 3 Wochen endet. Deshalb braucht jede Trainingsphase ein Minimalziel, zum Beispiel 2 Krafttrainings pro Woche auch in stressigen Phasen.
 
-## 4.3 Ziel und Spezifität klären
+## 7.3 Ziel und Spezifität klären
 
 Man wird gut in dem, was man trainiert. Bodybuilding, Maximalkraft, Spartan Race, Laufen und allgemeine Gesundheit brauchen unterschiedliche Schwerpunkte. Erst das Ziel definieren, dann Training danach sortieren: Muskelaufbau, Kraft, Fettverlust, OCR oder Gesundheit.
 
@@ -28,7 +28,7 @@ Man wird gut in dem, was man trainiert. Bodybuilding, Maximalkraft, Spartan Race
 
 Wenn Ziele konkurrieren, braucht die Woche Prioritäten. Alles gleichzeitig maximal zu trainieren führt schnell zu schlechterer Erholung.
 
-## 4.4 Hypertrophie verstehen: mTORC1, Spannung und Proteinaufbau
+## 7.4 Hypertrophie verstehen: mTORC1, Spannung und Proteinaufbau
 
 Muskelwachstum entsteht nicht durch maximalen Schmerz, sondern durch wiederholte, ausreichend hohe mechanische Spannung und anschließenden Proteinaufbau. Widerstandstraining wird im Muskel über Mechanotransduktion in molekulare Signale übersetzt; mTORC1 ist dabei ein zentraler Signalweg, der Muskelproteinsynthese und Zellwachstum mit antreibt (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12927080/">Van Every et al. 2025</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/30335577/">Wackerhage et al. 2019</a>).
 
@@ -54,15 +54,15 @@ Gute Hypertrophiearbeit fühlt sich oft hart an, muss aber nicht jedes Mal zerst
 
 *Abbildung: Blau steht für den zusätzlichen Reiz pro Satz, rot für kumulative Ermüdung, grün für den kumulativen Gesamtstimulus. Der markierte Bereich zeigt den oft effizienteren Kompromiss aus Reiz und Ermüdung.*
 
-## 4.5 Technik als Reizsteuerung verstehen
+## 7.5 Technik als Reizsteuerung verstehen
 
 Saubere Ausführung ist kein Selbstzweck. Sie sorgt dafür, dass die Zielmuskulatur arbeitet und Gelenke nicht unnötig belastet werden. Kontrollierte Exzentrik, stabiler Bewegungsablauf und sinnvoller Bewegungsumfang sind deshalb Teil der Reizsteuerung.
 
-## 4.6 Progression planen
+## 7.6 Progression planen
 
 Training muss über Zeit anspruchsvoller werden: mehr Wiederholungen, mehr Gewicht, bessere Technik, größerer Bewegungsumfang, mehr Sätze oder kürzere Pausen (<a href="https://pubmed.ncbi.nlm.nih.gov/19204579/">ACSM 2009</a>). Ein Trainingstagebuch macht diese Progression sichtbar; ohne Logbuch wird Fortschritt schnell zum Gefühl.
 
-## 4.7 Belastung steuern: Volumen, RIR, Wiederholungen und Pausen
+## 7.7 Belastung steuern: Volumen, RIR, Wiederholungen und Pausen
 
 Muskelaufbau braucht genug harte Sätze und Nähe zum Muskelversagen, aber nicht jeder Satz muss maximal sein. Als Arbeitsgröße zählen harte Sätze pro Muskelgruppe und Woche: Aufwärmsätze zählen nicht, sehr leichte Technik- oder Pump-Sätze nur eingeschränkt. Reviews zeigen eine Dosis-Wirkungs-Beziehung zwischen wöchentlichem Satzvolumen und Hypertrophie, gleichzeitig ist die individuelle Erholung der begrenzende Faktor (<a href="https://pubmed.ncbi.nlm.nih.gov/27433992/">Schoenfeld et al. 2017a</a>; <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8884877/">Baz-Valle et al. 2022</a>).
 
@@ -102,7 +102,7 @@ Dichte Methoden wie Cluster-Sets, Rest Redistribution, EMOMs, Supersätze und Dr
 
 Man kann diese Werkzeuge nach ihrer Grundidee sortieren: Cluster-Sets, Rest Redistribution und gut dosierte EMOMs verteilen Pausen anders; Supersätze koppeln Übungen; Drop-Sätze verlängern einen Satz durch Lastreduktion. Mini-Sätze in Cluster- oder Rest-Redistribution-Strukturen sind im Logbuch nicht automatisch zusätzliche harte Sätze. Aussagekräftiger sind Gesamtwiederholungen, Last, RIR, Pausenstruktur und die Frage, ob Technik und Leistung stabiler wurden.
 
-### 4.7.1 Cluster-Sets
+### 7.7.1 Cluster-Sets
 
 Cluster-Sets teilen einen geplanten Satz in kleinere Wiederholungsgruppen mit kurzer Pause innerhalb des Satzes. Statt 6 Wiederholungen am Stück kann man z. B. 2+2+2 Wiederholungen mit 20-30 Sekunden Pause trainieren. Diese kurzen Pausen zählen nicht als vollständige Satzpause, sondern als Teil der Satzstruktur. Die Idee ist simpel: Man unterbricht den Ermüdungsanstieg kurz, bevor Wiederholungsgeschwindigkeit, Position oder Technik stark abfallen.
 
@@ -114,7 +114,7 @@ Für Hypertrophie bleibt die Grenze wichtig: Wenn Volumen, Last, Nähe zum Versa
 
 Ein einfacher Start wäre bei Kniebeugen: statt 3 x 6 mit 2-3 Minuten Pause zwischen den Sätzen, 3 x (2+2+2) mit 20-30 Sekunden Pause innerhalb des Satzes und 2-3 Minuten zwischen den Sätzen. Im Logbuch sollten Last, Gesamtwiederholungen, RIR und Pausenstruktur stehen, damit der Vergleich zur normalen Variante möglich bleibt.
 
-### 4.7.2 Rest Redistribution
+### 7.7.2 Rest Redistribution
 
 Rest Redistribution verändert nicht zuerst die Übung, die Last oder die Gesamtwiederholungen, sondern die Verteilung der Pausenzeit. Aus 3 Sätzen mit 6 Wiederholungen und langen Pausen können z. B. 9 kleine Sätze mit 2 Wiederholungen und kürzeren Pausen werden. Die Gesamtarbeit bleibt ähnlich, aber die Ermüdung wird über mehr kurze Abschnitte verteilt.
 
@@ -124,7 +124,7 @@ Sinnvoll ist Rest Redistribution, wenn ein traditioneller Satz zu viel lokale Er
 
 Die Grenze bleibt dieselbe wie bei Cluster-Sets: Rest Redistribution macht einen Satz nicht automatisch wirksamer für Muskelaufbau. Sie ist eine Organisationsform. Sinnvoll ist sie, wenn dadurch Lastqualität, Technik oder Wiederholbarkeit besser werden; weniger sinnvoll ist sie, wenn dadurch jeder Abschnitt zu leicht bleibt und die Zielmuskulatur nie ausreichend hart arbeiten muss.
 
-### 4.7.3 EMOM
+### 7.7.3 EMOM
 
 EMOM bedeutet "every minute on the minute": Zu Beginn jeder Minute wird ein festes kleines Wiederholungspaket ausgeführt, der Rest der Minute ist Pause. EMOM ist ein Zeitrahmen, kein Muskelaufbau-Trick. Sinnvoll wird er, wenn Last und Wiederholungen so gewählt werden, dass auch die letzten Minuten technisch sauber bleiben. Wenn Wiederholungen hektisch, langsamer oder unsauber werden, war das Paket zu schwer oder zu groß.
 
@@ -132,7 +132,7 @@ Ein einfacher Block wäre: 10 Minuten Goblet Squat EMOM, jede Minute 5 saubere W
 
 Die direkte EMOM-Evidenz für Hypertrophie ist dünn. Praktisch kann ein gut dosierter EMOM einer Rest-Redistribution-Struktur ähneln, wenn kleine Wiederholungspakete mit kurzen, festen Pausen verteilt werden. Wenn aber jede Minute bis ans Muskelversagen geht, wird aus Technikpraxis schnell ein Ermüdungsblock. Für schwere Kniebeugen, Kreuzheben oder technisch anspruchsvolle Lifts sollte EMOM deshalb konservativ eingesetzt werden.
 
-### 4.7.4 Supersätze
+### 7.7.4 Supersätze
 
 Supersätze koppeln zwei Übungen mit wenig oder keiner Pause dazwischen. Übung A wird ausgeführt, direkt danach Übung B, dann folgt die Pause. Am stabilsten funktionieren nicht konkurrierende oder antagonistische Paarungen, etwa Kabelrudern plus Kurzhantelbankdrücken, Beinbeuger plus Waden, Seitheben plus Trizepsdrücken oder Bauch plus Rückenstrecker. Je stärker beide Übungen dieselbe Zielmuskulatur belasten, desto eher sinken Wiederholungen, Last oder Technik.
 
@@ -140,7 +140,7 @@ Der Hauptnutzen ist Zeitersparnis. Drei Runden aus Kabelrudern mit 10-12 Wiederh
 
 Supersätze fühlen sich oft anstrengender an und können die Erholung zwischen Übungen verschlechtern. Für schwere Grundübungen, maximale Kraftarbeit oder neue Technik sind sie meist weniger passend. Für Isolationsübungen, Maschinen und nicht konkurrierende Paarungen sind sie oft die bessere Wahl.
 
-### 4.7.5 Drop-Sätze
+### 7.7.5 Drop-Sätze
 
 Drop-Sätze sind vor allem ein zeiteffizientes Werkzeug für Zubehörarbeit. Man führt einen Arbeitssatz nahe ans technische Limit, senkt das Gewicht sofort um etwa 15-30 % und arbeitet ohne lange Pause weiter. Praktisch reichen häufig 1-2 Drops. Beim Seitheben könnte das z. B. heißen: 12 Wiederholungen mit 12 kg bis etwa 0-1 RIR, direkt 8-10 Wiederholungen mit 9 kg, direkt 8-12 Wiederholungen mit 6 kg. Danach ist die Übung für diese Muskelgruppe meist erledigt oder fast erledigt.
 
@@ -148,19 +148,19 @@ Die Evidenz spricht dafür, dass Drop-Sätze ähnliche Hypertrophie wie traditio
 
 Mehr Drops können für Kraftausdauer und metabolische Belastung sinnvoll sein, sind aber nicht automatisch mehr Hypertrophie. Für die Behauptung, 4-5 Drops seien für Hypertrophie besser als 2-3 Drops, gibt es aktuell keine robuste direkte Evidenz. Eine Studie verglich einen Single-Step- mit einem Multi-Step-Drop-Set-Protokoll; das Multi-Step-Protokoll verbesserte vor allem die Kraftausdauer, während Skelettmuskelmasse und Körperzusammensetzung zwischen den Gruppen ähnlich waren (<a href="https://sjsp.aearedo.es/index.php/sjsp/article/view/drop-set-training-muscle-performance-body-composition">Fasihiyan et al. 2023</a>). Deshalb passen Drop-Sätze eher ans Ende einer Übung, auf Maschinen, Kabelzüge oder Isolationsübungen. Bei schweren Grundübungen steigen Technik- und Erholungskosten schneller.
 
-## 4.8 Werkzeuge, Bewegungsmuster und Prioritäten wählen
+## 7.8 Werkzeuge, Bewegungsmuster und Prioritäten wählen
 
 Langhantel, Kurzhantel, Kabelzug, Maschinen und Körpergewicht sind Werkzeuge. Entscheidend sind Reiz, Sicherheit und Fortschritt. Erst kommen Bewegungsmuster und Zielmuskulatur, dann das konkrete Gerät.
 
 Ein robuster Plan deckt die großen Bewegungsmuster ab: Kniebeuge/Beinpresse, Hinge, Drücken, Ziehen, Core und Carry/Grip. Für Alltag, Haltung, Laufen, OCR/Spartan und langfristige Robustheit sind Beine, Rücken, hintere Kette und Griffkraft zentral. Rows, Pull-downs/Pull-ups, RDLs, Beinbeuger, Carries, Hängen, Waden und Core sollten deshalb regelmäßig vorkommen.
 
-Welche Bewegung welche Muskulatur belastet und wie man Übungen dafür auswählt, wird in [05 Biomechanik und Übungsauswahl](05-biomechanik-uebungsauswahl.md) praktisch eingeordnet.
+Welche Bewegung welche Muskulatur belastet und wie man Übungen dafür auswählt, wird in [08 Biomechanik und Übungsauswahl](08-biomechanik-uebungsauswahl.md) praktisch eingeordnet.
 
-## 4.9 Regeneration als Grenze einplanen
+## 7.9 Regeneration als Grenze einplanen
 
 Schlaf, Ernährung, Pausen, Deloads und Stressmanagement sind Teil des Trainingsplans. Regeneration entscheidet, ob ein Volumenbereich oder Split wirklich funktioniert. Wenn Leistung, Stimmung und Schlaf mehrere Wochen schlechter werden, sollte zuerst Belastung geprüft, Volumen reduziert und Schlaf priorisiert werden.
 
-## 4.10 Trainingspläne und Split-Programme
+## 7.10 Trainingspläne und Split-Programme
 
 Ein Split ist nur die Organisation der Trainingswoche. Er baut nicht automatisch mehr Muskeln auf, sondern verteilt die vorher festgelegten Sätze, Übungen und Erholungstage auf konkrete Trainingstage.
 
@@ -180,11 +180,11 @@ Nicht den Split optimieren, bevor die Basics stehen. Ein mittelmäßiger Split m
 
 ---
 
-## 4.11 Wochenstruktur
+## 7.11 Wochenstruktur
 
-Ausdauer wird in [06 Ausdauertraining](06-ausdauertraining.md) getrennt beschrieben. Die Wochenstruktur verbindet beide Reize trotzdem, weil Krafttraining, Laufen, Schlaf und Alltag in der Praxis um dieselbe Regeneration konkurrieren.
+Ausdauer wird in [09 Ausdauertraining](09-ausdauertraining.md) getrennt beschrieben. Die Wochenstruktur verbindet beide Reize trotzdem, weil Krafttraining, Laufen, Schlaf und Alltag in der Praxis um dieselbe Regeneration konkurrieren.
 
-### 4.11.1 Minimal-Woche
+### 7.11.1 Minimal-Woche
 
 Für stressige Phasen:
 
@@ -193,7 +193,7 @@ Für stressige Phasen:
 - tägliche kurze Bewegungspausen.
 - 1-2 kurze Mobility- oder Warm-up-Routinen.
 
-### 4.11.2 Standard-Woche
+### 7.11.2 Standard-Woche
 
 Für stabile Phasen:
 
@@ -202,7 +202,7 @@ Für stabile Phasen:
 - 1x optional Mobility, Technik, Grip, Core oder Carry.
 - 1-2 ruhigere Tage.
 
-### 4.11.3 Hybrid-Woche
+### 7.11.3 Hybrid-Woche
 
 Für Muskelaufbau plus Ausdauer/OCR:
 
@@ -211,11 +211,11 @@ Für Muskelaufbau plus Ausdauer/OCR:
 - 1x Grip, Carries, Hangeln oder sportartspezifische Einheit.
 - Belastung so steuern, dass Schlaf und Leistung nicht dauerhaft einbrechen.
 
-## 4.12 Kontrolle: Trainingslog und Schmerzregel
+## 7.12 Kontrolle: Trainingslog und Schmerzregel
 
 Kontrolle schließt den Planungsbogen: Das Logbuch hält die wichtigsten Trainingsdaten fest; die Schmerzregel verhindert, dass Ehrgeiz Technik und Belastbarkeit überfährt.
 
-### 4.12.1 Trainingslog
+### 7.12.1 Trainingslog
 
 ```text
 Datum:
@@ -224,7 +224,7 @@ Schlaf / Energie:
 Nächster Schritt:
 ```
 
-### 4.12.2 Schmerzregel
+### 7.12.2 Schmerzregel
 
 - **Normal:** Muskelbrennen, Pump, lokale Ermüdung; kein Fortschrittsbeweis.
 - **Warnsignal:** stechender Gelenkschmerz, ausstrahlender Schmerz, Taubheit, Instabilität.

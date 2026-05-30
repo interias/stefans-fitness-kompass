@@ -1,7 +1,7 @@
 # fitness-kompass-training-split-wochenstruktur.png
 
 Target path: `assets/visuals/fitness-kompass-training-split-wochenstruktur.png`
-Markdown file: `docs/04-krafttraining.md`
+Markdown file: `docs/07-krafttraining.md`
 Recommended size: 1600x900 px, aspect ratio 16:9
 
 ## Prompt

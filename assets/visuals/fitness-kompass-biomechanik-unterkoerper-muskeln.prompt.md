@@ -1,14 +1,14 @@
 # fitness-kompass-biomechanik-unterkoerper-muskeln.png
 
 Target path: `assets/visuals/fitness-kompass-biomechanik-unterkoerper-muskeln.png`
-Markdown file: `docs/05-biomechanik-uebungsauswahl.md`
+Markdown file: `docs/08-biomechanik-uebungsauswahl.md`
 Recommended size: 1600x900 px, aspect ratio 16:9
 Generated size: 1672x941 px
 
 ## Prompt
 
 Use case: scientific-educational
-Asset type: replacement inline anatomy visual for docs/05-biomechanik-uebungsauswahl.md, section 5.4 lower body, target aspect ratio 16:9, intended final size 1600x900 px
+Asset type: replacement inline anatomy visual for docs/08-biomechanik-uebungsauswahl.md, section 8.4 lower body, target aspect ratio 16:9, intended final size 1600x900 px
 Primary request: Create an anatomically careful, ultrarealistic but calm lower-body muscle illustration in the existing Fitness Compass visual style. The image is a clean two-view anatomical plate with no text: left side shows one coherent anterior pelvis-to-knee view of a single thigh; right side shows one coherent posterior-medial pelvis-to-knee view of a single thigh. Do not blend the bodies together. Do not make a random collage.
 Anatomy requirements: left/anterior view must clearly show rectus femoris, vastus lateralis, vastus medialis, and a subtle deeper vastus intermedius indication. Show the quadriceps tendon converging to the patella and the patellar ligament continuing to the tibial tuberosity. Right/posterior-medial view must clearly show gluteus maximus from posterior ilium/sacrum/coccyx toward iliotibial tract and gluteal tuberosity, hamstrings from ischial tuberosity toward posterior tibia/fibula, and adductors from pubis/ischium toward medial femur/linea aspera. Include semi-transparent pelvis, femur, patella, proximal tibia and fibula.
 Scene/backdrop: clean warm off-white anatomical atlas background with subtle paper texture and faint Fitness Compass compass-line motif, no gym scene.

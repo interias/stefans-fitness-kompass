@@ -1,7 +1,7 @@
 # fitness-kompass-ernaehrung-getraenke-entscheidung.png
 
 Target path: `assets/visuals/fitness-kompass-ernaehrung-getraenke-entscheidung.png`
-Markdown file: `docs/03-ernaehrung.md`
+Markdown file: `docs/04-ernaehrung.md`
 Recommended size: 1600x900 px, aspect ratio 16:9
 
 ## Prompt
