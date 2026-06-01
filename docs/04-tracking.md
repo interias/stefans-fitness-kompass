@@ -32,9 +32,9 @@ Fotos können helfen, wenn sie selten und standardisiert gemacht werden: gleiche
 
 Das Körpergewicht ist ein lauter Messwert. Ein einzelner Wiegetag sagt wenig, ein 7-Tage-Schnitt über mehrere Wochen sagt deutlich mehr. In Diätphasen zählt, ob der Trend fällt; in Massephasen zählt, ob der Trend langsam steigt und Training sowie Taille dazu passen.
 
-Der BMI ist eine grobe Bevölkerungsmetrik: `Körpergewicht in kg / Größe in m²`. Die CDC ordnet 18,5-24,9 als Normalgewicht, 25,0-29,9 als Übergewicht und ab 30 als Adipositas ein (<a href="https://www.cdc.gov/bmi/adult-calculator/bmi-categories.html">CDC 2024</a>). Für muskulöse Personen ist BMI allein begrenzt, weil er Fett- und Muskelmasse nicht trennt. Deshalb sind Taillenumfang, Blutdruck, Blutwerte, Leistungsfähigkeit und Kontext wichtiger als eine einzelne Zahl.
+Der BMI ist eine grobe Bevölkerungsmetrik: $\text{Körpergewicht (kg)} / \text{Größe (m)}^2$. Die CDC ordnet 18,5-24,9 als Normalgewicht, 25,0-29,9 als Übergewicht und ab 30 als Adipositas ein (<a href="https://www.cdc.gov/bmi/adult-calculator/bmi-categories.html">CDC 2024</a>). Für muskulöse Personen ist BMI allein begrenzt, weil er Fett- und Muskelmasse nicht trennt. Deshalb sind Taillenumfang, Blutdruck, Blutwerte, Leistungsfähigkeit und Kontext wichtiger als eine einzelne Zahl.
 
-Taille ist für Gesundheitsrisiken oft aussagekräftiger als Gewicht allein. NIDDK und NHLBI nennen erhöhte Risikobereiche bei mehr als 102 cm Taillenumfang für Männer und mehr als 88 cm für Frauen (<a href="https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/am-i-healthy-weight">NIDDK 2023</a>; <a href="https://www.nhlbi.nih.gov/health/heart-healthy-living/healthy-weight">NHLBI o. J.</a>). Die waist-to-height ratio ist eine einfache Zusatzmetrik: `Taillenumfang / Körpergröße`. NICE empfiehlt, die Taille möglichst unter der Hälfte der Körpergröße zu halten; ab etwa 0,5 steigt das Risiko, ab etwa 0,6 wird es deutlich problematischer (<a href="https://www.nice.org.uk/guidance/ng246/chapter/Recommendations">NICE 2025</a>).
+Taille ist für Gesundheitsrisiken oft aussagekräftiger als Gewicht allein. NIDDK und NHLBI nennen erhöhte Risikobereiche bei mehr als 102 cm Taillenumfang für Männer und mehr als 88 cm für Frauen (<a href="https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/am-i-healthy-weight">NIDDK 2023</a>; <a href="https://www.nhlbi.nih.gov/health/heart-healthy-living/healthy-weight">NHLBI o. J.</a>). Die waist-to-height ratio ist eine einfache Zusatzmetrik: $\text{Taillenumfang} / \text{Körpergröße}$. NICE empfiehlt, die Taille möglichst unter der Hälfte der Körpergröße zu halten; ab etwa 0,5 steigt das Risiko, ab etwa 0,6 wird es deutlich problematischer (<a href="https://www.nice.org.uk/guidance/ng246/chapter/Recommendations">NICE 2025</a>).
 
 Körperfettwaagen, Uhren und Scanner können Trends liefern, sind aber keine exakte Körperfettmessung. Hydration, Salz, Training, Hauttemperatur und Gerätelogik verändern die Anzeige. Wer solche Werte nutzt, bewertet nur den mehrwöchigen Verlauf und nicht die Nachkommastelle.
 
@@ -72,15 +72,15 @@ Formeln sind Arbeitswerte. Sie helfen beim Start, aber der Trend entscheidet.
 
 | Metrik | Formel | Nutzen | Grenze |
 | --- | --- | --- | --- |
-| BMI | `kg / m²` | grobe Gewichtskategorie | trennt Muskel- und Fettmasse nicht |
-| Waist-to-height ratio | `Taillenumfang / Körpergröße` | einfache Risikoeinordnung für zentrale Fettverteilung | Messpunkt und Körperbau beeinflussen den Wert |
-| 7-Tage-Gewichtsschnitt | `Summe der letzten 7 Morgengewichte / 7` | glättet Wasser- und Verdauungsschwankungen | braucht regelmäßige Messung |
-| Gewichtsänderung pro Woche | `(Trend Woche 2 - Trend Woche 1) / Körpergewicht x 100` | Diät- oder Massephase steuern | bei kurzen Zeiträumen zu laut |
-| Mifflin-St.-Jeor Männer | `10 x kg + 6,25 x cm - 5 x Alter + 5` | Startwert für Ruheenergieverbrauch | Aktivitätsfaktor und Anpassung bleiben nötig (<a href="https://pubmed.ncbi.nlm.nih.gov/2305711/">Mifflin et al. 1990</a>) |
-| Mifflin-St.-Jeor Frauen | `10 x kg + 6,25 x cm - 5 x Alter - 161` | Startwert für Ruheenergieverbrauch | individueller Verbrauch kann abweichen |
-| Erhaltung aus Trend | `Durchschnittskalorien - (Gewichtsänderung kg/Woche x 7.700 / 7)` | persönliche Erhaltung grob rückrechnen | Wasser, Salz, Zyklus, Krankheit und Trackingfehler verzerren |
-| Defizit oder Überschuss | `Zielkalorien - Erhaltungskalorien` | Energieziel planen | kleine Unterschiede gehen im Alltagsrauschen unter |
-| e1RM nach Epley | `Gewicht x (1 + Wiederholungen / 30)` | Krafttrend grob schätzen | nur bei ähnlicher Technik und moderaten Wiederholungen brauchbar |
+| BMI | $\text{kg} / \text{m}^2$ | grobe Gewichtskategorie | trennt Muskel- und Fettmasse nicht |
+| Waist-to-height ratio | $\text{Taillenumfang} / \text{Körpergröße}$ | einfache Risikoeinordnung für zentrale Fettverteilung | Messpunkt und Körperbau beeinflussen den Wert |
+| 7-Tage-Gewichtsschnitt | $\frac{\text{Summe der letzten 7 Morgengewichte}}{7}$ | glättet Wasser- und Verdauungsschwankungen | braucht regelmäßige Messung |
+| Gewichtsänderung pro Woche | $\frac{\text{Trend Woche 2} - \text{Trend Woche 1}}{\text{Körpergewicht}} \times 100$ | Diät- oder Massephase steuern | bei kurzen Zeiträumen zu laut |
+| Mifflin-St.-Jeor Männer | $10 \times \text{kg} + 6{,}25 \times \text{cm} - 5 \times \text{Alter} + 5$ | Startwert für Ruheenergieverbrauch | Aktivitätsfaktor und Anpassung bleiben nötig (<a href="https://pubmed.ncbi.nlm.nih.gov/2305711/">Mifflin et al. 1990</a>) |
+| Mifflin-St.-Jeor Frauen | $10 \times \text{kg} + 6{,}25 \times \text{cm} - 5 \times \text{Alter} - 161$ | Startwert für Ruheenergieverbrauch | individueller Verbrauch kann abweichen |
+| Erhaltung aus Trend | $\text{Durchschnittskalorien} - \frac{\text{Gewichtsänderung kg/Woche} \times 7{.}700}{7}$ | persönliche Erhaltung grob rückrechnen | Wasser, Salz, Zyklus, Krankheit und Trackingfehler verzerren |
+| Defizit oder Überschuss | $\text{Zielkalorien} - \text{Erhaltungskalorien}$ | Energieziel planen | kleine Unterschiede gehen im Alltagsrauschen unter |
+| e1RM nach Epley | $\text{Gewicht} \times (1 + \frac{\text{Wiederholungen}}{30})$ | Krafttrend grob schätzen | nur bei ähnlicher Technik und moderaten Wiederholungen brauchbar |
 
 1 kg Körperfett entspricht grob 7.700 kcal. Das ist ein Rechenanker, kein Versprechen der Waage. Dynamische Modelle wie der NIDDK Body Weight Planner zeigen genauer, dass Körpergewicht, Energieverbrauch und Anpassungen sich gegenseitig beeinflussen (<a href="https://www.niddk.nih.gov/bwp">NIDDK Body Weight Planner</a>; <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3880593/">Hall et al. 2011</a>).
 

@@ -37,7 +37,7 @@ Der Grundsatz ist deshalb: möglichst lange kontrolliert aufbauen, aber nicht so
 
 ## 7.4 Überschuss wählen
 
-Ein sinnvoller Start ist meist `Erhaltung + 100-300 kcal/Tag` oder etwa 5-10 % über Erhaltung. Nach 2-4 Wochen wird anhand des 7-Tage-Gewichtstrends angepasst. Natural-Bodybuilding-Empfehlungen nennen für Anfänger und Fortgeschrittene oft etwa 0,25-0,5 % Körpergewichtszunahme pro Woche; fortgeschrittene Athleten sollten konservativer sein, weil ihr mögliches Muskelwachstum langsamer wird (<a href="https://nutrition-evidence.com/article/325019/nutrition-recommendations-for-bodybuilders-in-the-off-season-a-narrative-review">Iraki et al. 2019</a>).
+Ein sinnvoller Start ist meist $\text{Erhaltung} + 100\text{-}300\,\text{kcal/Tag}$ oder etwa 5-10 % über Erhaltung. Nach 2-4 Wochen wird anhand des 7-Tage-Gewichtstrends angepasst. Natural-Bodybuilding-Empfehlungen nennen für Anfänger und Fortgeschrittene oft etwa 0,25-0,5 % Körpergewichtszunahme pro Woche; fortgeschrittene Athleten sollten konservativer sein, weil ihr mögliches Muskelwachstum langsamer wird (<a href="https://nutrition-evidence.com/article/325019/nutrition-recommendations-for-bodybuilders-in-the-off-season-a-narrative-review">Iraki et al. 2019</a>).
 
 Für 80 kg Körpergewicht wären 0,25 % pro Woche etwa 0,2 kg, 0,5 % etwa 0,4 kg. Wer schon lange trainiert, kann sogar darunter liegen. Wenn der Trend schneller steigt, ist das nicht automatisch besser. Häufig bedeutet es nur, dass der spätere Cut länger wird.
 

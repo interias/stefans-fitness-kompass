@@ -29,4 +29,8 @@ Bei Erkrankungen, Medikamenten, Schmerzen, Essstörungen, starkem Übergewicht, 
 
 ## Markdown
 
-Kapitel bleiben nummerierte Markdown-Dateien unter `docs/`. Tabellen, Listen und Checklisten nur verwenden, wenn sie Entscheidungen klarer machen. Bildassets brauchen eine passende `.prompt.md`.
+Kapitel bleiben nummerierte Markdown-Dateien unter `docs/`. Tabellen, Listen und Checklisten nur verwenden, wenn sie Entscheidungen klarer machen. Formeln werden als LaTeX-Math mit `$...$` oder `$$...$$` geschrieben, damit die Web-App sie mit KaTeX rendern kann. Bildassets brauchen eine passende `.prompt.md`.
+
+## Web und Design
+
+Für Web-, UI- und Asset-Änderungen gilt zusätzlich `DESIGN.md`. Die Web-App darf Inhalte aus `docs/` rendern, aber `docs/` bleibt die kanonische Quelle der Kapiteltexte.

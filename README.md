@@ -48,6 +48,30 @@ Wenn du nur eine Seite lesen willst, starte mit der [Kurzfassung](docs/01-kurzfa
 - Blutdruck, Taillenumfang und Vorsorge nicht dauerhaft aufschieben.
 - Bei Diät- oder Massephase wenige Kennzahlen tracken, bis die Richtung klar ist.
 
+## Web-App lokal testen
+
+Die Next.js-Webseite liegt unter `client/`, rendert Deutsch direkt aus `docs/` und nutzt fuer Englisch und Chinesisch generierte Markdown-Kopien unter `client/content/`. Optimierte WebP-Ableitungen aus `assets/` werden unter `client/public/assets` erzeugt. Die Originaldateien in `assets/` bleiben erhalten.
+
+```bash
+cd client
+pnpm install
+pnpm dev
+```
+
+Uebersetzungen koennen bei Bedarf neu erzeugt werden:
+
+```bash
+cd client
+pnpm translate:content
+```
+
+Für den statischen Export:
+
+```bash
+cd client
+pnpm build
+```
+
 ## Kapitel
 
 | Kapitel | Inhalt |

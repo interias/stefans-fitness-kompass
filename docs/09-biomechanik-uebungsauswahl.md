@@ -1,5 +1,9 @@
 # 09 Biomechanik und Übungsauswahl
 
+<p align="center">
+  <img src="../assets/visuals/fitness-kompass-biomechanik-uebungsauswahl-banner.png" alt="Fitness-Kompass Biomechanik Uebungsauswahl Banner" width="100%">
+</p>
+
 Biomechanik soll im Fitness-Kompass kein Anatomie-Lexikon ersetzen. Der praktische Nutzen ist einfacher: verstehen, welche Bewegung welchen Muskel belastet, warum eine Übung gut oder schlecht zum Ziel passt und wann eine zusätzliche Isolationsübung wirklich nötig ist.
 
 Der Grundsatz bleibt: erst Bewegungsmuster sauber abdecken, dann Details optimieren. Für die meisten gesunden Erwachsenen reicht eine robuste Übungsauswahl, die Kniebeuge- oder Beinpresse-Muster, Hinge, Drücken, Ziehen, Rumpfstabilität und Griffkraft regelmäßig trainiert. Einzelne Muskeln, Winkel und Übungsreihenfolgen werden erst wichtig, wenn Ziel, Technik und Wiederholbarkeit schon stimmen.
