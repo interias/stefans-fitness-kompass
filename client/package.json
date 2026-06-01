@@ -8,6 +8,7 @@
     "dev": "next dev",
     "prebuild": "node scripts/sync-public-assets.mjs",
     "build": "next build",
+    "deploy": "pnpm build && wrangler deploy",
     "lint": "eslint app components lib scripts next.config.ts postcss.config.mjs eslint.config.mjs",
     "typecheck": "tsc --noEmit",
     "sync:assets": "node scripts/sync-public-assets.mjs",
@@ -43,6 +44,7 @@
     "postcss": "^8.5.15",
     "sharp": "^0.34.5",
     "tailwindcss": "^4.3.0",
-    "typescript": "^6.0.3"
+    "typescript": "^6.0.3",
+    "wrangler": "4.95.0"
   }
 }
