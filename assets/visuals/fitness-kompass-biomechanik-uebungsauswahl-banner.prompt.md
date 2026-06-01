@@ -1,0 +1,15 @@
+# fitness-kompass-biomechanik-uebungsauswahl-banner.png
+
+Target path: `assets/visuals/fitness-kompass-biomechanik-uebungsauswahl-banner.png`
+Markdown file: `docs/09-biomechanik-uebungsauswahl.md`
+Recommended size: 2400x600 px, aspect ratio 4:1
+Generated source size: 1774x887 px
+Final crop: y=160, width=1774, height=444, resized to 2400x600 px
+
+## Prompt
+
+Use case: stylized-concept. Asset type: premium wide chapter banner for a German personal open-source Fitness Compass documentation, aspect ratio 4:1, target 2400x600 px. Primary request: Create a calm, high-quality banner for a chapter named Biomechanik und Uebungsauswahl, communicating practical biomechanics for exercise selection: movement patterns before muscle names, joint angles, lever arms, load paths, stable technique, and choosing exercises that fit the goal. Important visual direction: do NOT include a physical compass dial, watch face, gauge, ruler with numbers, notebook writing, or any object that normally carries text. Use only an abstract compass motif made from unlabeled geometric lines, route dots, and a red direction needle shape. Scene/backdrop: refined warm off-white anatomical atlas and light stone desk/map surface with subtle topographic contours. Include abstract joint-hinge geometry, neutral dumbbell token, subtle cable path arcs, simple squat/hinge/push/pull route lines represented as geometric icons, and small translucent anatomical model fragments such as shoulder, hip, knee, and spine segments with muted muscle-fiber overlays. Keep the anatomy educational and calm, not graphic. Style/medium: high-end editorial illustration mixed with realistic 3D detail, sophisticated calm GitHub documentation banner aesthetic, matching premium health-and-performance visuals. Composition/framing: wide 4:1 banner, anatomical joint-angle system slightly left of center, motion-path arcs and blank exercise-selection tiles moving toward the right, clean negative space on the right for possible title overlay, no central clutter. Lighting/mood: soft natural morning light, crisp but gentle shadows, quiet pragmatic mood. Color palette: deep teal, slate, warm white, muted green, ivory bone tones, muted red and rose muscle fibers, pale gray, small red accent on the direction needle shape only. Materials/textures: paper, fine anatomical plate texture, brushed steel, matte ceramic tokens, subtle topographic map texture. Strict constraints: absolutely no readable text, no letters, no numbers, no compass direction letters, no label marks, no pseudo-text, no logos, no watermarks, no ruler markings, no gauge markings. Tiles must be blank or use simple geometric icons only. No real people or bodybuilder silhouettes, no exposed gore, no blood, no organs, no surgery, no injury scene, no aggressive bodybuilding aesthetics, no supplement tubs, no neon colors, no dark gym cliches, no clutter. Use blank cards, simple icons, unlabeled shapes, fine motion arcs, and clean geometry only.
+
+## Post-processing
+
+The generated image was cropped to the 4:1 chapter-banner format and resized to 2400x600 px with Sharp. No text was added.

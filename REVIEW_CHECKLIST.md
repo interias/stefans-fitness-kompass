@@ -32,3 +32,10 @@ Diese Checkliste dient für größere Änderungen an `docs/`. Sie ist kein starr
 - Gibt es keine unnötige Dopplung zu anderen Kapiteln?
 - Sind neue Assets mit `.prompt.md` dokumentiert?
 - Bleiben temporäre Dateien unter `temp/` und aus Git ausgeschlossen?
+
+## Web und Design
+
+- Wurde bei Web-, UI- oder Asset-Änderungen `DESIGN.md` geprüft?
+- Bleibt die Website ein ruhiges Wissensprodukt statt einer Marketing- oder Programmverkaufsseite?
+- Bleiben Lesbarkeit, Navigation, Fokuszustände und mobile Darstellung stabil?
+- Werden `docs/`-Inhalte nur gerendert oder abgeleitet, ohne die kanonische Quelle zu verschieben?
