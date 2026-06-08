@@ -1,0 +1,9 @@
+# fitness-kompass-warum-gesund-sein.png
+
+Target path: `assets/visuals/fitness-kompass-warum-gesund-sein.png`  
+Markdown file: `docs/00-warum-gesund-sein.md`
+Recommended size: 2400x600 px, aspect ratio 4:1
+
+## Prompt
+
+Create a premium wide banner image for a motivational opening chapter in a personal open-source "Fitness Compass" project, aspect ratio 4:1, 2400x600 px. Scene: a refined symbolic longevity compass resting on a clean map-and-journal surface, blending a compass rose with a long forward-extending route line that gradually widens and brightens toward the right, subtle life-span arc marks, muted calendar-grid geometry, and small abstract health milestone symbols along the route: a heart-rate curve, a step-arc, a sleep crescent, a strength mark, and a nutrition-plate geometry. The route should feel open, long, and purposeful, as if the path ahead is wide and full of good years. Style: high-end editorial illustration mixed with realistic 3D detail, sophisticated and calm, not flashy or celebratory. Clean GitHub documentation banner aesthetic. Soft natural morning light, crisp shadows, refined paper and topographic map texture, aged brass, leather journal edge, and matte linen surface. Precise linework. Composition: compass slightly left of center, the long route and milestone marks extending toward the right with enough clean negative space for a chapter title overlay. Color palette: deep teal, slate, warm white, muted gold, soft sage green, and a small red accent on the compass needle. Avoid neon colors, dark gym clichés, stock-photo look, photorealistic landscapes, nature photography, exaggerated muscles, supplements, scales, before-after imagery, aggressive bodybuilding aesthetics, clutter, UI elements, readable text, letters, numbers, logos, brand names, watermarks, and people posing.

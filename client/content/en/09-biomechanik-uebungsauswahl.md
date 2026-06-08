@@ -1,7 +1,7 @@
 # 09 Biomechanics and Exercise Selection
 
 <p align="center">
-  <img src="../assets/visuals/fitness-kompass-biomechanik-uebungsauswahl-banner.png" alt="Fitness Compass Biomechanics Exercise Selection Banner" width="100%">
+  <img src="../assets/visuals/fitness-kompass-biomechanik-uebungsauswahl-banner.png" alt="Fitness-Kompass Biomechanik Uebungsauswahl Banner" width="100%">
 </p>
 
 Biomechanics is not intended to replace an anatomy lexicon in the fitness compass. The practical benefit is simpler: understanding which movement strains which muscle, why an exercise is a good or bad fit for the goal and when an additional isolation exercise is really necessary.

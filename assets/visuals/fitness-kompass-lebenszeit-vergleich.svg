@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 380">
+  <defs>
+    <style>
+      text { font-family: system-ui, -apple-system, 'Segoe UI', sans-serif; letter-spacing: 0; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="960" height="380" fill="#F9FAFB"/>
+
+  <!-- Title -->
+  <text x="480" y="32" text-anchor="middle" font-size="14" font-weight="600" fill="#111827">Lebenserwartung ab 50 Jahren: 0 vs. 5 gesunde Lebensstilfaktoren</text>
+  <text x="480" y="50" text-anchor="middle" font-size="11" fill="#6B7280">Li et al. 2018 · US-Kohortenstudie · Werte gerundet</text>
+
+  <!-- Legend -->
+  <rect x="170" y="62" width="12" height="10" fill="#D1D5DB" rx="2"/>
+  <text x="186" y="72" font-size="10" fill="#6B7280">0 gesunde Faktoren</text>
+  <rect x="320" y="62" width="12" height="10" fill="#5EEAD4" rx="2"/>
+  <text x="336" y="72" font-size="10" fill="#374151">5 Faktoren – Basis</text>
+  <rect x="455" y="62" width="12" height="10" fill="#0D9488" rx="2"/>
+  <text x="471" y="72" font-size="10" fill="#374151">5 Faktoren – Bonusjahre (Frauen: Teal · Männer: Blau)</text>
+
+  <!-- ═══ FRAUEN ═══ -->
+  <text x="152" y="102" text-anchor="end" font-size="13" font-weight="600" fill="#374151">Frauen</text>
+
+  <!-- 0 Faktoren: 29 Jahre → 29×14.4 = 417.6 px -->
+  <text x="152" y="130" text-anchor="end" font-size="10" fill="#9CA3AF">0 Faktoren</text>
+  <rect x="160" y="116" width="417.6" height="26" fill="#D1D5DB" rx="3"/>
+  <text x="582" y="133" font-size="10" fill="#6B7280">≈ 79 J.</text>
+
+  <!-- 5 Faktoren: Basis 417.6 px + Extra 203 px (14.1 J × 14.4) -->
+  <text x="152" y="170" text-anchor="end" font-size="10" fill="#0D9488">5 Faktoren</text>
+  <rect x="160" y="156" width="417.6" height="26" fill="#5EEAD4" rx="3"/>
+  <rect x="577.6" y="156" width="203" height="26" fill="#0D9488" rx="3"/>
+  <text x="785" y="173" font-size="10" fill="#374151">≈ 93 J.</text>
+
+  <!-- Delta-Klammer Frauen -->
+  <line x1="577.6" y1="148" x2="780.6" y2="148" stroke="#0D9488" stroke-width="1" stroke-dasharray="3,2"/>
+  <line x1="577.6" y1="144" x2="577.6" y2="152" stroke="#0D9488" stroke-width="1.5"/>
+  <line x1="780.6" y1="144" x2="780.6" y2="152" stroke="#0D9488" stroke-width="1.5"/>
+  <text x="679" y="144" text-anchor="middle" font-size="12" font-weight="700" fill="#0D9488">+14 Jahre</text>
+
+  <!-- ═══ MÄNNER ═══ -->
+  <text x="152" y="222" text-anchor="end" font-size="13" font-weight="600" fill="#374151">Männer</text>
+
+  <!-- 0 Faktoren: 25.5 Jahre → 25.5×14.4 = 367.2 px -->
+  <text x="152" y="250" text-anchor="end" font-size="10" fill="#9CA3AF">0 Faktoren</text>
+  <rect x="160" y="236" width="367.2" height="26" fill="#D1D5DB" rx="3"/>
+  <text x="532" y="253" font-size="10" fill="#6B7280">≈ 76 J.</text>
+
+  <!-- 5 Faktoren: Basis 367.2 px + Extra 174.2 px (12.1 J × 14.4) -->
+  <text x="152" y="290" text-anchor="end" font-size="10" fill="#2563EB">5 Faktoren</text>
+  <rect x="160" y="276" width="367.2" height="26" fill="#93C5FD" rx="3"/>
+  <rect x="527.2" y="276" width="174.2" height="26" fill="#2563EB" rx="3"/>
+  <text x="706" y="293" font-size="10" fill="#374151">≈ 88 J.</text>
+
+  <!-- Delta-Klammer Männer -->
+  <line x1="527.2" y1="268" x2="701.4" y2="268" stroke="#2563EB" stroke-width="1" stroke-dasharray="3,2"/>
+  <line x1="527.2" y1="264" x2="527.2" y2="272" stroke="#2563EB" stroke-width="1.5"/>
+  <line x1="701.4" y1="264" x2="701.4" y2="272" stroke="#2563EB" stroke-width="1.5"/>
+  <text x="614" y="264" text-anchor="middle" font-size="12" font-weight="700" fill="#2563EB">+12 Jahre</text>
+
+  <!-- Hinweise -->
+  <text x="480" y="330" text-anchor="middle" font-size="10" fill="#9CA3AF">Zusätzlich: 5 Faktoren = deutlich mehr Jahre frei von Krebs, Herzerkrankungen und Typ-2-Diabetes (Li et al. 2020, BMJ).</text>
+  <text x="480" y="348" text-anchor="middle" font-size="10" fill="#9CA3AF">Faktoren: Nichtrauchen · gesundes Körpergewicht · regelmäßige Bewegung · gute Ernährungsqualität · kein/wenig Alkohol</text>
+  <text x="480" y="366" text-anchor="middle" font-size="10" fill="#C9D1D9">Zahlen beschreiben Bevölkerungsgruppen, keine individuelle Vorhersage.</text>
+</svg>

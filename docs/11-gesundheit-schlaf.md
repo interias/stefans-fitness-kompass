@@ -50,4 +50,16 @@ Stress beeinflusst Schlaf, Hungerregulation, Regeneration und Trainingsqualität
 
 Vorsorge, Zahnstatus, Blutdruck, relevante Blutwerte und Impfstatus sind weniger spektakulär als Supplements, aber wichtiger. Bei Müdigkeit, Leistungsabfall, Schmerzen oder Symptomen nicht nur Training und Ernährung optimieren, sondern medizinische Ursachen prüfen.
 
+## 11.7 Mentale Gesundheit und Bewegung
+
+Bewegung ist ein robuster, gut belegter Faktor für psychische Gesundheit. Eine Netzwerk-Meta-Analyse über mehr als 200 randomisierte Studien zeigt, dass aerobes Training, Gehen, Krafttraining und Yoga Symptome leichter bis mittelschwerer Depressionen mit Effektstärken reduzieren, die mit Psychotherapie oder Antidepressiva vergleichbar sind (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11131084/">Noetel et al. 2024</a>). Die AWMF S3-Leitlinie Unipolare Depression empfiehlt aerobes Training und Krafttraining explizit als ergänzende Behandlungsoption (<a href="https://register.awmf.org/de/leitlinien/detail/nvl-005">AWMF NVL-005</a>). Bei schwerer oder chronischer Depression ist Sport allein nicht ausreichend und ersetzt keine Psychotherapie oder ärztliche Behandlung.
+
+Bewegungsmangel ist dabei nicht nur das Gegenteil von Training, sondern ein eigenständiger Risikofaktor: Langes Sitzen über viele Stunden täglich ist in Dosis-Wirkungs-Analysen mit erhöhtem Depressions- und Angstrisiko verbunden (<a href="https://www.ncbi.nlm.nih.gov/books/NBK566046/">WHO 2020</a>). Das ergänzt, was in [11.4](#114-alltagsbewegung-und-schritte-sammeln) und [10 Ausdauertraining](10-ausdauertraining.md) zu Alltagsbewegung steht: Weniger Sitzen und regelmäßige Bewegung wirken auf psychische Gesundheit auch unterhalb einer Trainingsschwelle.
+
+Für Frauen in der Perimenopause und den Jahren danach ist der Zusammenhang besonders relevant. Der Übergang zur Menopause ist biologisch mit einem erhöhten Risiko für depressive Phasen, Reizbarkeit und Angst verbunden — nicht nur als Reaktion auf Körperveränderungen, sondern weil hormonelle Schwankungen das serotonerge System und die Schlafregulation beeinflussen (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9889489/">Shobeiri et al. 2023</a>). Eine Meta-Analyse über 21 randomisierte Studien zeigt, dass regelmäßige Bewegung Depressions- und Angstsymptome in dieser Lebensphase messbar reduziert; neben aeroben Einheiten zeigen Mind-Body-Ansätze wie Yoga, Tai Chi und Pilates in dieser Gruppe besonders gute Evidenz (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11762881/">Hu et al. 2025</a>).
+
+Übertraining kann das Bild umkehren: Wer die Belastung über Wochen zu hoch hält und zu wenig regeneriert, kann Stimmungstiefs, Reizbarkeit, Schlafstörungen und Antriebsmangel entwickeln, die neurobiologisch mit Erschöpfungszuständen verwandt sind. Wenn Leistung, Schlaf und Stimmung gleichzeitig über mehrere Wochen nachgeben, ist das ein Warnsignal — Trainingsbelastung und Regeneration sollten zuerst geprüft werden, bevor Intensität oder Volumen erhöht wird.
+
+Bei anhaltenden Stimmungstiefs, Erschöpfung, Antriebsverlust oder Angstsymptomen, die über mehr als zwei Wochen bestehen, ist fachliche Abklärung wichtiger als jede Trainingsanpassung. Bewegung kann dann ein sinnvoller Baustein sein, ersetzt aber keine psychiatrische oder psychotherapeutische Einschätzung.
+
 ---

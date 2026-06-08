@@ -1,7 +1,7 @@
 # 09 生物力学与动作选择
 
 <p align="center">
-  <img src="../assets/visuals/fitness-kompass-biomechanik-uebungsauswahl-banner.png" alt="健身指南生物力学动作选择横幅" width="100%">
+  <img src="../assets/visuals/fitness-kompass-biomechanik-uebungsauswahl-banner.png" alt="Fitness-Kompass Biomechanik Uebungsauswahl Banner" width="100%">
 </p>
 
 生物力学并不是要取代健身指南针中的解剖学词典。实际的好处更简单：了解哪种运动会拉伤哪块肌肉，为什么一项运动适合或不适合目标，以及何时确实需要进行额外的孤立运动。

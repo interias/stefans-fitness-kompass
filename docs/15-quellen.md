@@ -107,6 +107,7 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 ## 15.5 Langlebigkeit und Risikofaktoren
 
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6207481/">Li et al. 2018</a> - Lifestyle-Faktoren und geschätzte Lebenserwartung in US-Kohorten.
+- <a href="https://www.jacc.org/doi/10.1016/j.jacc.2014.04.058">Lee et al. 2014</a> - Leisure-Time Running Reduces All-Cause and Cardiovascular Mortality Risk: Grundlage der Faustformel ~7 Stunden Lebenszeit pro Stunde Laufen; Effekt flacht bei hohem Umfang ab.
 - <a href="https://www.bmj.com/content/368/bmj.l6669">Li et al. 2020</a> - gesunder Lebensstil und Jahre ohne Krebs, Herz-Kreislauf-Erkrankungen und Typ-2-Diabetes.
 - <a href="https://www.who.int/news-room/fact-sheets/detail/tobacco">WHO 2025</a> - Tobacco Fact Sheet: globale Belastung durch Tabak.
 - <a href="https://www.nejm.org/doi/full/10.1056/NEJMsa1211128">Jha et al. 2013</a> - 21st-Century Hazards of Smoking and Benefits of Cessation.
@@ -148,6 +149,13 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - Gewichtstrend: <a href="https://play.google.com/store/apps/details?id=net.cachapa.libra">Libra</a>, <a href="https://happyscale.com/">Happy Scale</a>, <a href="https://github.com/oliexdev/openScale">openScale</a>.
 - Ernährung: <a href="https://fddb.info/">FDDB</a>, <a href="https://www.yazio.com/">YAZIO</a>, <a href="https://www.myfitnesspal.com/">MyFitnessPal</a>.
 - Training: <a href="https://www.hevyapp.com/">Hevy</a>, <a href="https://www.strong.app/">Strong</a>, <a href="https://www.fitnotesapp.com/">FitNotes</a>.
+
+## 15.11 Mentale Gesundheit und Bewegung
+
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11131084/">Noetel et al. 2024</a> - Netzwerk-Meta-Analyse (218 RCTs, ~14.200 Teilnehmende): Bewegung reduziert Symptome leichter bis mittelschwerer Depression vergleichbar wirksam wie Psychotherapie oder Antidepressiva; stärkste Effekte für Gehen/Joggen, Krafttraining und Yoga.
+- <a href="https://register.awmf.org/de/leitlinien/detail/nvl-005">AWMF NVL-005</a> - Nationale VersorgungsLeitlinie Unipolare Depression: aerobes Training und Krafttraining als ergänzende Behandlungsoption empfohlen.
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11762881/">Hu et al. 2025</a> - Meta-Analyse (21 RCTs, 2.020 Teilnehmerinnen): Bewegungsinterventionen reduzieren Depressions- und Angstsymptome bei Frauen in der Peri- und Postmenopause; Mind-Body-Ansätze und aerobes Training zeigen vergleichbar gute Evidenz.
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9889489/">Shobeiri et al. 2023</a> - Review zu hormonellen Mechanismen in der Perimenopause: Östrogen-Fluktuationen, serotonerges System und erhöhtes Depressionsrisiko im Übergang zur Menopause.
 
 ## 15.10 Coach- und Kanalquellen
 

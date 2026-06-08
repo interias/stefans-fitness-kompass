@@ -107,6 +107,7 @@
 ## 15.5 寿命和风险因素
 
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6207481/">Li et al. 2018</a> - 美国人群的生活方式因素和估计预期寿命。
+- <a href="https://www.jacc.org/doi/10.1016/j.jacc.2014.04.058">Lee et al. 2014</a> - 休闲时间跑步可降低全因死亡率和心血管死亡率风险：经验法则的基础是每小时跑步大约可延长 7 小时的生命；在高音量下效果会趋于平缓。
 - <a href="https://www.bmj.com/content/368/bmj.l6669">Li et al. 2020</a> - 健康的生活方式和多年没有癌症、心血管疾病和2型糖尿病。
 - <a href="https://www.who.int/news-room/fact-sheets/detail/tobacco">WHO 2025</a> - 烟草情况说明书：全球烟草负担。
 - <a href="https://www.nejm.org/doi/full/10.1056/NEJMsa1211128">Jha et al. 2013</a> - 21 世纪吸烟的危害和戒烟的好处。
@@ -148,6 +149,13 @@
 - 体重趋势：<a href="https://play.google.com/store/apps/details?id=net.cachapa.libra">Libra</a>、<a href="https://happyscale.com/">Happy Scale</a>、<a href="https://github.com/oliexdev/openScale">openScale</a>。
 - 营养：<a href="https://fddb.info/">FDDB</a>、<a href="https://www.yazio.com/">YAZIO</a>、<a href="https://www.myfitnesspal.com/">MyFitnessPal</a>。
 - 培训：<a href="https://www.hevyapp.com/">Hevy</a>、<a href="https://www.strong.app/">Strong</a>、<a href="https://www.fitnotesapp.com/">FitNotes</a>。
+
+## 15.11 心理健康和锻炼
+
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11131084/">Noetel et al. 2024</a> - 网络荟萃分析（218 个随机对照试验，约 14,200 名参与者）：运动可以像心理治疗或抗抑郁药一样有效地减轻轻度至中度抑郁症的症状；对步行/慢跑、力量训练和瑜伽效果最强。
+- <a href="https://register.awmf.org/de/leitlinien/detail/nvl-005">AWMF NVL-005</a> - 国家护理指南单相抑郁症：建议将有氧运动和力量训练作为额外的治疗选择。
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11762881/">Hu et al. 2025</a> - 荟萃分析（21 个随机对照试验，2,020 名参与者）：运动干预可减少围绝经期和绝经后妇女的抑郁和焦虑症状；身心方法和有氧训练也显示出相当好的证据。
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9889489/">Shobeiri et al. 2023</a> - 围绝经期荷尔蒙机制回顾：雌激素波动、血清素系统和绝经期过渡期间抑郁症风险增加。
 
 ## 15.10 教练和渠道来源
 

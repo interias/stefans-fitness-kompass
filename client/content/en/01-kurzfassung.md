@@ -20,9 +20,9 @@ This compass is not a plan for perfect weeks, but a decision-making framework fo
 
 6. **Training must be hard enough, but controllable.** Progression, clean technique, reps in reserve, sensible set breaks and a training log are more important than maximum exhaustion every time. Drop sets, EMOMs and super sets can work, but they are tools and not mandatory.
 
-7. **Health and regeneration are part of the plan.** Sleep, endurance, everyday exercise, stress management, pain signals and basic medical checks are not secondary topics. Targeted cardio improves cardiorespiratory fitness; VO2max is a useful but not the only decisive marker (<a href="https://www.ncbi.nlm.nih.gov/books/NBK566046/">WHO 2020</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/27881567/">Ross et al. 2016</a>; <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4434546/">AASM/SRS 2015</a>).
+7. **Health and regeneration are part of the plan.** Sleep, endurance, everyday exercise, stress management, mental health, pain signals and basic medical checks are not secondary topics. Targeted cardio improves cardiorespiratory fitness; VO2max is a useful but not the only decisive marker (<a href="https://www.ncbi.nlm.nih.gov/books/NBK566046/">WHO 2020</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/27881567/">Ross et al. 2016</a>; <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4434546/">AASM/SRS 2015</a>).
 
-8. **Longevity is the sum of major avoidable risks.** Smoking, high blood pressure, visceral fat, alcohol, lack of exercise, poor sleep and missed preventive care are bigger levers than most small tweaks. Cohorts and official health sources show: several good lifestyle factors together are associated with significantly longer lifespan and healthy lifespan (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6207481/">Li et al. 2018</a>; <a href="https://www.bmj.com/content/368/bmj.l6669">Li et al. 2020</a>).
+8. **Longevity is the sum of major avoidable risks.** Smoking, high blood pressure, visceral fat, alcohol, lack of exercise, poor sleep and missed preventive care are bigger levers than most small tweaks. Cohorts and official health sources show: several good lifestyle factors together are associated with significantly longer lifespan and healthy lifespan (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6207481/">Li et al. 2018</a>; <a href="https://www.bmj.com/content/368/bmj.l6669">Li et al. 2020</a>; → [00 Why Be Healthy?](00-warum-gesund-sein.md)).
 
 9. **Tracking helps, but is not a must.** Weight trends, nutrition and training can become more visible with apps or a simple logbook. The data is work value, not identity; [04 Tracking and Measurement](04-tracking.md) bundles measurement methods, formulas and limits.
 
@@ -37,7 +37,7 @@ This compass is not a plan for perfect weeks, but a decision-making framework fo
 - Make fruit, vegetables, whole grains, legumes or potatoes your daily base.
 - Evaluate the 7-day weight trend instead of individual weighing days.
 - Integrate endurance and everyday exercise regularly: mostly relaxed, optionally targeted intervals if the base is stable.
-- Treat sleep and stress like real training factors.
+- Treat sleep, stress and mood like real training factors.
 - Don't put off blood pressure, waist circumference, preventive care and vaccination status forever.
 - When dieting or gaining weight, track a few metrics until the direction is clear.
 

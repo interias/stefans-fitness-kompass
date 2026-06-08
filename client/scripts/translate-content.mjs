@@ -14,6 +14,7 @@ const targets = {
     googleLocale: "en",
     disclaimerTitle: "Disclaimer",
     titles: {
+      "00-warum-gesund-sein.md": "00 Why Be Healthy?",
       "01-kurzfassung.md": "01 Summary",
       "02-quellenbewertung.md": "02 Source Evaluation",
       "03-gewohnheiten-alltag.md": "03 Habits, Daily Life, and Weekly Check",
@@ -36,6 +37,7 @@ const targets = {
     googleLocale: "zh-CN",
     disclaimerTitle: "免责声明",
     titles: {
+      "00-warum-gesund-sein.md": "00 为什么要健康？",
       "01-kurzfassung.md": "01 摘要",
       "02-quellenbewertung.md": "02 来源评估",
       "03-gewohnheiten-alltag.md": "03 习惯、日常生活和每周检查",
