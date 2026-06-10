@@ -35,7 +35,7 @@ Praktisch heißt das: pro Hauptmahlzeit eine klare Proteinquelle einbauen, zum B
 
 ## 5.3 Pflanzenbetont essen
 
-Die DGE empfiehlt eine Ernährung, die überwiegend aus pflanzlichen Lebensmitteln besteht. Dazu gehören Obst, Gemüse, Vollkorn, Hülsenfrüchte, Nüsse, Samen und pflanzliche Öle (<a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a>; <a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-ernaehrungskreis/">DGE 2024b</a>).
+Die DGE empfiehlt eine Ernährung, die überwiegend aus pflanzlichen Lebensmitteln besteht. Dazu gehören Obst, Gemüse, Vollkorn, Hülsenfrüchte, Nüsse, Samen und pflanzliche Öle (<a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a>; <a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-ernaehrungskreis/">DGE 2024b</a>; <a href="https://www.dge.de/presse/meldungen/2024/gut-essen-und-trinken-dge-stellt-neue-lebensmittelbezogene-ernaehrungsempfehlungen-fuer-deutschland-vor/">DGE 2024d</a>).
 
 Für den Alltag reicht ein einfaches Raster: Jede Hauptmahlzeit besteht aus Proteinquelle, Gemüse oder Obst, sättigenden Kohlenhydraten und einer sinnvollen Fettquelle.
 

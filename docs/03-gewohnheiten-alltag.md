@@ -8,7 +8,7 @@ Die meisten Pläne scheitern nicht an fehlendem Wissen, sondern an Reibung im Al
 
 ## 3.1 Gewohnheiten und 1%-Methode
 
-Die 1%-Methode nach James Clear ist eine Denkregel: Kleine, wiederholte Verbesserungen wirken langfristig stärker als seltene radikale Neustarts. Sie ist keine exakte mathematische Gesundheitsformel, sondern ein praktisches Modell für Konsistenz (<a href="https://www.penguinrandomhouse.com/books/543993/atomic-habits-by-james-clear/9780735211292/">Clear 2018</a>).
+Die 1%-Methode nach James Clear ist eine Denkregel: Kleine, wiederholte Verbesserungen wirken langfristig stärker als seltene radikale Neustarts. Sie ist keine exakte mathematische Gesundheitsformel, sondern ein praktisches Modell für Konsistenz (<a href="https://www.penguinrandomhouse.com/books/543993/atomic-habits-by-james-clear/9780735211292/">Clear 2018</a>; deutsche Ausgabe: <a href="https://www.penguin.de/buecher/james-clear-die-1-methode-minimale-veraenderung-maximale-wirkung/paperback/9783442178582">Clear dt.</a>).
 
 Gewohnheiten entstehen durch Wiederholung in einem stabilen Kontext. Entscheidend ist nicht eine magische Tageszahl, sondern dass ein Verhalten regelmäßig an einen klaren Auslöser gekoppelt wird (<a href="https://doi.org/10.1002/ejsp.674">Lally et al. 2010</a>; <a href="https://doi.org/10.1016/S0065-2601(06)38002-1">Gollwitzer &amp; Sheeran 2006</a>).
 

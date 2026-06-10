@@ -1,9 +1,0 @@
-# fitness-kompass-ernaehrung-energiebilanz-trend.png
-
-Target path: `assets/visuals/fitness-kompass-ernaehrung-energiebilanz-trend.png`
-Markdown file: `docs/06-diaetphase.md`
-Recommended size: 1600x900 px, aspect ratio 16:9
-
-## Prompt
-
-Create a premium inline analytical visual for a nutrition chapter in a personal open-source "Fitness Compass" project, aspect ratio 16:9, 1600x900 px. Scene: a calm energy-balance workbench with a symbolic plate, daily intake blocks, movement-energy markers, and a smooth weight-trend line crossing a blank logbook grid. Show repeated days as small abstract tiles rather than a single dramatic scale reading. The image should communicate that energy balance acts through repeated habits and the trend over weeks. Style: high-end editorial illustration mixed with realistic 3D detail, sophisticated and calm, practical nutrition analysis, not diet-culture. Soft natural morning light, crisp shadows, refined ceramic, paper, wood, matte metal, and subtle map contours. Composition: balanced plate and compass on the left, repeated day tiles across the center, smooth trend line on the right. Color palette: deep teal, slate, warm white, muted green, natural food colors, pale gray, and a small red accent on one compass needle or trend dot. Critical no-text constraint: the final image must contain zero written words, letterforms, numbers, labels, captions, pseudo-text, or readable marks; use simple icons, blank cards, blank grids, unlabeled shapes, and clean geometry only. Avoid neon colors, dark gym cliches, stock-photo food styling, exaggerated muscles, supplement tubs, scales as the main subject, before-after imagery, aggressive bodybuilding aesthetics, clutter, UI elements, readable text, letters, numbers, logos, brand names, watermarks, and people posing.

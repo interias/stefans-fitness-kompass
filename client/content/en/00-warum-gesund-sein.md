@@ -6,7 +6,7 @@
 
 When you start taking diet, training and sleep seriously, you usually have a short-term goal in mind: lose weight, get fitter, build muscle, sleep better. All of these goals are real and worthwhile. But the full picture is bigger.
 
-In one of the largest U.S. cohort studies, a set of five lifestyle factors — not smoking, healthy body weight, regular exercise, good diet quality, and no or little alcohol — was associated with an average of 14 additional years of life in women and 12 in men, compared to people without these factors (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6207481/">Li et al. 2018</a>). This is not a small fringe phenomenon, but the difference between a life that ends in your early 70s and one that ends in your late 80s.
+In one of the largest U.S. cohort studies, a set of five lifestyle factors — not smoking, healthy body weight, regular exercise, good diet quality, and no or little alcohol — was associated with an average of 14 additional years of life in women and 12 in men, compared to people without these factors (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6207481/">Li et al. 2018</a>). This is not a small fringe phenomenon, but the difference between a life that ends in your mid-to-late 70s and one that lasts into your late 80s or early 90s.
 
 <p align="center">
   <img src="../assets/visuals/fitness-kompass-lebenszeit-vergleich.svg" alt="Lebenserwartung ab 50 Jahren: 0 vs. 5 gesunde Lebensstilfaktoren" width="100%">
@@ -14,9 +14,7 @@ In one of the largest U.S. cohort studies, a set of five lifestyle factors — n
 
 *Figure: Life expectancy from 50 years with 0 vs. 5 healthy lifestyle factors (Li et al. 2018). Numbers describe population groups, not individual predictions.*
 
-The magnitude can be defined even more specifically. The most robust estimate is for running: in large cohort studies, regular running is associated with around three additional years of life; Based on typical training times, this results in a rough rule of thumb (<a href="https://www.jacc.org/doi/10.1016/j.jacc.2014.04.058">Lee et al. 2014</a>):
-
-> “On average, you regain around seven hours of life for every hour of running.”
+The magnitude can be defined even more specifically. The most robust estimate is available for running: regular running is associated with around three additional years of life in large cohort studies (<a href="https://www.jacc.org/doi/10.1016/j.jacc.2014.04.058">Lee et al. 2014</a>). Based on typical training times, this results in a rough rule of thumb: One hour of running gains on average around seven hours of life back (<a href="https://pubmed.ncbi.nlm.nih.gov/28365296/">Lee et al. 2017</a>).
 
 This is not a formula that can be increased indefinitely - at very high levels of training the effect levels off and other activities such as cycling, swimming or strength training follow their own curve. But the scale is right: the time investment is worth it even if you look at it purely mathematically.
 

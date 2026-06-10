@@ -34,3 +34,7 @@ Kapitel bleiben nummerierte Markdown-Dateien unter `docs/`. Tabellen, Listen und
 ## Web und Design
 
 Für Web-, UI- und Asset-Änderungen gilt zusätzlich `DESIGN.md`. Die Web-App darf Inhalte aus `docs/` rendern, aber `docs/` bleibt die kanonische Quelle der Kapiteltexte.
+
+## Übersetzungen
+
+Englisch (`client/content/en`) wird maschinell mit `pnpm translate:content` aus `docs/` erzeugt. Chinesisch (`client/content/zh`) wird von Hand gepflegt: nüchtern, sachlich korrekt und gut lesbar, im selben Stil wie das deutsche Original. Der Übersetzungs-Script überspringt `zh` bewusst, damit handgetunte Formulierungen nicht überschrieben werden. Wer `docs/` inhaltlich ändert, zieht die Änderung anschließend manuell in `client/content/zh` nach. Bevorzugte Begriffsentsprechungen: `häufig sinnvoll` → 通常合理, `Warnsignal` → 警示信号, `prüfen` → 检查, `Trend` → 趋势, `Wiederholbarkeit` → 可重复性; RIR/RPE/VO2max/mTORC1/EMOM bleiben als Fachkürzel stehen.
