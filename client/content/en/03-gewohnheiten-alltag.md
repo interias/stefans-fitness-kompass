@@ -8,7 +8,7 @@ Most plans fail not because of a lack of knowledge, but because of friction in e
 
 ## 3.1 Habits and 1% method
 
-The 1% method according to James Clear is a rule of thought: small, repeated improvements have a greater long-term effect than rare, radical restarts. It is not an exact mathematical health formula, but a practical model for consistency (<a href="https://www.penguinrandomhouse.com/books/543993/atomic-habits-by-james-clear/9780735211292/">Clear 2018</a>).
+The 1% method according to James Clear is a rule of thought: small, repeated improvements have a greater long-term effect than rare, radical restarts. It is not an exact mathematical health formula, but a practical model for consistency (<a href="https://www.penguinrandomhouse.com/books/543993/atomic-habits-by-james-clear/9780735211292/">Clear 2018</a>; German edition: <a href="https://www.penguin.de/buecher/james-clear-die-1-methode-minimale-veraenderung-maximale-wirkung/paperback/9783442178582">Clear dt.</a>).
 
 Habits are formed through repetition in a stable context. What is important is not a magical daily number, but rather that a behavior is regularly linked to a clear trigger (<a href="https://doi.org/10.1002/ejsp.674">Lally et al. 2010</a>; <a href="https://doi.org/10.1016/S0065-2601(06)38002-1">Gollwitzer &amp; Sheeran 2006</a>).
 

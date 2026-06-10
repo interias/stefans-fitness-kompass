@@ -107,7 +107,8 @@ Short references in the text are directly linked; This list organizes them thema
 ## 15.5 Longevity and Risk Factors
 
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6207481/">Li et al. 2018</a> - Lifestyle factors and estimated life expectancy in US cohorts.
-- <a href="https://www.jacc.org/doi/10.1016/j.jacc.2014.04.058">Lee et al. 2014</a> - Leisure-Time Running Reduces All-Cause and Cardiovascular Mortality Risk: Basis of the rule of thumb ~7 hours of life per hour of running; The effect flattens out at high volumes.
+- <a href="https://www.jacc.org/doi/10.1016/j.jacc.2014.04.058">Lee et al. 2014</a> - Leisure-Time Running Reduces All-Cause and Cardiovascular Mortality Risk: around three additional years of life with regular running; The effect flattens out at high volumes.
+- <a href="https://pubmed.ncbi.nlm.nih.gov/28365296/">Lee et al. 2017</a> - Running as a Key Lifestyle Medicine for Longevity: Basis of the rule of thumb ~7 hours of life per hour of running.
 - <a href="https://www.bmj.com/content/368/bmj.l6669">Li et al. 2020</a> - healthy lifestyle and years without cancer, cardiovascular disease and type 2 diabetes.
 - <a href="https://www.who.int/news-room/fact-sheets/detail/tobacco">WHO 2025</a> - Tobacco Fact Sheet: global tobacco burden.
 - <a href="https://www.nejm.org/doi/full/10.1056/NEJMsa1211128">Jha et al. 2013</a> - 21st-Century Hazards of Smoking and Benefits of Cessation.
@@ -150,14 +151,14 @@ Short references in the text are directly linked; This list organizes them thema
 - Nutrition: <a href="https://fddb.info/">FDDB</a>, <a href="https://www.yazio.com/">YAZIO</a>, <a href="https://www.myfitnesspal.com/">MyFitnessPal</a>.
 - Training: <a href="https://www.hevyapp.com/">Hevy</a>, <a href="https://www.strong.app/">Strong</a>, <a href="https://www.fitnotesapp.com/">FitNotes</a>.
 
-## 15.11 Mental health and exercise
+## 15.10 Mental health and exercise
 
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11131084/">Noetel et al. 2024</a> - Network meta-analysis (218 RCTs, ~14,200 participants): Exercise reduces symptoms of mild to moderate depression as effectively as psychotherapy or antidepressants; strongest effects for walking/jogging, strength training and yoga.
 - <a href="https://register.awmf.org/de/leitlinien/detail/nvl-005">AWMF NVL-005</a> - National Care Guideline Unipolar Depression: aerobic exercise and strength training recommended as an additional treatment option.
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11762881/">Hu et al. 2025</a> - Meta-analysis (21 RCTs, 2,020 participants): Exercise interventions reduce depression and anxiety symptoms in peri- and postmenopausal women; Mind-body approaches and aerobic training show comparably good evidence.
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9889489/">Shobeiri et al. 2023</a> - Review of hormonal mechanisms in perimenopause: estrogen fluctuations, serotonergic system and increased risk of depression in the transition to menopause.
 
-## 15.10 Coach and Channel Sources
+## 15.11 Coach and Channel Sources
 
 - <a href="https://rpstrength.com/pages/team/michael-israetel">RP / Israetel</a>
 - <a href="https://www.youtube.com/@RenaissancePeriodization">RP YouTube</a>
@@ -165,6 +166,7 @@ Short references in the text are directly linked; This list organizes them thema
 - <a href="https://www.youtube.com/@HouseofHypertrophy">House of Hypertrophy</a>
 - <a href="https://www.youtube.com/@Sean_Nalewanyj">Sean Nalewanyj</a>
 - <a href="https://www.youtube.com/@doc_golo">Dr. Golo Röhrken</a>
+- <a href="https://www.youtube.com/channel/UCoRbGjP4nFQTu1hqA7GytwA">Sjard Roscher</a>
 - <a href="https://www.youtube.com/@schmaleschulter">Schmale Schulter</a>
 - <a href="https://yellowdude.co/">Yellow Dude</a>
 - <a href="https://linktr.ee/tobi_aesthetics">Tobi Aesthetics aka Mr. LAT</a>

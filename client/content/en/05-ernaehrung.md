@@ -35,7 +35,7 @@ In practice, this means: include a clear source of protein per main meal, for ex
 
 ## 5.3 Eat plant-based
 
-The DGE recommends a diet that consists predominantly of plant-based foods. These include fruits, vegetables, whole grains, legumes, nuts, seeds and vegetable oils (<a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a>; <a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-ernaehrungskreis/">DGE 2024b</a>).
+The DGE recommends a diet that consists predominantly of plant-based foods. These include fruits, vegetables, whole grains, legumes, nuts, seeds and vegetable oils (<a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/">DGE 2024a</a>; <a href="https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-ernaehrungskreis/">DGE 2024b</a>; <a href="https://www.dge.de/presse/meldungen/2024/gut-essen-und-trinken-dge-stellt-neue-lebensmittelbezogene-ernaehrungsempfehlungen-fuer-deutschland-vor/">DGE 2024d</a>).
 
 A simple grid is sufficient for everyday life: Every main meal consists of a protein source, vegetables or fruit, satiating carbohydrates and a useful source of fat.
 

@@ -1,6 +1,6 @@
 # 16 About This Document
 
-- **As of:** 2026-05-30
+- **As of:** 2026-06-10
 - **Author:** Stefan Börzel, stefanboerzel@googlemail.com
 - **Scope:** healthy adults, primarily 18 to 65 years old; In the case of advanced age, illnesses, medications, pain, eating disorders, excessive weight, pregnancy, sleep disorders or extreme diets, seek professional advice.
 - **Goal:** a personal, practical fitness compass on nutrition, training, health, everyday life and source evaluation.

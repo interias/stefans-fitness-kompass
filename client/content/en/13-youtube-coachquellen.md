@@ -20,7 +20,7 @@ YouTube is intended here as a practical and classification source, not as a prim
 | source | role | Often useful for | Border |
 | --- | --- | --- | --- |
 | <a href="https://www.youtube.com/@doc_golo">Dr. Golo Röhrken | Health & Performance</a> | health and performance-oriented classification | Endurance, overload, sustainable performance, differentiation from pure bodybuilding | no individual diagnosis; Further check medical statements against guidelines and medical assessment |
-| Sjard Roscher | German-language source of practice and myths | Fat loss, muscle building, everyday life | Check the sources for each video; Think about the product, coaching and marketing context |
+| <a href="https://www.youtube.com/channel/UCoRbGjP4nFQTu1hqA7GytwA">Sjard Roscher</a> | German-language source of practice and myths | Fat loss, muscle building, everyday life | Check the sources for each video; Think about the product, coaching and marketing context |
 | <a href="https://www.youtube.com/@schmaleschulter">Schmale Schulter</a> | convenient diet and meal prep resource | easy meals, recipes, diet compliance | Recipes and routines are practical input, not an evidence base; Check sponsorships and product proximity |
 | <a href="https://yellowdude.co/">Yellow Dude</a> | Calisthenics and bodyweight practice | Progressions, movement control, training without a classic gym | Website and channel are product related; Adapt training progressions to joints, technique and regeneration |
 | <a href="https://linktr.ee/tobi_aesthetics">Tobi Aesthetics aka Mr. LAT</a> | Natural bodybuilding practice | Exercise ideas, muscle building, practical execution tips | Think clearly about the influencer and sponsorship context; do not use it as the main document |
