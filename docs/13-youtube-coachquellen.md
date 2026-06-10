@@ -20,7 +20,7 @@ YouTube ist hier als Praxis- und Einordnungsquelle gedacht, nicht als Primärque
 | Quelle | Rolle | Häufig nützlich für | Grenze |
 | --- | --- | --- | --- |
 | <a href="https://www.youtube.com/@doc_golo">Dr. Golo Röhrken | Health & Performance</a> | gesundheits- und performanceorientierte Einordnung | Ausdauer, Überlastung, nachhaltige Leistungsfähigkeit, Abgrenzung zu reinem Bodybuilding | keine individuelle Diagnostik; medizinische Aussagen weiter gegen Leitlinien und ärztliche Einschätzung prüfen |
-| Sjard Roscher | deutschsprachige Praxis- und Mythenquelle | Fettverlust, Muskelaufbau, Alltagseinordnung | Quellenlage je Video prüfen; Produkt-, Coaching- und Marketingkontext mitdenken |
+| <a href="https://www.youtube.com/channel/UCoRbGjP4nFQTu1hqA7GytwA">Sjard Roscher</a> | deutschsprachige Praxis- und Mythenquelle | Fettverlust, Muskelaufbau, Alltagseinordnung | Quellenlage je Video prüfen; Produkt-, Coaching- und Marketingkontext mitdenken |
 | <a href="https://www.youtube.com/@schmaleschulter">Schmale Schulter</a> | praktische Diät- und Meal-Prep-Quelle | einfache Mahlzeiten, Rezepte, Diät-Compliance | Rezepte und Routinen sind Praxisinput, keine Evidenzbasis; Sponsorings und Produktnähe prüfen |
 | <a href="https://yellowdude.co/">Yellow Dude</a> | Calisthenics- und Körpergewichtspraxis | Progressionen, Bewegungskontrolle, Training ohne klassisches Gym | Website und Kanal haben Produktbezug; Trainingsprogressionen an Gelenke, Technik und Regeneration anpassen |
 | <a href="https://linktr.ee/tobi_aesthetics">Tobi Aesthetics aka Mr. LAT</a> | Natural-Bodybuilding-Praxis | Übungsideen, Muskelaufbau, praktische Ausführungstipps | Influencer- und Sponsoring-Kontext deutlich mitdenken; nicht als Hauptbeleg nutzen |

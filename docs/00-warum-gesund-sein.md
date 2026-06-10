@@ -6,7 +6,7 @@
 
 Wer anfängt, Ernährung, Training und Schlaf ernstzunehmen, hat meistens ein kurzfristiges Ziel vor Augen: abnehmen, fitter werden, Muskeln aufbauen, besser schlafen. Alle diese Ziele sind real und lohnen sich. Aber das vollständige Bild ist größer.
 
-In einer der größten US-Kohortenstudien war ein Bündel aus fünf Lebensstilfaktoren — Nichtrauchen, gesundes Körpergewicht, regelmäßige Bewegung, gute Ernährungsqualität und kein beziehungsweise wenig Alkohol — mit durchschnittlich 14 zusätzlichen Lebensjahren bei Frauen und 12 bei Männern verbunden, verglichen mit Personen ohne diese Faktoren (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6207481/">Li et al. 2018</a>). Das ist kein kleines Randphänomen, sondern der Unterschied zwischen einem Leben, das Anfang 70 endet, und einem, das Ende 80 endet.
+In einer der größten US-Kohortenstudien war ein Bündel aus fünf Lebensstilfaktoren — Nichtrauchen, gesundes Körpergewicht, regelmäßige Bewegung, gute Ernährungsqualität und kein beziehungsweise wenig Alkohol — mit durchschnittlich 14 zusätzlichen Lebensjahren bei Frauen und 12 bei Männern verbunden, verglichen mit Personen ohne diese Faktoren (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6207481/">Li et al. 2018</a>). Das ist kein kleines Randphänomen, sondern der Unterschied zwischen einem Leben, das Mitte bis Ende 70 endet, und einem, das bis Ende 80 oder Anfang 90 reicht.
 
 <p align="center">
   <img src="../assets/visuals/fitness-kompass-lebenszeit-vergleich.svg" alt="Lebenserwartung ab 50 Jahren: 0 vs. 5 gesunde Lebensstilfaktoren" width="100%">
@@ -14,9 +14,7 @@ In einer der größten US-Kohortenstudien war ein Bündel aus fünf Lebensstilfa
 
 *Abbildung: Lebenserwartung ab 50 Jahren bei 0 vs. 5 gesunden Lebensstilfaktoren (Li et al. 2018). Zahlen beschreiben Bevölkerungsgruppen, keine individuelle Vorhersage.*
 
-Die Größenordnung lässt sich noch konkreter fassen. Für das Laufen gibt es dazu die robusteste Schätzung: Regelmäßiges Laufen ist in großen Kohortenstudien mit rund drei zusätzlichen Lebensjahren verbunden; bezogen auf typische Trainingszeiten ergibt sich daraus eine grobe Faustformel (<a href="https://www.jacc.org/doi/10.1016/j.jacc.2014.04.058">Lee et al. 2014</a>):
-
-> „Pro Stunde Laufen gewinnt man im Schnitt rund sieben Stunden Lebenszeit zurück."
+Die Größenordnung lässt sich noch konkreter fassen. Für das Laufen gibt es dazu die robusteste Schätzung: Regelmäßiges Laufen ist in großen Kohortenstudien mit rund drei zusätzlichen Lebensjahren verbunden (<a href="https://www.jacc.org/doi/10.1016/j.jacc.2014.04.058">Lee et al. 2014</a>). Bezogen auf typische Trainingszeiten ergibt sich daraus eine grobe Faustformel: Eine Stunde Laufen gewinnt im Schnitt rund sieben Stunden Lebenszeit zurück (<a href="https://pubmed.ncbi.nlm.nih.gov/28365296/">Lee et al. 2017</a>).
 
 Das ist keine Formel, die sich unbegrenzt aufstocken lässt — bei sehr hohem Trainingsumfang flacht der Effekt ab, und andere Aktivitäten wie Radfahren, Schwimmen oder Krafttraining folgen ihrer eigenen Kurve. Aber die Größenordnung stimmt: Die Zeitinvestition lohnt sich selbst dann, wenn man sie rein rechnerisch betrachtet.
 

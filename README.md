@@ -15,6 +15,7 @@ Ein freier, persönlicher Fitness-Kompass zu Ernährung, Training, Gesundheit, A
 - [Worum es geht](#worum-es-geht)
 - [Geltungsbereich](#geltungsbereich)
 - [Schnellstart](#schnellstart)
+- [Web-App lokal testen](#web-app-lokal-testen)
 - [Kapitel](#kapitel)
 - [Projektregeln](#projektregeln)
 - [Lizenz](#lizenz)
@@ -50,7 +51,7 @@ Wenn du nur eine Seite lesen willst, starte mit der [Kurzfassung](docs/01-kurzfa
 
 ## Web-App lokal testen
 
-Die Next.js-Webseite liegt unter `client/`, rendert Deutsch direkt aus `docs/` und nutzt fuer Englisch und Chinesisch generierte Markdown-Kopien unter `client/content/`. Optimierte WebP-Ableitungen aus `assets/` werden unter `client/public/assets` erzeugt. Die Originaldateien in `assets/` bleiben erhalten.
+Die Next.js-Webseite liegt unter `client/`, rendert Deutsch direkt aus `docs/` und nutzt für Englisch und Chinesisch generierte Markdown-Kopien unter `client/content/`. Optimierte WebP-Ableitungen aus `assets/` werden unter `client/public/assets` erzeugt. Die Originaldateien in `assets/` bleiben erhalten.
 
 ```bash
 cd client
@@ -58,7 +59,7 @@ pnpm install
 pnpm dev
 ```
 
-Uebersetzungen koennen bei Bedarf neu erzeugt werden:
+Übersetzungen können bei Bedarf neu erzeugt werden:
 
 ```bash
 cd client
@@ -76,6 +77,7 @@ pnpm build
 
 | Kapitel | Inhalt |
 | --- | --- |
+| [00 Warum gesund sein?](docs/00-warum-gesund-sein.md) | Motivation und Evidenz: mehr Lebensjahre, mehr gesunde Jahre, bessere Psyche. |
 | [01 Kurzfassung](docs/01-kurzfassung.md) | Kernideen, Minimalstart und wichtigste Botschaften. |
 | [02 Quellenbewertung](docs/02-quellenbewertung.md) | Regeln zur Bewertung von Leitlinien, Reviews, Coaches und Influencer-Content. |
 | [03 Gewohnheiten und Alltag](docs/03-gewohnheiten-alltag.md) | 1%-Methode, Systeme, Entscheidungsregeln und Wochen-Checkliste. |
@@ -86,7 +88,7 @@ pnpm build
 | [08 Krafttraining](docs/08-krafttraining.md) | Progression, mTORC1/Hypertrophie, Technik, RIR, Split-Programme und Wochenstruktur. |
 | [09 Biomechanik und Übungsauswahl](docs/09-biomechanik-uebungsauswahl.md) | Bewegungsmuster, Zielmuskeln, Übungsauswahl und Prioritäten. |
 | [10 Ausdauertraining](docs/10-ausdauertraining.md) | Cardio, Mitochondrien, VO2max, Zone 2, HIIT und Intensitätsmix. |
-| [11 Gesundheit und Schlaf](docs/11-gesundheit-schlaf.md) | Schlaf, Alltagsbewegung, Stress, Schmerzsignale und medizinische Basis. |
+| [11 Gesundheit und Schlaf](docs/11-gesundheit-schlaf.md) | Schlaf, Alltagsbewegung, Stress, mentale Gesundheit, Schmerzsignale und medizinische Basis. |
 | [12 Langlebigkeit und Risikofaktoren](docs/12-langlebigkeit-risiken.md) | Große Gesundheitshebel, Risikostatistiken, Krebsrisiken und Prävention. |
 | [13 YouTube- und Coachquellen](docs/13-youtube-coachquellen.md) | Praktische Einordnung von Kanälen und Coaches. |
 | [14 Fazit](docs/14-fazit.md) | Kompakte Zusammenfassung der robusten Strategie. |

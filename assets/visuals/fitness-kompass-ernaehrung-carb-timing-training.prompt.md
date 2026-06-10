@@ -1,9 +1,0 @@
-# fitness-kompass-ernaehrung-carb-timing-training.png
-
-Target path: `assets/visuals/fitness-kompass-ernaehrung-carb-timing-training.png`
-Markdown file: `docs/05-ernaehrung.md`
-Recommended size: 1600x900 px, aspect ratio 16:9
-
-## Prompt
-
-Create a premium inline analytical visual for a sports nutrition chapter in a personal open-source "Fitness Compass" project, aspect ratio 16:9, 1600x900 px. Scene: a clean training-day timeline without text, showing a normal meal block before training, an optional small snack close to training, a central training-effort marker, and a post-training meal with protein plus carbohydrate shapes. Include a second faint layer showing that carb timing matters more when sessions are long, intense, frequent, or endurance-heavy. Use abstract route lines, blank time blocks, a compass, and subtle food geometry. Style: high-end editorial illustration mixed with realistic 3D detail, sophisticated and calm, practical performance nutrition. Soft natural morning light, crisp shadows, refined paper, ceramic, matte metal, and clean topographic route marks. Composition: horizontal timeline across the center, training marker slightly right of center, meal shapes arranged clearly, enough whitespace. Color palette: deep teal, slate, warm white, muted green, natural grain and fruit tones, and a small red accent on the training marker. Critical no-text constraint: the final image must contain zero written words, letterforms, numbers, labels, captions, pseudo-text, or readable marks; use simple icons, blank cards, blank grids, unlabeled shapes, and clean geometry only. Avoid neon colors, dark gym cliches, stock-photo food styling, exaggerated muscles, supplement tubs, before-after imagery, aggressive bodybuilding aesthetics, clutter, UI elements, readable text, letters, numbers, logos, brand names, watermarks, and people posing.

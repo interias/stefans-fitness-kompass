@@ -47,7 +47,7 @@ Die Reihenfolge ist wichtig. Zuerst zählt die Energiezufuhr, wenn das Körperge
 | Metrik | Häufig sinnvoller Zielbereich | Einordnung |
 | --- | ---: | --- |
 | Protein | allgemein mindestens Referenzwert; bei Training häufig 1,4-2,0 g/kg/Tag | DGE nennt für Sport je nach Ziel und Umfang 1,2-2,0 g/kg/Tag; ISSN nennt 1,4-2,0 g/kg/Tag als sinnvollen Bereich (<a href="https://www.dge.de/presse/meldungen/2020/positionspapier-zur-proteinzufuhr-im-sport/">DGE 2020</a>; <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">ISSN 2017a</a>) |
-| Ballaststoffe | mindestens 30 g/Tag als Richtwert | unterstützt Sättigung und Ernährungqualität; DGE nennt 30 g/Tag für Erwachsene (<a href="https://www.dge.de/wissenschaft/faqs/ausgewaehlte-fragen-und-antworten-zu-ballaststoffen/">DGE o. J.</a>) |
+| Ballaststoffe | mindestens 30 g/Tag als Richtwert | unterstützt Sättigung und Ernährungsqualität; DGE nennt 30 g/Tag für Erwachsene (<a href="https://www.dge.de/wissenschaft/faqs/ausgewaehlte-fragen-und-antworten-zu-ballaststoffen/">DGE o. J.</a>) |
 | Kalorien | abhängig von Ziel und Trend | Rechner sind Startwerte; Körpergewichtstrend entscheidet |
 | Fett und Kohlenhydrate | flexibel im Rahmen einer nährstoffreichen Ernährung | nicht isoliert optimieren, bevor Kalorien, Protein, Ballaststoffe und Lebensmittelqualität passen |
 

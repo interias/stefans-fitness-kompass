@@ -1,9 +1,0 @@
-# fitness-kompass-coachquellen-praxisfilter.png
-
-Target path: `assets/visuals/fitness-kompass-coachquellen-praxisfilter.png`
-Markdown file: `docs/13-youtube-coachquellen.md`
-Recommended size: 1600x900 px, aspect ratio 16:9
-
-## Prompt
-
-Create a premium inline analytical visual for a coach and video-source evaluation chapter in a personal open-source "Fitness Compass" project, aspect ratio 16:9, 1600x900 px. Scene: abstract video-card shapes, coaching note cards, and training cues flow through a calm evidence-and-practice filter made of a transparent lens, a compass, and layered research papers. The output side should show a clean training decision card and a small movement-path diagram, with no readable text. The image should communicate that coach content is useful when filtered through fundamentals, evidence quality, context, and transferability. Style: high-end editorial illustration mixed with realistic 3D detail, sophisticated and practical, not influencer-like or flashy. Soft natural morning light, crisp shadows, refined paper, glass, matte metal, subtle topographic texture. Composition: input cards on left, central filter, practical decision output on right, balanced and uncluttered. Color palette: deep teal, slate, warm white, muted green, natural paper tones, and a small red accent on the filter marker. Critical no-text constraint: the final image must contain zero written words, letterforms, numbers, labels, captions, pseudo-text, or readable marks; use simple icons, blank cards, blank grids, unlabeled shapes, and clean geometry only. Avoid real people, faces, channel logos, platform branding, readable titles, neon colors, dark gym cliches, stock-photo look, exaggerated muscles, supplement products, scales, before-after imagery, aggressive bodybuilding aesthetics, clutter, UI elements, readable text, letters, numbers, logos, brand names, and watermarks.
