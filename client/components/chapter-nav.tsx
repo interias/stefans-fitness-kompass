@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { chapterDisplayTitle, groupChapters } from "@/lib/chapter-groups";
 import type { ChapterMeta } from "@/lib/content";
 import { getDictionary, type Locale, localizePath } from "@/lib/i18n";
 import { cn } from "@/lib/utils";
@@ -11,28 +12,42 @@ type ChapterNavProps = {
 
 export function ChapterNav({ activeSlug, chapters, locale }: ChapterNavProps) {
   const dictionary = getDictionary(locale);
+  const groups = groupChapters(chapters);
 
   return (
     <nav aria-label={dictionary.chapterNavLabel}>
-      <div className="mb-3 text-xs font-semibold uppercase text-stone-500">{dictionary.chapterNavLabel}</div>
-      <ol className="space-y-1">
-        {chapters.map((chapter) => (
-          <li key={chapter.slug}>
-            <Link
-              className={cn(
-                "flex gap-3 rounded-md px-3 py-2 text-sm leading-5 transition-colors hover:bg-stone-100",
-                activeSlug === chapter.slug
-                  ? "bg-teal-50 font-semibold text-teal-950"
-                  : "text-stone-700",
-              )}
-              href={localizePath(locale, `/kapitel/${chapter.slug}`)}
-            >
-              <span className="w-6 shrink-0 tabular-nums text-stone-500">{chapter.number}</span>
-              <span>{chapter.title.replace(/^\d+\s*/, "")}</span>
-            </Link>
-          </li>
-        ))}
-      </ol>
+      {groups.map((group) => (
+        <div className="mb-4 last:mb-0" key={group.key}>
+          <div className="mb-1.5 px-2.5 font-fk-mono text-[10.5px] font-medium uppercase tracking-[0.08em] text-fk-ink-faint">
+            {dictionary.groups[group.key]}
+          </div>
+          <ol>
+            {group.chapters.map((chapter) => {
+              const active = activeSlug === chapter.slug;
+
+              return (
+                <li key={chapter.slug}>
+                  <Link
+                    aria-current={active ? "page" : undefined}
+                    className={cn(
+                      "flex gap-2.5 rounded-l-md px-2.5 py-1.5 text-[14px] leading-5 transition-colors duration-150",
+                      active
+                        ? "border-r-2 border-fk-teal bg-fk-muted font-semibold text-fk-teal-dark"
+                        : "text-fk-ink-soft hover:bg-fk-muted hover:text-fk-teal-dark",
+                    )}
+                    href={localizePath(locale, `/kapitel/${chapter.slug}`)}
+                  >
+                    <span className="w-6 shrink-0 font-fk-mono text-[12px] leading-5 text-fk-ink-faint">
+                      {chapter.number}
+                    </span>
+                    <span>{chapterDisplayTitle(chapter)}</span>
+                  </Link>
+                </li>
+              );
+            })}
+          </ol>
+        </div>
+      ))}
     </nav>
   );
 }

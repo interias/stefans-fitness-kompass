@@ -13,9 +13,9 @@ export async function LocalizedDisclaimerPage({ locale }: LocalizedDisclaimerPag
 
   return (
     <AppShell locale={locale}>
-      <main className="bg-stone-50">
-        <article className="mx-auto max-w-3xl px-4 py-10 sm:px-6 lg:px-8">
-          <div className="rounded-lg border border-stone-200 bg-white p-5 shadow-sm sm:p-8">
+      <main>
+        <article className="mx-auto max-w-3xl px-4 py-10 md:px-6">
+          <div className="rounded-xl border border-fk-line bg-white p-5 shadow-[var(--fk-card-shadow)] sm:p-8">
             <div className="prose-kompass" dangerouslySetInnerHTML={{ __html: html }} />
           </div>
         </article>

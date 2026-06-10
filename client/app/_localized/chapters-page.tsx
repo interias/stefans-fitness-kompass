@@ -14,12 +14,16 @@ export function LocalizedChaptersPage({ locale }: ChaptersPageProps) {
 
   return (
     <AppShell locale={locale}>
-      <main className="bg-stone-50">
-        <section className="border-b border-stone-200 bg-white">
-          <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
-            <p className="text-sm font-semibold uppercase text-teal-800">{dictionary.chaptersEyebrow}</p>
-            <h1 className="mt-3 text-3xl font-semibold text-stone-950 md:text-5xl">{dictionary.chaptersTitle}</h1>
-            <p className="mt-5 max-w-3xl text-base leading-8 text-stone-700">{dictionary.chaptersDescription}</p>
+      <main>
+        <section className="fk-topo border-b border-fk-line">
+          <div className="mx-auto max-w-[1280px] px-4 py-12 md:px-10">
+            <p className="fk-kicker">{dictionary.chaptersEyebrow}</p>
+            <h1 className="mt-3 font-fk-serif text-[34px] font-semibold leading-[1.2] text-fk-teal-dark">
+              {dictionary.chaptersTitle}
+            </h1>
+            <p className="mt-4 max-w-3xl text-[16px] leading-[1.65] text-fk-ink-soft">
+              {dictionary.chaptersDescription}
+            </p>
           </div>
         </section>
         <ChapterSearch chapters={chapters} locale={locale} searchEntries={searchEntries} />
