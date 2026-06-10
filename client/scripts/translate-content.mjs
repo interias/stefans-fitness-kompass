@@ -1,6 +1,13 @@
 import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 
+// Chinesisch (zh) wird bewusst NICHT automatisch erzeugt. Die zh-Inhalte unter
+// client/content/zh werden von Hand gepflegt, damit Fachbegriffe, Lesbarkeit und
+// der nüchtern-pragmatische Stil stimmen. Maschinenübersetzung wird nur für die
+// hier gelisteten Locales ausgeführt. Hintergrund: AGENTS.md / STYLEGUIDE.md.
+// Die zh-Konfiguration (Titel, Formeln) bleibt unten als Referenz erhalten.
+const autoTranslatedLocales = new Set(["en"]);
+
 const clientRoot = process.cwd();
 const repositoryRoot = path.resolve(clientRoot, "..");
 const sourceDocsRoot = path.join(repositoryRoot, "docs");
@@ -287,6 +294,11 @@ async function main() {
     .sort((a, b) => a.localeCompare(b, "de", { numeric: true }));
 
   for (const [locale, target] of Object.entries(targets)) {
+    if (!autoTranslatedLocales.has(locale)) {
+      console.log(`Skipping ${locale} (hand-maintained, not auto-translated)`);
+      continue;
+    }
+
     const localeRoot = path.join(targetRoot, locale);
     await mkdir(localeRoot, { recursive: true });
 

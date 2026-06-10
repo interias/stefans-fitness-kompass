@@ -51,6 +51,7 @@ Ruhiger, hochwertiger Fitness-Kompass-Stil mit Gesundheit, Training, Ernaehrung 
 - Next.js-Aenderungen muessen die Inhalte als ruhiges Wissensprodukt zeigen: schnelle Navigation, gute Lesbarkeit, Suche und klare Warn-/Grenzhinweise statt Marketing-Optik.
 - Die Next.js-App liegt unter `client/`; `README.md`, `docs/`, `assets/`, `DISCLAIMER.md` und die Projektregeln bleiben im Repository-Root.
 - `client/` ist eine technische und visuelle Abbildung des Projekts. Inhaltliche Korrekturen, neue Kapitel, Reihenfolge, Quellenlogik und fachliche Aussagen werden zuerst in der Root-`README.md` oder in `docs/` gepflegt und danach in die Web-App uebernommen.
-- `docs/` bleibt die deutsche Quelle; `client/content/en` und `client/content/zh` sind uebersetzte Web-Ableitungen und koennen mit `pnpm translate:content` im `client/` neu erzeugt werden.
+- `docs/` bleibt die deutsche Quelle. `client/content/en` ist eine maschinell uebersetzte Web-Ableitung und wird mit `pnpm translate:content` im `client/` neu erzeugt.
+- `client/content/zh` wird von Hand gepflegt (Fachbegriffe, Lesbarkeit, nuechterner Stil) und bewusst NICHT automatisch uebersetzt. `pnpm translate:content` ueberspringt `zh`. Inhaltliche Aenderungen an `docs/` muessen deshalb manuell in `client/content/zh` nachgezogen werden.
 - Generierte oder kopierte Web-Assets muessen als Ableitung behandelt werden.
 - Komponenten, Farben, Abstaende und Bildnutzung muessen zu `DESIGN.md` passen.
