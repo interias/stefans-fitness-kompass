@@ -4,58 +4,86 @@ export type Locale = (typeof locales)[number];
 
 export const defaultLocale: Locale = "de";
 
+export type ChapterGroupKey =
+  | "orientierung"
+  | "alltag"
+  | "ernaehrung"
+  | "training"
+  | "gesundheit"
+  | "einordnung";
+
 export const localeLabels: Record<
   Locale,
   {
-    flag: string;
     htmlLang: string;
     label: string;
     shortLabel: string;
+    switchTitle: string;
   }
 > = {
   de: {
-    flag: "🇩🇪",
     htmlLang: "de",
     label: "Deutsch",
     shortLabel: "DE",
+    switchTitle: "Deutsch — fachliche Quelle",
   },
   en: {
-    flag: "🇬🇧",
     htmlLang: "en",
     label: "English",
     shortLabel: "EN",
+    switchTitle: "English — translated from the German original",
   },
   zh: {
-    flag: "🇨🇳",
     htmlLang: "zh-Hans",
     label: "中文",
-    shortLabel: "中文",
+    shortLabel: "ZH",
+    switchTitle: "中文 — 译自德语原文",
   },
 };
 
 export type Dictionary = {
+  breadcrumbHome: string;
+  chapterKicker: (number: string) => string;
   chapterNavLabel: string;
   chapters: string;
   chaptersDescription: string;
   chaptersEyebrow: string;
   chaptersTitle: string;
   closeNavigation: string;
+  footer: {
+    copyright: string;
+    disclaimer: string;
+    github: string;
+    sources: string;
+  };
   github: string;
+  groups: Record<ChapterGroupKey, string>;
   home: {
-    kicker: string;
-    lead: string;
-    primaryCta: string;
-    principles: Array<{
-      key: "nutrition" | "training" | "tracking" | "health";
-      text: string;
+    heroSubline: string;
+    heroTitle: string;
+    leversTitle: string;
+    levers: Array<{
+      key: "energy" | "protein" | "strength" | "movement" | "sleep" | "consistency";
+      label: string;
+    }>;
+    routeSubline: string;
+    routeTitle: string;
+    searchPlaceholder: string;
+    startCta: string;
+    startItems: Array<{
+      key: "strength" | "protein" | "trend" | "sleep";
+      note: string;
       title: string;
     }>;
-    secondaryCta: string;
-    workEyebrow: string;
-    workLead: string;
-    workTitle: string;
+    startTitle: string;
   };
   license: string;
+  nav: {
+    chapters: string;
+    compass: string;
+    searchLabel: string;
+    sources: string;
+  };
   nextChapter: string;
   notFound: {
     cta: string;
@@ -66,7 +94,6 @@ export type Dictionary = {
   openNavigation: string;
   overview: string;
   previousChapter: string;
-  searchNav: string;
   search: {
     bestShown: (count: number) => string;
     empty: string;
@@ -82,11 +109,14 @@ export type Dictionary = {
     title: string;
   };
   siteDescription: string;
+  siteSubtitle: string;
   siteTitle: string;
 };
 
 const dictionaries: Record<Locale, Dictionary> = {
   de: {
+    breadcrumbHome: "Kompass",
+    chapterKicker: (number) => `Kapitel ${number}`,
     chapterNavLabel: "Kapitel",
     chapters: "Kapitel",
     chaptersDescription:
@@ -94,41 +124,68 @@ const dictionaries: Record<Locale, Dictionary> = {
     chaptersEyebrow: "Kapitel",
     chaptersTitle: "Fitness-Kompass lesen",
     closeNavigation: "Navigation schliessen",
+    footer: {
+      copyright: "© Stefan · Open Source (CC0)",
+      disclaimer: "Disclaimer — keine medizinische Beratung",
+      github: "Auf GitHub ansehen",
+      sources: "Quellen",
+    },
     github: "GitHub",
+    groups: {
+      orientierung: "Orientierung",
+      alltag: "Alltag & Messung",
+      ernaehrung: "Ernährung",
+      training: "Training",
+      gesundheit: "Gesundheit",
+      einordnung: "Einordnung & Quellen",
+    },
     home: {
-      kicker: "Grundlagen vor Optimierung",
-      lead:
-        "Langfristiger Fortschritt entsteht, wenn gute Entscheidungen so einfach werden, dass du sie regelmäßig triffst.",
-      primaryCta: "Kurzfassung lesen",
-      principles: [
+      heroSubline: "17 Kapitel, eine Route. Evidenz statt Programmverkauf.",
+      heroTitle: "Ein Kartenblatt für Training, Ernährung und Gesundheit.",
+      leversTitle: "Die zentralen Hebel",
+      levers: [
+        { key: "energy", label: "Energiebilanz" },
+        { key: "protein", label: "Protein" },
+        { key: "strength", label: "Progressives Krafttraining" },
+        { key: "movement", label: "Alltagsbewegung" },
+        { key: "sleep", label: "Schlaf" },
+        { key: "consistency", label: "Konsistenz" },
+      ],
+      routeSubline: "Alle 17 Kapitel in Lesereihenfolge — von der Orientierung bis zu den Quellen.",
+      routeTitle: "Die Route",
+      searchPlaceholder: "Im Kompass suchen — Kapitel, Begriffe, Quellen",
+      startCta: "Kurzfassung lesen",
+      startItems: [
         {
-          key: "nutrition",
-          title: "Ernährung",
-          text: "Protein, Ballaststoffe, Lebensmittelqualität und Energiebilanz als robuste Basis.",
+          key: "strength",
+          note: "Ganzkörper reicht — Konstanz schlägt Programm.",
+          title: "2× Krafttraining pro Woche",
         },
         {
-          key: "training",
-          title: "Training",
-          text: "Progression, Technik, Reps in Reserve und Wiederholbarkeit vor maximaler Erschöpfung.",
+          key: "protein",
+          note: "Eine klare Proteinquelle auf jedem Teller.",
+          title: "Protein pro Hauptmahlzeit",
         },
         {
-          key: "tracking",
-          title: "Tracking",
-          text: "Trends und Kontext statt einzelne Tageswerte als Entscheidungshilfe nutzen.",
+          key: "trend",
+          note: "Trends lesen, Tageswerte ignorieren.",
+          title: "7-Tage-Gewichtstrend",
         },
         {
-          key: "health",
-          title: "Gesundheit",
-          text: "Schlaf, Ausdauer, Alltagsbewegung und große Risikofaktoren nüchtern priorisieren.",
+          key: "sleep",
+          note: "Regelmäßig, ausreichend, geschützt.",
+          title: "Schlaf ernst nehmen",
         },
       ],
-      secondaryCta: "Kapitel ansehen",
-      workEyebrow: "Arbeitsweise",
-      workLead:
-        "Die Web-Version macht den bestehenden Kompass schneller nutzbar: Kapitel bleiben Markdown, Quellen bleiben sichtbar, und Entscheidungen werden über Trends, Kontext und Wiederholbarkeit eingeordnet.",
-      workTitle: "Richtung prüfen, nicht Tageswerte jagen",
+      startTitle: "Minimaler Startpunkt",
     },
     license: "CC0",
+    nav: {
+      chapters: "Kapitel",
+      compass: "Kompass",
+      searchLabel: "Suchen …",
+      sources: "Quellen",
+    },
     nextChapter: "Nächstes Kapitel",
     notFound: {
       cta: "Zur Startseite",
@@ -139,7 +196,6 @@ const dictionaries: Record<Locale, Dictionary> = {
     openNavigation: "Navigation oeffnen",
     overview: "Überblick",
     previousChapter: "Vorheriges Kapitel",
-    searchNav: "Suche",
     search: {
       bestShown: (count) => `, die besten ${count} angezeigt`,
       empty: "Kein passender Inhalt gefunden.",
@@ -156,9 +212,12 @@ const dictionaries: Record<Locale, Dictionary> = {
     },
     siteDescription:
       "Ein deutschsprachiger Fitness-Kompass zu Ernährung, Training, Gesundheit, Alltag und Quellenbewertung.",
+    siteSubtitle: "Evidenzbasiertes Nachschlagewerk",
     siteTitle: "Stefans Fitness-Kompass",
   },
   en: {
+    breadcrumbHome: "Compass",
+    chapterKicker: (number) => `Chapter ${number}`,
     chapterNavLabel: "Chapters",
     chapters: "Chapters",
     chaptersDescription:
@@ -166,41 +225,68 @@ const dictionaries: Record<Locale, Dictionary> = {
     chaptersEyebrow: "Chapters",
     chaptersTitle: "Read the Fitness Compass",
     closeNavigation: "Close navigation",
+    footer: {
+      copyright: "© Stefan · Open source (CC0)",
+      disclaimer: "Disclaimer — not medical advice",
+      github: "View on GitHub",
+      sources: "Sources",
+    },
     github: "GitHub",
+    groups: {
+      orientierung: "Orientation",
+      alltag: "Daily Life & Measurement",
+      ernaehrung: "Nutrition",
+      training: "Training",
+      gesundheit: "Health",
+      einordnung: "Context & Sources",
+    },
     home: {
-      kicker: "Foundations before optimization",
-      lead:
-        "Long-term progress happens when good decisions become simple enough to repeat regularly.",
-      primaryCta: "Read the summary",
-      principles: [
+      heroSubline: "17 chapters, one route. Evidence instead of program sales.",
+      heroTitle: "One map sheet for training, nutrition, and health.",
+      leversTitle: "The central levers",
+      levers: [
+        { key: "energy", label: "Energy balance" },
+        { key: "protein", label: "Protein" },
+        { key: "strength", label: "Progressive strength training" },
+        { key: "movement", label: "Daily movement" },
+        { key: "sleep", label: "Sleep" },
+        { key: "consistency", label: "Consistency" },
+      ],
+      routeSubline: "All 17 chapters in reading order — from orientation to the sources.",
+      routeTitle: "The Route",
+      searchPlaceholder: "Search the compass — chapters, terms, sources",
+      startCta: "Read the summary",
+      startItems: [
         {
-          key: "nutrition",
-          title: "Nutrition",
-          text: "Protein, fiber, food quality, and energy balance as a robust base.",
+          key: "strength",
+          note: "Full body is enough — consistency beats programming.",
+          title: "2× strength training per week",
         },
         {
-          key: "training",
-          title: "Training",
-          text: "Progression, technique, reps in reserve, and repeatability before maximum exhaustion.",
+          key: "protein",
+          note: "One clear protein source on every plate.",
+          title: "Protein with every main meal",
         },
         {
-          key: "tracking",
-          title: "Tracking",
-          text: "Use trends and context instead of single daily values as decision support.",
+          key: "trend",
+          note: "Read trends, ignore daily values.",
+          title: "7-day weight trend",
         },
         {
-          key: "health",
-          title: "Health",
-          text: "Prioritize sleep, endurance, daily movement, and major risk factors soberly.",
+          key: "sleep",
+          note: "Regular, sufficient, protected.",
+          title: "Take sleep seriously",
         },
       ],
-      secondaryCta: "View chapters",
-      workEyebrow: "Working method",
-      workLead:
-        "The web version makes the existing compass faster to use: chapters stay Markdown, sources stay visible, and decisions are framed through trends, context, and repeatability.",
-      workTitle: "Check direction, do not chase daily values",
+      startTitle: "Minimal starting point",
     },
     license: "CC0",
+    nav: {
+      chapters: "Chapters",
+      compass: "Compass",
+      searchLabel: "Search …",
+      sources: "Sources",
+    },
     nextChapter: "Next chapter",
     notFound: {
       cta: "Go to homepage",
@@ -211,7 +297,6 @@ const dictionaries: Record<Locale, Dictionary> = {
     openNavigation: "Open navigation",
     overview: "Overview",
     previousChapter: "Previous chapter",
-    searchNav: "Search",
     search: {
       bestShown: (count) => `, showing the best ${count}`,
       empty: "No matching content found.",
@@ -228,49 +313,80 @@ const dictionaries: Record<Locale, Dictionary> = {
     },
     siteDescription:
       "A fitness compass for nutrition, training, health, daily life, and source evaluation.",
+    siteSubtitle: "Evidence-based reference",
     siteTitle: "Stefan's Fitness Compass",
   },
   zh: {
+    breadcrumbHome: "指南",
+    chapterKicker: (number) => `第 ${number} 章`,
     chapterNavLabel: "章节",
     chapters: "章节",
     chaptersDescription: "章节保持既有顺序：先打基础，再看营养、训练、健康、来源评估和总结。",
     chaptersEyebrow: "章节",
     chaptersTitle: "阅读健身指南",
     closeNavigation: "关闭导航",
+    footer: {
+      copyright: "© Stefan · 开源（CC0）",
+      disclaimer: "免责声明 — 非医疗建议",
+      github: "在 GitHub 上查看",
+      sources: "来源",
+    },
     github: "GitHub",
+    groups: {
+      orientierung: "基础导航",
+      alltag: "日常与测量",
+      ernaehrung: "营养",
+      training: "训练",
+      gesundheit: "健康",
+      einordnung: "评估与来源",
+    },
     home: {
-      kicker: "先打基础，再谈优化",
-      lead: "长期进步来自足够简单、能够稳定重复的好决策。",
-      primaryCta: "阅读摘要",
-      principles: [
+      heroSubline: "17 个章节，一条路线。以证据为准，不卖课程。",
+      heroTitle: "一张涵盖训练、营养与健康的地图。",
+      leversTitle: "核心杠杆",
+      levers: [
+        { key: "energy", label: "能量平衡" },
+        { key: "protein", label: "蛋白质" },
+        { key: "strength", label: "渐进式力量训练" },
+        { key: "movement", label: "日常活动" },
+        { key: "sleep", label: "睡眠" },
+        { key: "consistency", label: "坚持" },
+      ],
+      routeSubline: "17 个章节按阅读顺序排列——从基础导航到来源评估。",
+      routeTitle: "路线",
+      searchPlaceholder: "搜索指南——章节、术语、来源",
+      startCta: "阅读摘要",
+      startItems: [
         {
-          key: "nutrition",
-          title: "营养",
-          text: "以蛋白质、膳食纤维、食物质量和能量平衡作为稳定基础。",
+          key: "strength",
+          note: "全身训练即可——坚持比计划更重要。",
+          title: "每周 2 次力量训练",
         },
         {
-          key: "training",
-          title: "训练",
-          text: "优先考虑渐进、技术、保留次数和可重复性，而不是极限疲劳。",
+          key: "protein",
+          note: "每个餐盘上都有明确的蛋白质来源。",
+          title: "每餐主食配蛋白质",
         },
         {
-          key: "tracking",
-          title: "追踪",
-          text: "用趋势和背景帮助判断，而不是盯住单日数值。",
+          key: "trend",
+          note: "看趋势，别盯单日数值。",
+          title: "7 天体重趋势",
         },
         {
-          key: "health",
-          title: "健康",
-          text: "冷静优先处理睡眠、耐力、日常活动和主要风险因素。",
+          key: "sleep",
+          note: "规律、充足、不受干扰。",
+          title: "认真对待睡眠",
         },
       ],
-      secondaryCta: "查看章节",
-      workEyebrow: "使用方式",
-      workLead:
-        "网页版让现有指南更容易使用：章节仍是 Markdown，来源保持可见，决策通过趋势、背景和可重复性来判断。",
-      workTitle: "看方向，不追逐单日数值",
+      startTitle: "最小起点",
     },
     license: "CC0",
+    nav: {
+      chapters: "章节",
+      compass: "指南",
+      searchLabel: "搜索…",
+      sources: "来源",
+    },
     nextChapter: "下一章",
     notFound: {
       cta: "返回首页",
@@ -281,7 +397,6 @@ const dictionaries: Record<Locale, Dictionary> = {
     openNavigation: "打开导航",
     overview: "概览",
     previousChapter: "上一章",
-    searchNav: "搜索",
     search: {
       bestShown: (count) => `，显示最相关的 ${count} 个`,
       empty: "没有找到匹配内容。",
@@ -297,6 +412,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       title: "搜索并进入",
     },
     siteDescription: "关于营养、训练、健康、日常生活和来源评估的健身指南。",
+    siteSubtitle: "循证参考手册",
     siteTitle: "Stefan 健身指南",
   },
 };

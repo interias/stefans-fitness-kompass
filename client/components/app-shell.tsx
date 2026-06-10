@@ -19,16 +19,28 @@ export function AppShell({ children, locale }: AppShellProps) {
       <HtmlLang locale={locale} />
       <SiteHeader chapters={chapters} locale={locale} />
       {children}
-      <footer className="border-t border-stone-200 bg-white">
-        <div className="mx-auto flex max-w-[112rem] flex-wrap justify-center gap-4 px-4 py-8 text-center text-sm leading-6 text-stone-600 sm:px-6 lg:px-8">
-          <Link className="font-medium text-stone-800 hover:text-teal-800" href={localizePath(locale, "/kapitel")}>
-            {dictionary.chapters}
+      <footer className="border-t border-fk-line">
+        <div className="mx-auto flex max-w-[1280px] flex-wrap items-center justify-center gap-x-6 gap-y-2 px-4 py-7 text-center text-[13.5px] text-fk-ink-faint md:px-10">
+          <span>{dictionary.footer.copyright}</span>
+          <Link
+            className="underline decoration-fk-line underline-offset-2 transition-colors duration-150 hover:text-fk-teal-dark"
+            href={localizePath(locale, "/disclamer")}
+          >
+            {dictionary.footer.disclaimer}
           </Link>
-          <Link className="font-medium text-stone-800 hover:text-teal-800" href={localizePath(locale, "/disclamer")}>
-            Disclaimer
+          <Link
+            className="transition-colors duration-150 hover:text-fk-teal-dark"
+            href={localizePath(locale, "/kapitel/15-quellen")}
+          >
+            {dictionary.footer.sources}
           </Link>
-          <a className="font-medium text-stone-800 hover:text-teal-800" href="https://creativecommons.org/publicdomain/zero/1.0/">
-            {dictionary.license}
+          <a
+            className="transition-colors duration-150 hover:text-fk-teal-dark"
+            href="https://github.com/interias/stefans-fitness-kompass/"
+            rel="noreferrer"
+            target="_blank"
+          >
+            {dictionary.footer.github}
           </a>
         </div>
       </footer>

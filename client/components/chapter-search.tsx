@@ -11,6 +11,7 @@ type ChapterSearchProps = {
   chapters: ChapterMeta[];
   locale: Locale;
   searchEntries: SearchEntry[];
+  variant?: "overlay" | "page";
 };
 
 type SearchReason = "Kapiteltitel" | "Abschnitt" | "Textstelle";
@@ -139,7 +140,7 @@ function highlightText(text: string, terms: string[]) {
     }
 
     parts.push(
-      <mark className="rounded bg-amber-100 px-0.5 text-stone-950" key={`${range.start}-${range.end}-${index}`}>
+      <mark className="rounded bg-amber-100 px-0.5 text-fk-ink" key={`${range.start}-${range.end}-${index}`}>
         {text.slice(range.start, range.end)}
       </mark>,
     );
@@ -232,7 +233,7 @@ function scoreEntry(entry: SearchEntry, normalizedQuery: string, terms: string[]
   };
 }
 
-export function ChapterSearch({ chapters, locale, searchEntries }: ChapterSearchProps) {
+export function ChapterSearch({ chapters, locale, searchEntries, variant = "page" }: ChapterSearchProps) {
   const [query, setQuery] = useState("");
   const dictionary = getDictionary(locale);
   const reasonLabels: Record<SearchReason, string> = {
@@ -293,18 +294,95 @@ export function ChapterSearch({ chapters, locale, searchEntries }: ChapterSearch
 
   const visibleResults = results.slice(0, 10);
 
+  const resultCards = (
+    <div className={variant === "overlay" ? "grid gap-3" : "grid gap-3 lg:grid-cols-2"}>
+      {visibleResults.map((result) => (
+        <Link
+          className="group rounded-[10px] border border-fk-line bg-white p-5 shadow-[var(--fk-card-shadow)] transition-colors duration-150 hover:border-fk-teal"
+          href={withSearchHighlight(result.entry.href, query)}
+          key={result.entry.href}
+        >
+          <div className="mb-3 flex items-start justify-between gap-4">
+            <div className="flex flex-wrap items-center gap-2 text-xs font-semibold text-fk-ink-faint">
+              <span className="rounded-md bg-fk-muted px-2 py-1 font-fk-mono">{result.entry.chapterNumber}</span>
+              <span>{result.entry.chapterTitle.replace(/^\d+\s*/, "")}</span>
+            </div>
+            <ArrowRight className="mt-1 h-4 w-4 shrink-0 text-fk-ink-faint transition group-hover:translate-x-0.5 group-hover:text-fk-teal" strokeWidth={1.75} aria-hidden="true" />
+          </div>
+          <h3 className="text-base font-semibold leading-6 text-fk-ink">{result.entry.heading}</h3>
+          <div className="mt-3 flex flex-wrap gap-2">
+            {result.reasons.map((reason) => (
+              <span className="rounded-md bg-fk-muted px-2 py-1 text-xs font-semibold text-fk-teal-dark" key={reason}>
+                {reasonLabels[reason]}
+              </span>
+            ))}
+            {result.sectionHits > 1 ? (
+              <span className="rounded-md bg-fk-muted px-2 py-1 text-xs font-semibold text-fk-ink-soft">
+                {dictionary.search.sectionHits(result.sectionHits)}
+              </span>
+            ) : null}
+          </div>
+          <p className="mt-3 text-sm leading-6 text-fk-ink-soft">
+            {highlightText(createSnippet(result.entry.searchText, queryTerms), queryTerms)}
+          </p>
+        </Link>
+      ))}
+    </div>
+  );
+
+  if (variant === "overlay") {
+    return (
+      <div>
+        <label className="relative block">
+          <span className="sr-only">{dictionary.search.label}</span>
+          <Search className="pointer-events-none absolute left-[18px] top-1/2 h-5 w-5 -translate-y-1/2 text-fk-ink-faint" strokeWidth={1.75} aria-hidden="true" />
+          <input
+            className="w-full rounded-[10px] border border-fk-line bg-white py-3.5 pl-12 pr-16 text-[15px] text-fk-ink shadow-[0_4px_18px_rgba(28,25,23,0.08)] outline-none transition-colors duration-150 placeholder:text-fk-ink-faint focus:border-fk-teal"
+            id="fk-search-input"
+            onChange={(event) => setQuery(event.target.value)}
+            placeholder={getDictionary(locale).home.searchPlaceholder}
+            type="search"
+            value={query}
+          />
+          <kbd className="pointer-events-none absolute right-[18px] top-1/2 -translate-y-1/2 rounded bg-fk-muted px-1.5 py-0.5 font-fk-mono text-[11px] text-fk-ink-soft">
+            ⌘K
+          </kbd>
+        </label>
+
+        {!hasInput ? null : !canSearch ? (
+          <p className="mt-4 rounded-[10px] border border-fk-line bg-white p-4 text-sm text-fk-ink-soft shadow-[var(--fk-card-shadow)]">
+            {dictionary.search.minChars}
+          </p>
+        ) : visibleResults.length > 0 ? (
+          <div className="mt-4">
+            <p className="mb-3 text-sm text-fk-ink-soft">
+              {dictionary.search.resultCount(results.length)}
+              {results.length > visibleResults.length ? dictionary.search.bestShown(visibleResults.length) : ""}.
+            </p>
+            {resultCards}
+          </div>
+        ) : (
+          <p className="mt-4 rounded-[10px] border border-fk-line bg-white p-4 text-sm text-fk-ink-soft shadow-[var(--fk-card-shadow)]">
+            {dictionary.search.empty}
+          </p>
+        )}
+      </div>
+    );
+  }
+
   return (
-    <section className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8" id="suche">
+    <section className="mx-auto max-w-[1280px] px-4 py-12 md:px-10" id="suche">
       <div className="mb-6 max-w-3xl">
-        <p className="text-sm font-semibold uppercase text-teal-800">{dictionary.search.title}</p>
-        <h2 className="mt-2 text-2xl font-semibold text-stone-950 md:text-3xl">{dictionary.search.heading}</h2>
+        <p className="fk-kicker">{dictionary.search.title}</p>
+        <h2 className="mt-2 font-fk-serif text-[24px] font-semibold text-fk-teal-dark">{dictionary.search.heading}</h2>
       </div>
 
       <label className="relative block max-w-3xl">
         <span className="sr-only">{dictionary.search.label}</span>
-        <Search className="pointer-events-none absolute left-4 top-1/2 h-5 w-5 -translate-y-1/2 text-stone-400" aria-hidden="true" />
+        <Search className="pointer-events-none absolute left-4 top-1/2 h-5 w-5 -translate-y-1/2 text-fk-ink-faint" strokeWidth={1.75} aria-hidden="true" />
         <input
-          className="h-12 w-full rounded-lg border border-stone-300 bg-white pl-12 pr-4 text-base text-stone-950 outline-none transition focus:border-teal-700 focus:ring-4 focus:ring-teal-100"
+          className="h-12 w-full rounded-[10px] border border-fk-line bg-white pl-12 pr-4 text-base text-fk-ink outline-none transition-colors duration-150 placeholder:text-fk-ink-faint focus:border-fk-teal"
+          id="fk-search-input"
           onChange={(event) => setQuery(event.target.value)}
           placeholder={dictionary.search.placeholder}
           type="search"
@@ -316,67 +394,35 @@ export function ChapterSearch({ chapters, locale, searchEntries }: ChapterSearch
         <div className="mt-8 grid gap-3 md:grid-cols-2 xl:grid-cols-3">
           {chapters.map((chapter) => (
             <Link
-              className="group min-h-44 rounded-lg border border-stone-200 bg-white p-5 transition hover:border-teal-300 hover:shadow-sm"
+              className="group rounded-[10px] border border-fk-line bg-white p-5 shadow-[var(--fk-card-shadow)] transition-colors duration-150 hover:border-fk-teal"
               href={localizePath(locale, `/kapitel/${chapter.slug}`)}
               key={chapter.slug}
             >
               <div className="mb-4 flex items-center justify-between gap-4">
-                <span className="rounded-md bg-stone-100 px-2 py-1 text-xs font-semibold tabular-nums text-stone-600">
+                <span className="flex h-8 w-8 items-center justify-center rounded-full border-[1.5px] border-fk-teal bg-white font-fk-mono text-xs text-fk-teal-dark">
                   {chapter.number}
                 </span>
-                <ArrowRight className="h-4 w-4 text-stone-400 transition group-hover:translate-x-0.5 group-hover:text-teal-800" aria-hidden="true" />
+                <ArrowRight className="h-4 w-4 text-fk-ink-faint transition group-hover:translate-x-0.5 group-hover:text-fk-teal" strokeWidth={1.75} aria-hidden="true" />
               </div>
-              <h3 className="text-lg font-semibold leading-6 text-stone-950">{chapter.title.replace(/^\d+\s*/, "")}</h3>
-              <p className="mt-3 text-sm leading-6 text-stone-600">{chapter.summary}</p>
+              <h3 className="text-[15.5px] font-semibold leading-6 text-fk-ink">{chapter.title.replace(/^\d+\s*/, "")}</h3>
+              <p className="mt-2 text-sm leading-6 text-fk-ink-soft">{chapter.summary}</p>
             </Link>
           ))}
         </div>
       ) : !canSearch ? (
-        <p className="mt-8 rounded-lg border border-stone-200 bg-white p-5 text-sm text-stone-600">
+        <p className="mt-8 rounded-[10px] border border-fk-line bg-white p-5 text-sm text-fk-ink-soft">
           {dictionary.search.minChars}
         </p>
       ) : visibleResults.length > 0 ? (
         <div className="mt-8">
-          <p className="mb-4 text-sm text-stone-600">
+          <p className="mb-4 text-sm text-fk-ink-soft">
             {dictionary.search.resultCount(results.length)}
             {results.length > visibleResults.length ? dictionary.search.bestShown(visibleResults.length) : ""}.
           </p>
-          <div className="grid gap-3 lg:grid-cols-2">
-            {visibleResults.map((result) => (
-              <Link
-                className="group rounded-lg border border-stone-200 bg-white p-5 transition hover:border-teal-300 hover:shadow-sm"
-                href={withSearchHighlight(result.entry.href, query)}
-                key={result.entry.href}
-              >
-                <div className="mb-3 flex items-start justify-between gap-4">
-                  <div className="flex flex-wrap items-center gap-2 text-xs font-semibold text-stone-500">
-                    <span className="rounded-md bg-stone-100 px-2 py-1 tabular-nums">{result.entry.chapterNumber}</span>
-                    <span>{result.entry.chapterTitle.replace(/^\d+\s*/, "")}</span>
-                  </div>
-                  <ArrowRight className="mt-1 h-4 w-4 shrink-0 text-stone-400 transition group-hover:translate-x-0.5 group-hover:text-teal-800" aria-hidden="true" />
-                </div>
-                <h3 className="text-base font-semibold leading-6 text-stone-950">{result.entry.heading}</h3>
-                <div className="mt-3 flex flex-wrap gap-2">
-                  {result.reasons.map((reason) => (
-                    <span className="rounded-md bg-teal-50 px-2 py-1 text-xs font-semibold text-teal-900" key={reason}>
-                      {reasonLabels[reason]}
-                    </span>
-                  ))}
-                  {result.sectionHits > 1 ? (
-                    <span className="rounded-md bg-stone-100 px-2 py-1 text-xs font-semibold text-stone-600">
-                      {dictionary.search.sectionHits(result.sectionHits)}
-                    </span>
-                  ) : null}
-                </div>
-                <p className="mt-3 text-sm leading-6 text-stone-600">
-                  {highlightText(createSnippet(result.entry.searchText, queryTerms), queryTerms)}
-                </p>
-              </Link>
-            ))}
-          </div>
+          {resultCards}
         </div>
       ) : (
-        <p className="mt-8 rounded-lg border border-stone-200 bg-white p-5 text-sm text-stone-600">
+        <p className="mt-8 rounded-[10px] border border-fk-line bg-white p-5 text-sm text-fk-ink-soft">
           {dictionary.search.empty}
         </p>
       )}

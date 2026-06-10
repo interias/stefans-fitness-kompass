@@ -1,15 +1,50 @@
 @import "tailwindcss";
 
 :root {
-  --background: #f7f8f6;
-  --foreground: #1c1917;
-  --muted: #f1f5f2;
-  --line: #e5e7eb;
-  --teal: #0f766e;
-  --teal-dark: #134e4a;
-  --blue: #1d4ed8;
-  --green: #166534;
-  --amber: #b45309;
+  /* Flächen */
+  --fk-bg: #f7f8f6;
+  --fk-muted: #f1f5f2;
+  --fk-line: #e5e7eb;
+
+  /* Text */
+  --fk-ink: #1c1917;
+  --fk-ink-soft: #57534e;
+  --fk-ink-faint: #79716b;
+
+  /* Akzente */
+  --fk-teal: #0f766e;
+  --fk-teal-dark: #134e4a;
+  --fk-green: #166534;
+  --fk-blue: #1d4ed8;
+  --fk-amber: #b45309;
+  --fk-needle: #b91c1c;
+
+  /* Abgeleitet */
+  --fk-dash: #c9d4cd;
+  --fk-card-shadow: 0 1px 3px rgba(28, 25, 23, 0.06);
+
+  /* Schrift */
+  --fk-sans: var(--font-source-sans), "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --fk-serif: var(--font-source-serif), "Source Serif 4", Georgia, serif;
+  --fk-mono: var(--font-plex-mono), "IBM Plex Mono", ui-monospace, monospace;
+}
+
+@theme inline {
+  --color-fk-bg: var(--fk-bg);
+  --color-fk-muted: var(--fk-muted);
+  --color-fk-line: var(--fk-line);
+  --color-fk-ink: var(--fk-ink);
+  --color-fk-ink-soft: var(--fk-ink-soft);
+  --color-fk-ink-faint: var(--fk-ink-faint);
+  --color-fk-teal: var(--fk-teal);
+  --color-fk-teal-dark: var(--fk-teal-dark);
+  --color-fk-green: var(--fk-green);
+  --color-fk-blue: var(--fk-blue);
+  --color-fk-amber: var(--fk-amber);
+  --color-fk-dash: var(--fk-dash);
+  --font-fk-sans: var(--fk-sans);
+  --font-fk-serif: var(--fk-serif);
+  --font-fk-mono: var(--fk-mono);
 }
 
 * {
@@ -22,35 +57,48 @@ html {
 
 body {
   margin: 0;
-  background: var(--background);
-  color: var(--foreground);
-  font-family:
-    ui-sans-serif,
-    system-ui,
-    -apple-system,
-    BlinkMacSystemFont,
-    "Segoe UI",
-    sans-serif;
+  background: var(--fk-bg);
+  color: var(--fk-ink);
+  font-family: var(--fk-sans);
+  font-size: 16px;
+  line-height: 1.55;
   letter-spacing: 0;
-}
-
-a {
-  text-underline-offset: 0.18em;
 }
 
 img {
   max-width: 100%;
 }
 
-.home-hero {
-  background-position: center;
-  background-size: cover;
+:focus-visible {
+  outline: 2px solid var(--fk-teal);
+  outline-offset: 2px;
 }
 
+/* Wiederkehrender Kicker-Label-Stil */
+.fk-kicker {
+  color: var(--fk-teal);
+  font-family: var(--fk-mono);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* Topo-Textur: nur auf gemusterten Bändern (--fk-muted-Flächen) */
+.fk-topo {
+  background-color: var(--fk-muted);
+  background-image: url("/topo-tile.svg");
+  background-size: 560px 560px;
+}
+
+/* ---------------------------------------------------------------------------
+ * Lesespalte / Markdown-Inhalt
+ * ------------------------------------------------------------------------ */
+
 .prose-kompass {
-  color: #292524;
-  font-size: 1rem;
-  line-height: 1.8;
+  color: var(--fk-ink);
+  font-size: 16.5px;
+  line-height: 1.65;
   overflow-wrap: anywhere;
 }
 
@@ -59,42 +107,47 @@ img {
 }
 
 .prose-kompass h1,
-.prose-kompass h2,
-.prose-kompass h3,
-.prose-kompass h4 {
-  color: #0c0a09;
-  font-weight: 700;
+.prose-kompass h2 {
+  color: var(--fk-teal-dark);
+  font-family: var(--fk-serif);
+  font-weight: 600;
   letter-spacing: 0;
-  line-height: 1.16;
-  scroll-margin-top: 6rem;
+  line-height: 1.2;
+  scroll-margin-top: 80px;
 }
 
 .prose-kompass h1 {
-  font-size: 2.25rem;
+  font-size: 34px;
   margin: 0 0 1.25rem;
 }
 
 .prose-kompass h2 {
-  border-top: 1px solid var(--line);
-  font-size: 1.6rem;
-  margin: 3rem 0 1rem;
-  padding-top: 2rem;
+  font-size: 25px;
+  margin: 2.75rem 0 1rem;
+}
+
+.prose-kompass h3,
+.prose-kompass h4 {
+  color: var(--fk-ink);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 1.3;
+  scroll-margin-top: 80px;
 }
 
 .prose-kompass h3 {
-  font-size: 1.25rem;
+  font-size: 17.5px;
   margin: 2rem 0 0.75rem;
 }
 
 .prose-kompass h4 {
-  font-size: 1.05rem;
+  font-size: 16.5px;
   margin: 1.5rem 0 0.5rem;
 }
 
 .prose-kompass p,
 .prose-kompass ul,
 .prose-kompass ol,
-.prose-kompass blockquote,
 .prose-kompass table {
   margin: 1rem 0;
 }
@@ -104,22 +157,30 @@ img {
   padding-left: 1.4rem;
 }
 
+.prose-kompass ul {
+  list-style: disc;
+}
+
+.prose-kompass ol {
+  list-style: decimal;
+}
+
 .prose-kompass li + li {
   margin-top: 0.35rem;
 }
 
 .prose-kompass a {
-  color: var(--teal-dark);
-  font-weight: 600;
-  text-decoration: underline;
+  color: var(--fk-teal);
+  text-decoration: none;
 }
 
 .prose-kompass a:hover {
-  color: var(--blue);
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 
 .prose-kompass strong {
-  color: #0c0a09;
+  color: var(--fk-ink);
   font-weight: 700;
 }
 
@@ -127,29 +188,100 @@ img {
   background: #fde68a;
   border-radius: 4px;
   box-shadow: 0 0 0 2px #fde68a;
-  color: #0c0a09;
+  color: var(--fk-ink);
   padding: 0 0.08em;
-}
-
-.prose-kompass blockquote {
-  border-left: 4px solid #99f6e4;
-  background: #f0fdfa;
-  border-radius: 0 8px 8px 0;
-  color: #134e4a;
-  padding: 1rem 1.25rem;
 }
 
 .prose-kompass img {
   border-radius: 8px;
-  border: 1px solid var(--line);
-  background: white;
+  border: 1px solid var(--fk-line);
+  background: #fff;
   height: auto;
   margin: 1.75rem auto;
 }
 
+/* Zitat-Chips: Kurzbelege wie "DGE 2024a" als Pillen im Fließtext */
+.prose-kompass a.cite-chip {
+  background: var(--fk-muted);
+  border: 1px solid var(--fk-line);
+  border-radius: 999px;
+  color: var(--fk-teal-dark);
+  display: inline-block;
+  font-family: var(--fk-mono);
+  font-size: 12px;
+  line-height: 1.35;
+  padding: 3px 9px;
+  transition: border-color 120ms ease;
+  white-space: nowrap;
+}
+
+.prose-kompass a.cite-chip:hover {
+  border-color: var(--fk-teal);
+  text-decoration: none;
+}
+
+/* Callouts: dezente Karten mit farbiger Linksborte */
+.prose-kompass .callout {
+  background: #fff;
+  border: 1px solid var(--fk-line);
+  border-left: 3px solid var(--fk-teal);
+  border-radius: 0 8px 8px 0;
+  margin: 1.25rem 0;
+  padding: 14px 18px;
+}
+
+.prose-kompass .callout > p {
+  margin: 0.5rem 0 0;
+}
+
+.prose-kompass .callout-label {
+  align-items: center;
+  color: var(--fk-teal);
+  display: flex;
+  font-family: var(--fk-mono);
+  font-size: 11.5px;
+  font-weight: 500;
+  gap: 6px;
+  letter-spacing: 0.08em;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.prose-kompass .callout-label svg {
+  flex-shrink: 0;
+}
+
+.prose-kompass .callout-grenze {
+  border-left-color: var(--fk-teal-dark);
+}
+
+.prose-kompass .callout-grenze .callout-label {
+  color: var(--fk-teal-dark);
+}
+
+.prose-kompass .callout-warnsignal {
+  border-left-color: var(--fk-amber);
+}
+
+.prose-kompass .callout-warnsignal .callout-label {
+  color: var(--fk-amber);
+}
+
+.prose-kompass .callout-quelle {
+  background: var(--fk-bg);
+  border-left-color: var(--fk-amber);
+}
+
+.prose-kompass .callout-quelle .callout-label {
+  color: var(--fk-amber);
+}
+
+/* Tabellen: tragende Inhalte, nüchtern */
 .prose-kompass table {
+  background: #fff;
   border-collapse: collapse;
   display: block;
+  font-size: 14.5px;
   max-width: 100%;
   overflow-x: auto;
   white-space: normal;
@@ -157,18 +289,28 @@ img {
 
 .prose-kompass th,
 .prose-kompass td {
-  border: 1px solid var(--line);
+  border: 1px solid var(--fk-line);
   overflow-wrap: normal;
-  padding: 0.65rem 0.75rem;
+  padding: 8px 12px;
   text-align: left;
   vertical-align: top;
   word-break: normal;
 }
 
 .prose-kompass th {
-  background: #f8fafc;
-  color: #0c0a09;
-  font-weight: 700;
+  background: var(--fk-muted);
+  color: var(--fk-teal-dark);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.prose-kompass caption {
+  caption-side: bottom;
+  color: var(--fk-ink-faint);
+  font-size: 13px;
+  font-style: italic;
+  padding-top: 0.5rem;
+  text-align: left;
 }
 
 .prose-kompass th:first-child,
@@ -183,16 +325,18 @@ img {
 
 .prose-kompass code {
   border-radius: 6px;
-  background: #f1f5f9;
-  color: #0f172a;
+  background: var(--fk-muted);
+  color: var(--fk-ink);
+  font-family: var(--fk-mono);
   font-size: 0.9em;
   padding: 0.12rem 0.3rem;
 }
 
 .prose-kompass pre {
+  border: 1px solid var(--fk-line);
   border-radius: 8px;
-  background: #111827;
-  color: #f8fafc;
+  background: #fff;
+  color: var(--fk-ink);
   overflow-x: auto;
   padding: 1rem;
 }
@@ -204,13 +348,13 @@ img {
 }
 
 .prose-kompass .katex {
-  color: #111827;
+  color: var(--fk-ink);
   font-size: 1.04em;
 }
 
 .prose-kompass .katex-display {
-  background: #fbfdfc;
-  border: 1px solid var(--line);
+  background: #fff;
+  border: 1px solid var(--fk-line);
   border-radius: 8px;
   margin: 1.25rem 0;
   overflow-x: auto;
@@ -228,7 +372,7 @@ img {
 }
 
 .heading-anchor {
-  color: #94a3b8;
+  color: var(--fk-ink-faint);
   font-size: 0.8em;
   margin-left: 0.5rem;
   opacity: 0;
@@ -240,18 +384,4 @@ img {
 .prose-kompass h3:hover .heading-anchor,
 .prose-kompass h4:hover .heading-anchor {
   opacity: 1;
-}
-
-@media (min-width: 768px) {
-  .prose-kompass {
-    font-size: 1.0625rem;
-  }
-
-  .prose-kompass h1 {
-    font-size: 3rem;
-  }
-
-  .prose-kompass h2 {
-    font-size: 2rem;
-  }
 }
