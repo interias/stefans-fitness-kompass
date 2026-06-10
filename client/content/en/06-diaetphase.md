@@ -59,7 +59,19 @@ Protein per main meal is the first lever because it supports satiety and muscle 
 
 The strongest “hack” is often the environment. Heavily processed, very easy-to-eat foods are not automatically banned, but they increase spontaneous calorie intake for many. In a controlled NIH study, participants consumed significantly more energy and gained weight on ultra-processed diet ad libitum, even though the diets offered were tailored to several nutritional values ​​(<a href="https://doi.org/10.1016/j.cmet.2019.05.008">Hall et al. 2019</a>). In practical terms, this means: Don't store trigger foods in bulk at home, but instead portion them in specific portions or eat them away from home.
 
-## 6.8 Hidden calories and snack traps
+## 6.8 Classify fasting and intermittent fasting soberly
+
+In this compass, fasting is not a separate mechanism of action, but rather one of several ways to structure a deficit. Intermittent fasting (e.g. 16:8 or 5:2) and time slot eating primarily shift *when* you eat, not necessarily *how much*. Fat loss still occurs through energy balance, not through time.
+
+In calorie-adjusted comparisons, intermittent fasting is not superior to continuous deficit. In a 12-month study, an 8-hour eating window plus a deficit resulted in similar weight loss to a deficit alone (8.0 vs. 6.3 kg, no significant difference) (<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2114833">Liu et al. 2022</a>). Time window eating can support fat loss, but works primarily because the narrow window lowers total calories and provides no additional benefit for blood pressure, blood sugar or blood lipids compared to a normal deficit (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10630127/">Sun et al. 2023</a>).
+
+In practical terms, this means that fasting is a good tool if it makes it easier to implement. For some, a late first meal or early last meal is the easiest way to cut back on evening snacks, alcohol or unplanned calories and hit the deficit without constant counting. For others, a narrow eating window leads to cravings, poorer workouts, or compensatory overeating. The DGE therefore assesses intermittent fasting cautiously: possible advantages, including a tendency for less muscle loss, but a lack of long-term studies and, above all, no guidelines for food selection. Fasting is not a substitute for good nutrition in the eating window (<a href="https://www.dge.de/gesunde-ernaehrung/diaeten-und-fasten/intervallfasten/">DGE Intervallfasten</a>).
+
+Water fasting and multi-day zero diet fasting are different from intermittent fasting and are not recommended as diet aids for healthy adults. Longer periods of pure fasting increase muscle loss and loss of performance; When returning to work, there is a risk of unfavorable metabolic shifts and even refeeding syndrome with dangerous electrolyte and fluid changes. Even in an accompanied study with water fasting for several days, insulin resistance (HOMA-IR) doubled after diet reconstruction (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8951503/">Scharf et al. 2022</a>). Such phases, if at all, belong in a medically supervised context with clear indications, not in a self-controlled diet. The warning signals from [6.5](#65-wenn-der-cut-kippt-warnsignale-statt-hormonpanik) and the limits of very low total intakes from [6.3](#63-defizit-planen) apply more strictly here.
+
+Fasting is unsuitable if you have eating disorders or are at risk, if you have diabetes or are taking blood sugar-lowering medication, if you are pregnant or breastfeeding, or if you have a very high training load or a low body fat percentage (RED-S, → [6.5](#65-wenn-der-cut-kippt-warnsignale-statt-hormonpanik)). Here, professional clarification is more important than a specific eating rhythm.
+
+## 6.9 Hidden calories and snack traps
 
 In a diet, the deficit often fails not because of the planned main meal, but because of small amounts that are not perceived as a meal. Oil, nuts, cheese, dressing, sauces, spreads, tasting bites while cooking, leftovers from the plate, the bar in the car and the coffee with milk still count towards the energy balance.
 
@@ -69,7 +81,7 @@ Snack traps usually arise from availability plus a lack of boundaries. Chips fro
 
 Drinks remain a separate test point in the diet. Juice, smoothies, lattes, cocoa, energy drinks, alcohol and several coffees with milk or syrup can replace a meal, but are often less filling. When fat loss stalls, four places are checked first: cooking fat and dressings, liquid calories, unplanned snacks and weekend amounts. Only when these points are plausible is it worth further reducing calories.
 
-## 6.9 Diet-friendly meals and shopping list
+## 6.10 Diet-friendly meals and shopping list
 
 A diet-friendly meal usually needs four building blocks: a clear source of protein, lots of vegetables or fruit, satiating carbohydrates in a controlled amount and a source of fat that doesn't escalate unnoticed. This is not a special meal, but a normal diet with better dosage.
 
@@ -83,7 +95,7 @@ A diet-friendly meal usually needs four building blocks: a clear source of prote
 
 The list is intentionally simple. It's intended to make shopping and repetition easier, not to optimize every meal. Those who regularly eat the same 5-8 meals of acceptable quality often have more control than someone who looks for a new, perfect diet recipe every day.
 
-## 6.10 Control and Adjustment
+## 6.11 Control and Adjustment
 
 A diet is controlled by trends: 7-day weight cut, waist size, workouts, steps, hunger, sleep and mood. The measurement standard is [04 Tracking and Measurement](04-tracking.md). Stagnation is only assessed after 2-3 weeks of trend, not after a salty dinner. If weight and waist do not fall, first check tracking errors, weekend, drinks, snacks and portion sizes. Then either lower 100-200 kcal or increase steps slightly.
 

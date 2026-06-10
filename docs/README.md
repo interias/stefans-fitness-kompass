@@ -14,7 +14,7 @@ Diese README dient als Einstieg in die Kapitel des Fitness-Kompasses. Sie ersetz
 | [03 Gewohnheiten, Alltag und Wochencheck](03-gewohnheiten-alltag.md) | Systeme, Mindestversionen und Wochen-Checkliste | Umsetzung wiederholbar machen |
 | [04 Tracking und Messung](04-tracking.md) | Gewicht, Körpermaße, Makros, Training, Formeln, Richtwerte, Warngrenzen und Tools | Daten als Lern- und Feedbackwerkzeug nutzen |
 | [05 Ernährung](05-ernaehrung.md) | Protein, Pflanzen, Getränke, Kohlenhydrate, Fettqualität und Supplements | alltagstaugliche Ernährung strukturieren |
-| [06 Diätphase](06-diaetphase.md) | Defizit, Hunger, Warnsignale, Refeed, versteckte Kalorien, Einkaufsliste und Anpassung | Fettverlust planbar und wiederholbar steuern |
+| [06 Diätphase](06-diaetphase.md) | Defizit, Hunger, Warnsignale, Refeed, Fasten, versteckte Kalorien, Einkaufsliste und Anpassung | Fettverlust planbar und wiederholbar steuern |
 | [07 Massephase](07-massephase.md) | Erhaltung, kontrollierte Massephase, Dirty Bulk, Überschuss und Stoppkorridor | Muskelaufbau ohne unnötige Fettzunahme planen |
 | [08 Krafttraining](08-krafttraining.md) | Progression, Technik, Hypertrophie, Split-Programme und Wochenstruktur | Krafttraining planen und steuerbar halten |
 | [09 Biomechanik und Übungsauswahl](09-biomechanik-uebungsauswahl.md) | Bewegungsmuster, Zielmuskeln, Übungsauswahl und Prioritäten | verstehen, welche Bewegung welche Muskulatur belastet |

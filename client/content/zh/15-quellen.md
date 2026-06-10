@@ -42,6 +42,10 @@
 - <a href="https://www.nature.com/articles/ijo2017206">Byrne et al. 2018</a> - 关于肥胖男性间歇性能量限制与维持期的 MATADOR 研究。
 - <a href="https://www.mdpi.com/2411-5142/5/1/19">Campbell et al. 2020</a> - 在有训练人群中、每周 5 天缺口加 2 天碳水更高维持日的 refeed 研究。
 - <a href="https://www.fda.gov/food/nutrition-facts-label/calories-nutrition-facts-label">FDA o. J.</a> 与 <a href="https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-A/section-101.9">21 CFR 101.9</a> - 美国营养标签上的份量、热量标注和极小能量的四舍五入。
+- <a href="https://www.dge.de/gesunde-ernaehrung/diaeten-und-fasten/intervallfasten/">DGE Intervallfasten</a> - 对间歇性断食的谨慎评估：可能有益，但缺乏长期研究，也没有关于食物选择的规定。
+- <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2114833">Liu et al. 2022</a> - 12 个月 RCT：8 小时进食窗口加缺口带来的体重下降并不显著大于单纯缺口。
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10630127/">Sun et al. 2023</a> - 关于限时进食加热量限制的系统综述和 meta 分析：减少体重、脂肪和腰围，但相比热量限制在血压、血糖和血脂上无额外益处。
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8951503/">Scharf et al. 2022</a> - 关于多日水断食与植物性恢复进食的观察性研究：心肺代谢指标有好有坏，再喂养后胰岛素抵抗（HOMA-IR）明显升高。
 
 ## 15.3 增肌阶段
 

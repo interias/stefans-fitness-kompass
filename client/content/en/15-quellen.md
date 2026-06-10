@@ -42,6 +42,10 @@ Short references in the text are directly linked; This list organizes them thema
 - <a href="https://www.nature.com/articles/ijo2017206">Byrne et al. 2018</a> - MATADOR study of intermittent energy restriction and maintenance blocks in men with obesity.
 - <a href="https://www.mdpi.com/2411-5142/5/1/19">Campbell et al. 2020</a> - Refeed study in exercisers with 5 deficit days and 2 higher carbohydrate maintenance days per week.
 - <a href="https://www.fda.gov/food/nutrition-facts-label/calories-nutrition-facts-label">FDA o. J.</a> and <a href="https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-A/section-101.9">21 CFR 101.9</a> - Serving sizes, calorie information and rounding of very small amounts of energy on US nutrition labels.
+- <a href="https://www.dge.de/gesunde-ernaehrung/diaeten-und-fasten/intervallfasten/">DGE Intervallfasten</a> - cautious classification of intermittent fasting: possible advantages, but lack of long-term studies and no guidelines for food selection.
+- <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2114833">Liu et al. 2022</a> - 12-month RCT: 8-hour time window plus deficit did not result in significantly greater weight loss than deficit alone.
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10630127/">Sun et al. 2023</a> - systematic review and meta-analysis of time window eating with calorie restriction: weight, fat and waist reduction, but no additional benefit in terms of blood pressure, blood sugar and blood lipids compared to calorie restriction.
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8951503/">Scharf et al. 2022</a> - Observational study of multi-day water fasting and plant-based reconstruction: mixed cardiometabolic markers, significantly increased insulin resistance (HOMA-IR) after refeeding.
 
 ## 15.3 Ground phase
 

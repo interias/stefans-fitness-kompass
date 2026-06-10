@@ -83,7 +83,7 @@ pnpm build
 | [03 Gewohnheiten und Alltag](docs/03-gewohnheiten-alltag.md) | 1%-Methode, Systeme, Entscheidungsregeln und Wochen-Checkliste. |
 | [04 Tracking und Messung](docs/04-tracking.md) | Gewicht, Körpermaße, Makros, Training, Formeln, Richtwerte, Warngrenzen und Tools. |
 | [05 Ernährung](docs/05-ernaehrung.md) | Protein, Lebensmittelauswahl, Getränke, Kohlenhydrate, Fettqualität und Supplements. |
-| [06 Diätphase](docs/06-diaetphase.md) | Defizit, Hunger, Warnsignale, Refeed, versteckte Kalorien, Einkaufsliste und Anpassung. |
+| [06 Diätphase](docs/06-diaetphase.md) | Defizit, Hunger, Warnsignale, Refeed, Fasten, versteckte Kalorien, Einkaufsliste und Anpassung. |
 | [07 Massephase](docs/07-massephase.md) | Erhaltung, kontrollierte Massephase, Dirty Bulk, Überschuss und Stoppkorridor. |
 | [08 Krafttraining](docs/08-krafttraining.md) | Progression, mTORC1/Hypertrophie, Technik, RIR, Split-Programme und Wochenstruktur. |
 | [09 Biomechanik und Übungsauswahl](docs/09-biomechanik-uebungsauswahl.md) | Bewegungsmuster, Zielmuskeln, Übungsauswahl und Prioritäten. |

@@ -42,6 +42,10 @@ Kurzbelege im Text sind direkt verlinkt; diese Liste ordnet sie thematisch ein.
 - <a href="https://www.nature.com/articles/ijo2017206">Byrne et al. 2018</a> - MATADOR-Studie zu intermittierender Energierestriktion und Erhaltungsblöcken bei Männern mit Adipositas.
 - <a href="https://www.mdpi.com/2411-5142/5/1/19">Campbell et al. 2020</a> - Refeed-Studie bei trainierenden Personen mit 5 Defizittagen und 2 kohlenhydratreicheren Erhaltungstagen pro Woche.
 - <a href="https://www.fda.gov/food/nutrition-facts-label/calories-nutrition-facts-label">FDA o. J.</a> und <a href="https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-A/section-101.9">21 CFR 101.9</a> - Portionsgrößen, Kalorienangaben und Rundung sehr kleiner Energiemengen auf US-Nährwertlabels.
+- <a href="https://www.dge.de/gesunde-ernaehrung/diaeten-und-fasten/intervallfasten/">DGE Intervallfasten</a> - zurückhaltende Einordnung des Intervallfastens: mögliche Vorteile, aber fehlende Langzeitstudien und keine Vorgaben zur Lebensmittelauswahl.
+- <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2114833">Liu et al. 2022</a> - 12-Monats-RCT: 8-Stunden-Zeitfenster plus Defizit ergab keinen signifikant größeren Gewichtsverlust als ein reines Defizit.
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10630127/">Sun et al. 2023</a> - systematische Review und Meta-Analyse zu Zeitfenster-Essen mit Kalorienrestriktion: Gewichts-, Fett- und Taillenreduktion, aber kein Zusatznutzen bei Blutdruck, Blutzucker und Blutfetten gegenüber Kalorienrestriktion.
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8951503/">Scharf et al. 2022</a> - Beobachtungsstudie zu mehrtägigem Wasserfasten und pflanzlichem Wiederaufbau: gemischte kardiometabolische Marker, deutlich gestiegene Insulinresistenz (HOMA-IR) nach dem Refeeding.
 
 ## 15.3 Massephase
 

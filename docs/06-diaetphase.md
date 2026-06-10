@@ -59,7 +59,19 @@ Protein pro Hauptmahlzeit ist der erste Hebel, weil es Sättigung und Muskelerha
 
 Der stärkste "Hack" ist oft die Umgebung. Stark verarbeitete, sehr leicht essbare Lebensmittel sind nicht automatisch verboten, aber sie erhöhen bei vielen die spontane Kalorienaufnahme. In einer kontrollierten NIH-Studie aßen Teilnehmende bei ultra-verarbeiteter Kost ad libitum deutlich mehr Energie und nahmen zu, obwohl die angebotenen Diäten auf mehrere Nährwerte abgestimmt waren (<a href="https://doi.org/10.1016/j.cmet.2019.05.008">Hall et al. 2019</a>). Praktisch heißt das: Trigger-Lebensmittel nicht als Großpackung zu Hause lagern, sondern gezielt portionieren oder außer Haus essen.
 
-## 6.8 Versteckte Kalorien und Snackfallen
+## 6.8 Fasten und Intervallfasten nüchtern einordnen
+
+Fasten ist in diesem Kompass kein eigener Wirkmechanismus, sondern eine von mehreren Möglichkeiten, ein Defizit zu strukturieren. Intervallfasten (z. B. 16:8 oder 5:2) und Zeitfenster-Essen verschieben vor allem, *wann* gegessen wird, nicht zwangsläufig *wie viel*. Der Fettverlust entsteht weiterhin über die Energiebilanz, nicht über die Uhrzeit.
+
+In kalorienangeglichenen Vergleichen ist Intervallfasten dem kontinuierlichen Defizit nicht überlegen. In einer 12-Monats-Studie führte ein 8-Stunden-Essfenster plus Defizit zu ähnlichem Gewichtsverlust wie ein reines Defizit (8,0 vs. 6,3 kg, kein signifikanter Unterschied) (<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2114833">Liu et al. 2022</a>). Zeitfenster-Essen kann den Fettverlust unterstützen, wirkt aber vor allem, weil das enge Fenster die Gesamtkalorien senkt, und bringt keinen Zusatznutzen bei Blutdruck, Blutzucker oder Blutfetten gegenüber einem normalen Defizit (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10630127/">Sun et al. 2023</a>).
+
+Praktisch heißt das: Fasten ist genau dann ein gutes Werkzeug, wenn es die Umsetzung erleichtert. Für manche ist ein spätes erstes oder frühes letztes Essen die einfachste Art, Abendsnacks, Alkohol oder ungeplante Kalorien zu reduzieren und das Defizit ohne ständiges Zählen zu treffen. Für andere führt ein enges Essfenster zu Heißhunger, schlechteren Trainingseinheiten oder kompensatorischem Überessen. Die DGE bewertet Intervallfasten deshalb zurückhaltend: mögliche Vorteile, darunter tendenziell weniger Muskelabbau, aber fehlende Langzeitstudien und vor allem keine Vorgaben zur Lebensmittelauswahl. Fasten ersetzt keine gute Ernährung im Essfenster (<a href="https://www.dge.de/gesunde-ernaehrung/diaeten-und-fasten/intervallfasten/">DGE Intervallfasten</a>).
+
+Wasserfasten und mehrtägiges Nulldiät-Fasten sind etwas anderes als Intervallfasten und als Diätmittel für gesunde Erwachsene nicht zu empfehlen. Längere reine Fastenphasen erhöhen Muskelabbau und Leistungseinbußen; beim Wiedereinstieg drohen ungünstige Stoffwechselverschiebungen bis hin zum Refeeding-Syndrom mit gefährlichen Elektrolyt- und Flüssigkeitsveränderungen. Selbst in einer begleiteten Studie mit mehrtägigem Wasserfasten verdoppelte sich die Insulinresistenz (HOMA-IR) nach dem Wiederaufbau der Ernährung (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8951503/">Scharf et al. 2022</a>). Solche Phasen gehören, wenn überhaupt, in einen medizinisch begleiteten Kontext mit klarer Indikation, nicht in eine selbstgesteuerte Diät. Die Warnsignale aus [6.5](#65-wenn-der-cut-kippt-warnsignale-statt-hormonpanik) und die Grenzen sehr niedriger Gesamtzufuhren aus [6.3](#63-defizit-planen) gelten hier verschärft.
+
+Ungeeignet ist Fasten bei Essstörungen oder entsprechendem Risiko, bei Diabetes oder blutzuckersenkenden Medikamenten, in Schwangerschaft und Stillzeit sowie bei sehr hoher Trainingslast oder niedrigem Körperfettanteil (RED-S, → [6.5](#65-wenn-der-cut-kippt-warnsignale-statt-hormonpanik)). Hier ist fachliche Abklärung wichtiger als ein bestimmter Essrhythmus.
+
+## 6.9 Versteckte Kalorien und Snackfallen
 
 In einer Diät scheitert das Defizit oft nicht an der geplanten Hauptmahlzeit, sondern an kleinen Mengen, die nicht als Mahlzeit wahrgenommen werden. Öl, Nüsse, Käse, Dressing, Saucen, Aufstriche, Probierbissen beim Kochen, Reste vom Teller, der Riegel im Auto und der Kaffee mit Milch zählen trotzdem zur Energiebilanz.
 
@@ -69,7 +81,7 @@ Snackfallen entstehen meistens aus Verfügbarkeit plus fehlender Grenze. Chips a
 
 Getränke bleiben in der Diät ein eigener Prüfpunkt. Saft, Smoothies, Latte, Kakao, Energy-Drinks, Alkohol und mehrere Kaffees mit Milch oder Sirup können eine Mahlzeit ersetzen, sättigen aber oft schlechter. Wenn Fettverlust stockt, werden zuerst vier Stellen geprüft: Kochfett und Dressings, flüssige Kalorien, ungeplante Snacks und Wochenendmengen. Erst wenn diese Punkte plausibel sind, lohnt sich eine weitere Kaloriensenkung.
 
-## 6.9 Diättaugliche Mahlzeiten und Einkaufsliste
+## 6.10 Diättaugliche Mahlzeiten und Einkaufsliste
 
 Eine diättaugliche Mahlzeit braucht meistens vier Bausteine: klare Proteinquelle, viel Gemüse oder Obst, sättigende Kohlenhydrate in kontrollierter Menge und eine Fettquelle, die nicht unbemerkt eskaliert. Das ist kein Spezialessen, sondern normale Ernährung mit besserer Dosierung.
 
@@ -83,7 +95,7 @@ Eine diättaugliche Mahlzeit braucht meistens vier Bausteine: klare Proteinquell
 
 Die Liste ist bewusst einfach. Sie soll Einkauf und Wiederholung erleichtern, nicht jede Mahlzeit optimieren. Wer regelmäßig dieselben 5-8 Mahlzeiten in akzeptabler Qualität isst, hat oft mehr Kontrolle als jemand, der jeden Tag eine neue perfekte Diätrezeptur sucht.
 
-## 6.10 Kontrolle und Anpassung
+## 6.11 Kontrolle und Anpassung
 
 Eine Diät wird über Trends gesteuert: 7-Tage-Gewichtsschnitt, Taillenumfang, Training, Schritte, Hunger, Schlaf und Stimmung. Der Messstandard steht in [04 Tracking und Messung](04-tracking.md). Stagnation wird erst nach 2-3 Wochen Trend bewertet, nicht nach einem salzigen Abendessen. Wenn Gewicht und Taille nicht fallen, zuerst Trackingfehler, Wochenende, Getränke, Snacks und Portionsgrößen prüfen. Danach entweder 100-200 kcal senken oder Schritte leicht erhöhen.
 
