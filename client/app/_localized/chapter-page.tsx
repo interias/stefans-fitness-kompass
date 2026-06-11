@@ -35,14 +35,15 @@ export async function LocalizedChapterPage({ locale, slug }: LocalizedChapterPag
   return (
     <AppShell locale={locale}>
       <main className="bg-fk-bg">
-        <div className="mx-auto grid max-w-[1440px] px-4 md:px-10 min-[1200px]:grid-cols-[248px_minmax(0,1fr)_232px]">
+        <div className="mx-auto grid max-w-[1440px] px-4 md:px-10 min-[1200px]:grid-cols-[248px_minmax(0,720px)_232px] min-[1200px]:justify-center">
           <aside className="hidden border-r border-fk-line py-7 pr-4 min-[1200px]:block">
             <div className="sticky top-[88px] max-h-[calc(100svh-7rem)] overflow-y-auto">
               <ChapterNav activeSlug={slug} chapters={chapters} locale={locale} />
             </div>
           </aside>
 
-          <article className="min-w-0 py-7 min-[1200px]:px-12">
+          <article className="min-w-0 py-7 min-[1200px]:px-8">
+            <div className="mx-auto max-w-[72ch]">
             <nav
               className="mb-5 flex flex-wrap items-center gap-1.5 text-[13.5px] text-fk-ink-faint"
               aria-label="Breadcrumb"
@@ -81,7 +82,7 @@ export async function LocalizedChapterPage({ locale, slug }: LocalizedChapterPag
               </details>
             ) : null}
 
-            <div className="max-w-[72ch]">
+            <div>
               <p className="fk-kicker">
                 {dictionary.chapterKicker(chapter.number)} · {title}
               </p>
@@ -124,6 +125,7 @@ export async function LocalizedChapterPage({ locale, slug }: LocalizedChapterPag
                 </Link>
               ) : null}
             </nav>
+            </div>
           </article>
 
           <aside className="hidden py-7 pl-2 min-[1200px]:block">
