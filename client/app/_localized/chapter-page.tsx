@@ -35,7 +35,7 @@ export async function LocalizedChapterPage({ locale, slug }: LocalizedChapterPag
   return (
     <AppShell locale={locale}>
       <main className="bg-fk-bg">
-        <div className="mx-auto grid max-w-[1440px] px-4 md:px-10 min-[1200px]:grid-cols-[248px_minmax(0,720px)_232px] min-[1200px]:justify-center">
+        <div className="mx-auto grid max-w-[1600px] px-4 md:px-10 min-[1200px]:grid-cols-[248px_minmax(0,1040px)_232px] min-[1200px]:justify-center">
           <aside className="hidden border-r border-fk-line py-7 pr-4 min-[1200px]:block">
             <div className="sticky top-[88px] max-h-[calc(100svh-7rem)] overflow-y-auto">
               <ChapterNav activeSlug={slug} chapters={chapters} locale={locale} />
@@ -43,9 +43,9 @@ export async function LocalizedChapterPage({ locale, slug }: LocalizedChapterPag
           </aside>
 
           <article className="min-w-0 py-7 min-[1200px]:px-8">
-            <div className="mx-auto max-w-[72ch]">
+            <div className="mx-auto max-w-[1040px]">
             <nav
-              className="mb-5 flex flex-wrap items-center gap-1.5 text-[13.5px] text-fk-ink-faint"
+              className="fk-reading mb-5 flex flex-wrap items-center gap-1.5 text-[13.5px] text-fk-ink-faint"
               aria-label="Breadcrumb"
             >
               <Link className="transition-colors duration-150 hover:text-fk-teal-dark" href={localizePath(locale, "/")}>
@@ -66,7 +66,7 @@ export async function LocalizedChapterPage({ locale, slug }: LocalizedChapterPag
             ) : null}
 
             {chapter.headings.length > 0 ? (
-              <details className="mb-6 rounded-[10px] border border-fk-line bg-white px-4 py-3 min-[1200px]:hidden">
+              <details className="fk-reading mb-6 rounded-[10px] border border-fk-line bg-white px-4 py-3 min-[1200px]:hidden">
                 <summary className="cursor-pointer font-fk-mono text-[11px] font-medium uppercase tracking-[0.08em] text-fk-ink-faint">
                   {dictionary.onThisPage}
                 </summary>
@@ -83,10 +83,10 @@ export async function LocalizedChapterPage({ locale, slug }: LocalizedChapterPag
             ) : null}
 
             <div>
-              <p className="fk-kicker">
+              <p className="fk-kicker fk-reading">
                 {dictionary.chapterKicker(chapter.number)} · {title}
               </p>
-              <h1 className="mb-6 mt-2 font-fk-serif text-[34px] font-semibold leading-[1.2] text-fk-teal-dark">
+              <h1 className="fk-reading mb-6 mt-2 font-fk-serif text-[34px] font-semibold leading-[1.2] text-fk-teal-dark">
                 {title}
               </h1>
               <div className="prose-kompass" dangerouslySetInnerHTML={{ __html: html }} />
@@ -96,7 +96,7 @@ export async function LocalizedChapterPage({ locale, slug }: LocalizedChapterPag
             </Suspense>
 
             <nav
-              className="mt-10 grid gap-3 border-t border-fk-line pt-6 sm:grid-cols-2"
+              className="fk-reading mt-10 grid gap-3 border-t border-fk-line pt-6 sm:grid-cols-2"
               aria-label={`${dictionary.previousChapter} / ${dictionary.nextChapter}`}
             >
               {context.previous ? (
