@@ -25,12 +25,12 @@
 
   /* Layout */
   /* Lesemaß der Kapitel-Textspalte: angenehme Zeilenlänge für Fließtext.
-   * ~38rem (~608px) entsprechen rund 70–75 Zeichen pro Zeile und liegen damit
-   * nahe der oberen Grenze guter Lesbarkeit (WCAG ≤ 80 CPL). Als rem-Wert (statt
-   * ch) gilt das Maß schriftgrößenunabhängig für alle Blöcke, sodass Breadcrumb,
-   * Kicker, H1 und Fließtext exakt bündig sind. Tabellen und Bilder brechen
-   * darüber hinaus auf die volle Spaltenbreite aus. */
-  --fk-measure: 38rem;
+   * ~50rem (~800px) sind deutlich breiter als eine klassische Buchspalte, aber
+   * weiterhin gedeckelt, damit die Zeilen nicht über die gesamte Spaltenbreite
+   * laufen. Als rem-Wert (statt ch) gilt das Maß schriftgrößenunabhängig für
+   * alle Blöcke, sodass Breadcrumb, Kicker, H1 und Fließtext exakt bündig sind.
+   * Tabellen und Bilder brechen darüber hinaus auf die volle Spaltenbreite aus. */
+  --fk-measure: 50rem;
 
   /* Schrift */
   --fk-sans: var(--font-source-sans), "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -179,6 +179,19 @@ img {
 .prose-kompass ol,
 .prose-kompass table {
   margin: 1rem 0;
+}
+
+/* Blocksatz für Fließtext: gleichmäßiger rechter Rand, dazu automatische
+ * Silbentrennung (nutzt das lang-Attribut), damit keine großen Wortlücken
+ * entstehen. Nur Absätze und Listenpunkte – Überschriften, Tabellenzellen und
+ * Code bleiben linksbündig. */
+.prose-kompass p,
+.prose-kompass li {
+  text-align: justify;
+  text-justify: inter-word;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  hyphenate-limit-chars: 6 3 3;
 }
 
 .prose-kompass ul,

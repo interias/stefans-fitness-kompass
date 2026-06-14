@@ -3,7 +3,7 @@ import type { ReactNode } from "react";
 import { HtmlLang } from "@/components/html-lang";
 import { SiteHeader } from "@/components/site-header";
 import { getAllChapters } from "@/lib/content";
-import { getDictionary, type Locale, localizePath } from "@/lib/i18n";
+import { getDictionary, type Locale, localeLabels, localizePath } from "@/lib/i18n";
 
 type AppShellProps = {
   children: ReactNode;
@@ -15,7 +15,7 @@ export function AppShell({ children, locale }: AppShellProps) {
   const dictionary = getDictionary(locale);
 
   return (
-    <>
+    <div lang={localeLabels[locale].htmlLang}>
       <HtmlLang locale={locale} />
       <SiteHeader chapters={chapters} locale={locale} />
       {children}
@@ -44,6 +44,6 @@ export function AppShell({ children, locale }: AppShellProps) {
           </a>
         </div>
       </footer>
-    </>
+    </div>
   );
 }
