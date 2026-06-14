@@ -23,6 +23,15 @@
   --fk-dash: #c9d4cd;
   --fk-card-shadow: 0 1px 3px rgba(28, 25, 23, 0.06);
 
+  /* Layout */
+  /* Lesemaß der Kapitel-Textspalte: angenehme Zeilenlänge für Fließtext.
+   * ~38rem (~608px) entsprechen rund 70–75 Zeichen pro Zeile und liegen damit
+   * nahe der oberen Grenze guter Lesbarkeit (WCAG ≤ 80 CPL). Als rem-Wert (statt
+   * ch) gilt das Maß schriftgrößenunabhängig für alle Blöcke, sodass Breadcrumb,
+   * Kicker, H1 und Fließtext exakt bündig sind. Tabellen und Bilder brechen
+   * darüber hinaus auf die volle Spaltenbreite aus. */
+  --fk-measure: 38rem;
+
   /* Schrift */
   --fk-sans: var(--font-source-sans), "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
   --fk-serif: var(--font-source-serif), "Source Serif 4", Georgia, serif;
@@ -95,6 +104,13 @@ img {
  * Lesespalte / Markdown-Inhalt
  * ------------------------------------------------------------------------ */
 
+/* Chrome der Kapitelseite (Breadcrumb, Kicker, H1, Kapitel-Navigation) auf
+ * das Lesemaß begrenzen, damit es bündig mit dem Fließtext ausgerichtet ist. */
+.fk-reading {
+  margin-inline: auto;
+  max-width: var(--fk-measure);
+}
+
 .prose-kompass {
   color: var(--fk-ink);
   font-size: 16.5px;
@@ -104,6 +120,19 @@ img {
 
 .prose-kompass > *:first-child {
   margin-top: 0;
+}
+
+/* Fließtext-Blöcke auf das Lesemaß begrenzen und mittig in der breiteren
+ * Inhaltsspalte halten; Tabellen und Bilder dürfen auf die volle Spaltenbreite
+ * ausbrechen, damit breite Tabellen auf großen Bildschirmen Platz haben. */
+.prose-kompass > * {
+  margin-inline: auto;
+  max-width: var(--fk-measure);
+}
+
+.prose-kompass > table,
+.prose-kompass > p:has(> img) {
+  max-width: 100%;
 }
 
 .prose-kompass h1,
