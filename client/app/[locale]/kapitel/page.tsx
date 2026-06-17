@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { LocalizedChaptersPage } from "@/app/_localized/chapters-page";
-import { getDictionary, isLocale, locales, type Locale } from "@/lib/i18n";
+import { isLocale, prefixedLocales, type Locale } from "@/lib/i18n";
+import { chaptersMetadata } from "@/lib/seo";
 
 type PageProps = {
   params: Promise<{
@@ -12,7 +13,7 @@ type PageProps = {
 export const dynamicParams = false;
 
 export function generateStaticParams() {
-  return locales.map((locale) => ({ locale }));
+  return prefixedLocales.map((locale) => ({ locale }));
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
@@ -22,12 +23,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     return {};
   }
 
-  const dictionary = getDictionary(locale);
-
-  return {
-    title: dictionary.chapters,
-    description: dictionary.chaptersDescription,
-  };
+  return chaptersMetadata(locale);
 }
 
 export default async function LocaleChaptersPage({ params }: PageProps) {

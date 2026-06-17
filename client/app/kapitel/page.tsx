@@ -1,9 +1,10 @@
+import type { Metadata } from "next";
 import { LocalizedChaptersPage } from "@/app/_localized/chapters-page";
+import { chaptersMetadata } from "@/lib/seo";
 
-export const metadata = {
-  title: "Kapitel",
-  description: "Alle Kapitel des Fitness-Kompasses.",
-};
+export function generateMetadata(): Metadata {
+  return chaptersMetadata("de");
+}
 
 export default function ChaptersPage() {
   return <LocalizedChaptersPage locale="de" />;

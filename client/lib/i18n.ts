@@ -4,6 +4,13 @@ export type Locale = (typeof locales)[number];
 
 export const defaultLocale: Locale = "de";
 
+/**
+ * Sprachen mit URL-Präfix (/en, /zh). Die Standardsprache (de) wird unter den
+ * unpräfigierten Routen ausgeliefert; sie hier auszunehmen verhindert, dass
+ * /de/* als Duplikat der unpräfigierten Seiten erzeugt wird.
+ */
+export const prefixedLocales = locales.filter((locale) => locale !== defaultLocale);
+
 export type ChapterGroupKey =
   | "orientierung"
   | "alltag"

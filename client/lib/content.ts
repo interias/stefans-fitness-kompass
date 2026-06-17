@@ -1,3 +1,4 @@
+import { execFileSync } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
 import GithubSlugger from "github-slugger";
@@ -367,4 +368,79 @@ export function getChapterContext(slug: string, locale: Locale = defaultLocale):
     previous: index > 0 ? chapters[index - 1] : undefined,
     next: index >= 0 && index < chapters.length - 1 ? chapters[index + 1] : undefined,
   };
+}
+
+/* ---------------------------------------------------------------------------
+ * Letzte Änderung (für sitemap lastmod und JSON-LD dateModified)
+ *
+ * Bevorzugt das Git-Commit-Datum der Quelldatei (inhaltlich aussagekräftig);
+ * fällt auf die Datei-mtime und schließlich auf "jetzt" zurück, falls Git im
+ * Build nicht verfügbar ist. Ergebnisse werden je Pfad gecacht.
+ * ------------------------------------------------------------------------ */
+
+const lastModifiedCache = new Map<string, Date>();
+
+function lastModifiedForFile(absolutePath: string): Date {
+  const cached = lastModifiedCache.get(absolutePath);
+  if (cached) {
+    return cached;
+  }
+
+  let result: Date | undefined;
+
+  try {
+    const iso = execFileSync("git", ["log", "-1", "--format=%cI", "--", absolutePath], {
+      cwd: repositoryRoot,
+      stdio: ["ignore", "pipe", "ignore"],
+    })
+      .toString()
+      .trim();
+
+    if (iso) {
+      const parsed = new Date(iso);
+      if (!Number.isNaN(parsed.getTime())) {
+        result = parsed;
+      }
+    }
+  } catch {
+    // Git nicht verfügbar – Fallback unten.
+  }
+
+  if (!result) {
+    try {
+      result = fs.statSync(absolutePath).mtime;
+    } catch {
+      result = new Date();
+    }
+  }
+
+  lastModifiedCache.set(absolutePath, result);
+  return result;
+}
+
+function getChapterSourcePath(slug: string, locale: Locale) {
+  return path.join(getContentDirectory(locale), `${slug}.md`);
+}
+
+function getDisclaimerSourcePath(locale: Locale) {
+  return locale === defaultLocale
+    ? path.join(repositoryRoot, "DISCLAIMER.md")
+    : path.join(getContentDirectory(locale), "DISCLAIMER.md");
+}
+
+export function getChapterLastModified(slug: string, locale: Locale = defaultLocale): Date {
+  return lastModifiedForFile(getChapterSourcePath(slug, locale));
+}
+
+export function getDisclaimerLastModified(locale: Locale = defaultLocale): Date {
+  return lastModifiedForFile(getDisclaimerSourcePath(locale));
+}
+
+/** Neueste Änderung über alle Kapitel – für Startseite und Kapitelübersicht. */
+export function getNewestChapterLastModified(locale: Locale = defaultLocale): Date {
+  const dates = getChapterFileNames(locale).map((fileName) =>
+    lastModifiedForFile(path.join(getContentDirectory(locale), fileName)),
+  );
+
+  return dates.reduce((newest, current) => (current > newest ? current : newest), new Date(0));
 }

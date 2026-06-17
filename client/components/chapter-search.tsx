@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import type { ReactNode } from "react";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { ArrowRight, Search } from "lucide-react";
 import type { ChapterMeta, SearchEntry } from "@/lib/content";
 import { getDictionary, type Locale, localizePath } from "@/lib/i18n";
@@ -235,6 +235,20 @@ function scoreEntry(entry: SearchEntry, normalizedQuery: string, terms: string[]
 
 export function ChapterSearch({ chapters, locale, searchEntries, variant = "page" }: ChapterSearchProps) {
   const [query, setQuery] = useState("");
+
+  // Macht die Suche per URL adressierbar (z. B. /?q=protein#suche) und stützt so
+  // die SearchAction der WebSite-Structured-Data. Bewusst im Effect (nach dem
+  // Mount), damit der statisch vorgerenderte HTML-Stand unberührt bleibt und
+  // keine Hydration-Diskrepanz entsteht; window ist nur clientseitig verfügbar.
+  useEffect(() => {
+    const initialQuery = new URLSearchParams(window.location.search).get("q");
+
+    if (initialQuery) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect -- einmalige Initialisierung aus der URL nach dem Mount
+      setQuery(initialQuery);
+    }
+  }, []);
+
   const dictionary = getDictionary(locale);
   const reasonLabels: Record<SearchReason, string> = {
     Abschnitt: dictionary.search.reasonHeading,
