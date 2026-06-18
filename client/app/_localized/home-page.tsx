@@ -13,9 +13,11 @@ import {
 } from "lucide-react";
 import { AppShell } from "@/components/app-shell";
 import { ChapterSearch } from "@/components/chapter-search";
+import { JsonLd } from "@/components/json-ld";
 import { chapterDisplayTitle, groupChapters } from "@/lib/chapter-groups";
 import { getAllChapters, getSearchEntries } from "@/lib/content";
 import { getDictionary, type Locale, localizePath } from "@/lib/i18n";
+import { websiteJsonLd } from "@/lib/seo";
 
 const startIcons: Record<"strength" | "protein" | "trend" | "sleep", LucideIcon> = {
   protein: CircleDot,
@@ -45,6 +47,7 @@ export function LocalizedHomePage({ locale }: HomePageProps) {
 
   return (
     <AppShell locale={locale}>
+      <JsonLd data={websiteJsonLd(locale)} />
       <main>
         {/* 1. Full-Bleed-Banner mit Overlay-Headline im leeren Kartenraum rechts */}
         <section className="relative hidden md:block">

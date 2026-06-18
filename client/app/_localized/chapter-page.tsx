@@ -4,12 +4,14 @@ import { notFound } from "next/navigation";
 import { ChevronRight } from "lucide-react";
 import { AppShell } from "@/components/app-shell";
 import { ChapterNav } from "@/components/chapter-nav";
+import { JsonLd } from "@/components/json-ld";
 import { SearchHighlighter } from "@/components/search-highlighter";
 import { TableOfContents } from "@/components/table-of-contents";
 import { chapterDisplayTitle, getGroupKeyForNumber } from "@/lib/chapter-groups";
-import { getAllChapters, getChapter, getChapterContext } from "@/lib/content";
+import { getAllChapters, getChapter, getChapterContext, getChapterLastModified } from "@/lib/content";
 import { getDictionary, type Locale, localizePath } from "@/lib/i18n";
 import { renderMarkdown } from "@/lib/markdown";
+import { chapterArticleJsonLd, chapterBreadcrumbJsonLd } from "@/lib/seo";
 
 type LocalizedChapterPageProps = {
   locale: Locale;
@@ -31,9 +33,15 @@ export async function LocalizedChapterPage({ locale, slug }: LocalizedChapterPag
   const dictionary = getDictionary(locale);
   const groupLabel = dictionary.groups[getGroupKeyForNumber(chapter.number)];
   const title = chapterDisplayTitle(chapter);
+  const lastModifiedIso = getChapterLastModified(slug, locale).toISOString();
+  const structuredData = [
+    chapterArticleJsonLd(locale, { slug, title, summary: chapter.summary }, lastModifiedIso),
+    chapterBreadcrumbJsonLd(locale, { slug, title }, groupLabel),
+  ];
 
   return (
     <AppShell locale={locale}>
+      <JsonLd data={structuredData} />
       <main className="bg-fk-bg">
         <div className="mx-auto grid max-w-[1600px] px-4 md:px-10 min-[1200px]:grid-cols-[248px_minmax(0,1040px)_232px] min-[1200px]:justify-center">
           <aside className="hidden border-r border-fk-line py-7 pr-4 min-[1200px]:block">

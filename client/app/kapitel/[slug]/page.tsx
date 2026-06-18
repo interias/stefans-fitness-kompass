@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { LocalizedChapterPage } from "@/app/_localized/chapter-page";
 import { getAllChapters, getChapter } from "@/lib/content";
+import { chapterMetadata } from "@/lib/seo";
 
 type PageProps = {
   params: Promise<{
@@ -24,10 +25,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     return {};
   }
 
-  return {
-    title: chapter.title,
-    description: chapter.summary,
-  };
+  return chapterMetadata("de", chapter);
 }
 
 export default async function ChapterPage({ params }: PageProps) {
