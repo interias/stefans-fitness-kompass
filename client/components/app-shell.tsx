@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { ReactNode } from "react";
 import { HtmlLang } from "@/components/html-lang";
 import { SiteHeader } from "@/components/site-header";
+import { SupportBar } from "@/components/support-bar";
 import { getAllChapters } from "@/lib/content";
 import { getDictionary, type Locale, localeLabels, localizePath } from "@/lib/i18n";
 
@@ -17,6 +18,7 @@ export function AppShell({ children, locale }: AppShellProps) {
   return (
     <div lang={localeLabels[locale].htmlLang}>
       <HtmlLang locale={locale} />
+      <SupportBar locale={locale} />
       <SiteHeader chapters={chapters} locale={locale} />
       {children}
       <footer className="border-t border-fk-line">
