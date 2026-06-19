@@ -118,6 +118,11 @@ export type Dictionary = {
   siteDescription: string;
   siteSubtitle: string;
   siteTitle: string;
+  support: {
+    cta: string;
+    dismiss: string;
+    message: string;
+  };
 };
 
 const dictionaries: Record<Locale, Dictionary> = {
@@ -221,6 +226,12 @@ const dictionaries: Record<Locale, Dictionary> = {
       "Ein deutschsprachiger Fitness-Kompass zu Ernährung, Training, Gesundheit, Alltag und Quellenbewertung.",
     siteSubtitle: "Evidenzbasiertes Nachschlagewerk",
     siteTitle: "Stefans Fitness-Kompass",
+    support: {
+      cta: "Unterstützen",
+      dismiss: "Hinweis schließen",
+      message:
+        "Kostenlos & werbefrei – wenn dir der Kompass hilft, spendier mir einen Proteinkaffee 😉. Deine Spende deckt Hosting, KI-Tools und die Weiterentwicklung.",
+    },
   },
   en: {
     breadcrumbHome: "Compass",
@@ -322,6 +333,12 @@ const dictionaries: Record<Locale, Dictionary> = {
       "A fitness compass for nutrition, training, health, daily life, and source evaluation.",
     siteSubtitle: "Evidence-based reference",
     siteTitle: "Stefan's Fitness Compass",
+    support: {
+      cta: "Support",
+      dismiss: "Dismiss",
+      message:
+        "Free & ad-free – if the compass helps you, buy me a protein coffee 😉. Your tip covers hosting, AI tools and ongoing development.",
+    },
   },
   zh: {
     breadcrumbHome: "指南",
@@ -421,6 +438,11 @@ const dictionaries: Record<Locale, Dictionary> = {
     siteDescription: "关于营养、训练、健康、日常生活和来源评估的健身指南。",
     siteSubtitle: "循证参考手册",
     siteTitle: "Stefan 健身指南",
+    support: {
+      cta: "支持一下",
+      dismiss: "关闭",
+      message: "免费、无广告——如果这份指南对你有帮助，请我喝杯蛋白咖啡 😉。你的支持用于托管、AI 工具和持续开发。",
+    },
   },
 };
 

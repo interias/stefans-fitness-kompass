@@ -19,6 +19,9 @@ export const authorName = "Stefan";
 /** Projekt-Repository, u. a. als `sameAs` in JSON-LD. */
 export const githubUrl = "https://github.com/interias/stefans-fitness-kompass";
 
+/** Spenden-/Unterstützungs-Link (PayPal.me). */
+export const paypalUrl = "https://paypal.me/stefanboerzel";
+
 /** CC0-Lizenz-URL für JSON-LD. */
 export const licenseUrl = "https://creativecommons.org/publicdomain/zero/1.0/";
 

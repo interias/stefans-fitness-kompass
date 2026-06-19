@@ -18,6 +18,7 @@ Ein freier, persönlicher Fitness-Kompass zu Ernährung, Training, Gesundheit, A
 - [Web-App lokal testen](#web-app-lokal-testen)
 - [Kapitel](#kapitel)
 - [Projektregeln](#projektregeln)
+- [Unterstützen](#unterstützen)
 - [Lizenz](#lizenz)
 
 ## Worum es geht
@@ -98,6 +99,21 @@ pnpm build
 ## Projektregeln
 
 Redaktionelle Regeln stehen im [Styleguide](STYLEGUIDE.md), die wiederholbare Prüfung im [Review-Check](REVIEW_CHECKLIST.md). Der kurze medizinische und rechtliche Hinweis steht zusätzlich im [Disclaimer](DISCLAIMER.md).
+
+## Unterstützen
+
+Der Fitness-Kompass ist kostenlos, werbefrei und steht unter CC0. Wenn er dir hilft und du die Arbeit unterstützen möchtest, freue ich mich über einen Kaffee:
+
+☕ **[paypal.me/stefanboerzel](https://paypal.me/stefanboerzel)**
+
+Die Mittel fließen konkret in:
+
+- **Hosting & Domain** (Cloudflare Workers, ggf. eigene Domain)
+- **KI-Coding-Tools** (z. B. Claude) für Pflege und Weiterentwicklung
+- **Bild- und Grafik-Generierung** für Banner und Kapitel-Visuals
+- **Recherche und Aktualisierung** der Inhalte und Quellen
+
+… und den einen oder anderen Proteinkaffee. 😉
 
 ## Lizenz
 
